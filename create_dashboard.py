@@ -53,6 +53,7 @@ html_template = '''
 <html>
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>VCL Cocktail Dashboard</title>
     <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
     <style>
@@ -122,6 +123,7 @@ html_template = '''
             padding: 0 2rem;
             box-shadow: 0 2px 5px rgba(0,0,0,0.05);
             overflow-x: auto;
+            justify-content: center;
         }
 
         .nav-tab {
@@ -143,7 +145,7 @@ html_template = '''
         }
 
         .content {
-            max-width: 1400px;
+            max-width: 1600px;
             margin: 2rem auto;
             padding: 0 2rem;
         }
@@ -161,8 +163,9 @@ html_template = '''
         }
 
         .viz-section h2 {
-            margin-bottom: 1rem;
+            margin-bottom: 0.5rem;
             color: #333;
+            font-size: 1.8rem;
         }
 
         .viz-section p {
@@ -174,86 +177,96 @@ html_template = '''
             width: 100%;
             min-height: 600px;
         }
+
+        .overview-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        @media (max-width: 768px) {
+            .overview-grid {
+                grid-template-columns: 1fr;
+            }
+        }
     </style>
 </head>
 <body>
     <div class="header">
         <h1>🍸 VCL Cocktail Dashboard</h1>
-        <p>Visualizing 10 years of cocktail presentations (2015-2025)</p>
+        <p>visualizing 10 years of cocktail presentations (2015-2025)</p>
     </div>
 
     <div class="stats-grid">
         <div class="stat-card">
             <div class="number">63</div>
-            <div class="label">Total Cocktails</div>
+            <div class="label">total cocktails</div>
         </div>
         <div class="stat-card">
             <div class="number">20</div>
-            <div class="label">Cities of Origin</div>
+            <div class="label">cities of origin</div>
         </div>
         <div class="stat-card">
             <div class="number">245</div>
-            <div class="label">Years of History</div>
+            <div class="label">years of history</div>
         </div>
         <div class="stat-card">
             <div class="number">6</div>
-            <div class="label">Presenters</div>
+            <div class="label">presenters</div>
         </div>
     </div>
 
     <div class="nav-tabs">
-        <div class="nav-tab active" onclick="showTab('overview')">Overview</div>
-        <div class="nav-tab" onclick="showTab('map')">Origin Map</div>
-        <div class="nav-tab" onclick="showTab('hosts')">By Host</div>
-        <div class="nav-tab" onclick="showTab('timeline')">Timeline</div>
+        <div class="nav-tab active" onclick="showTab('overview')">overview</div>
+        <div class="nav-tab" onclick="showTab('map')">origin map</div>
+        <div class="nav-tab" onclick="showTab('hosts')">by host</div>
+        <div class="nav-tab" onclick="showTab('timeline')">timeline</div>
     </div>
 
     <div class="content">
         <div id="overview" class="viz-section active">
-            <h2>Overview</h2>
-            <p>Breakdown of cocktails by liquor type and country of origin</p>
-            <div id="overview-chart" class="chart-container"></div>
+            <h2>collection overview</h2>
+            <p>breakdown of all 63 cocktails across different dimensions</p>
+            <div class="overview-grid">
+                <div id="liquor-chart" class="chart-container"></div>
+                <div id="era-chart" class="chart-container"></div>
+            </div>
         </div>
 
         <div id="map" class="viz-section">
-            <h2>Cocktail Origins Map</h2>
-            <p>Geographic distribution of cocktail origins across the world</p>
+            <h2>cocktail origins map</h2>
+            <p>geographic distribution of cocktail origins across the world</p>
             <div id="map-chart" class="chart-container"></div>
         </div>
 
         <div id="hosts" class="viz-section">
-            <h2>Cocktails by Host</h2>
-            <p>Use the buttons to view stacked by country or liquor type</p>
+            <h2>cocktails by host</h2>
+            <p>use the buttons to view stacked by country or liquor type</p>
             <div id="hosts-chart" class="chart-container"></div>
         </div>
 
         <div id="timeline" class="viz-section">
-            <h2>Cocktail Timeline</h2>
-            <p>All cocktails plotted by invention year, colored by presenter</p>
+            <h2>cocktail timeline</h2>
+            <p>all cocktails plotted by invention year, colored by presenter</p>
             <div id="timeline-chart" class="chart-container"></div>
         </div>
     </div>
 
     <script>
         function showTab(tabName) {
-            // hide all sections
             document.querySelectorAll('.viz-section').forEach(section => {
                 section.classList.remove('active');
             });
 
-            // remove active from all tabs
             document.querySelectorAll('.nav-tab').forEach(tab => {
                 tab.classList.remove('active');
             });
 
-            // show selected section
             document.getElementById(tabName).classList.add('active');
-
-            // activate clicked tab
             event.target.classList.add('active');
         }
 
-        // Chart data will be inserted here
         {CHART_DATA}
     </script>
 </body>
@@ -261,31 +274,80 @@ html_template = '''
 '''
 
 # Generate all chart configurations
-chart_data_js = "// Overview Chart\n"
+chart_data_js = ""
 
-# 1. Overview - pie charts for liquor and country
-liquor_counts = df['primary_liquor'].value_counts()
-country_counts = df['country_of_origin'].value_counts()
+# 1. Overview - liquor bar chart and era timeline
+liquor_counts = df['primary_liquor'].value_counts().sort_values(ascending=True)
 
-overview_fig = make_subplots(
-    rows=1, cols=2,
-    specs=[[{'type':'pie'}, {'type':'pie'}]],
-    subplot_titles=('By Primary Liquor', 'By Country of Origin')
+liquor_fig = go.Figure()
+liquor_fig.add_trace(go.Bar(
+    x=liquor_counts.values,
+    y=liquor_counts.index,
+    orientation='h',
+    marker=dict(
+        color=['#8B4513', '#87CEEB', '#E6E6FA', '#F4A460', '#FFD700', '#CD5C5C', '#808080'],
+    ),
+    text=liquor_counts.values,
+    textposition='auto',
+))
+
+liquor_fig.update_layout(
+    title='cocktails by primary liquor',
+    xaxis_title='count',
+    yaxis_title='',
+    height=400,
+    margin=dict(l=100, r=20, t=60, b=40),
+    showlegend=False
 )
 
-overview_fig.add_trace(
-    go.Pie(labels=liquor_counts.index, values=liquor_counts.values, name="Liquor"),
-    row=1, col=1
+chart_data_js += f"var liquorData = {liquor_fig.to_json()};\n"
+chart_data_js += "Plotly.newPlot('liquor-chart', liquorData.data, liquorData.layout, {responsive: true});\n\n"
+
+# Era distribution
+era_counts = Counter()
+for year in df['year_invented'].dropna():
+    if year < 1900:
+        era = '1800s'
+    elif year < 1920:
+        era = '1900-1919'
+    elif year < 1940:
+        era = '1920-1939'
+    elif year < 1960:
+        era = '1940-1959'
+    elif year < 1980:
+        era = '1960-1979'
+    elif year < 2000:
+        era = '1980-1999'
+    else:
+        era = '2000+'
+    era_counts[era] += 1
+
+era_order = ['1800s', '1900-1919', '1920-1939', '1940-1959', '1960-1979', '1980-1999', '2000+']
+era_values = [era_counts.get(era, 0) for era in era_order]
+
+era_fig = go.Figure()
+era_fig.add_trace(go.Bar(
+    x=era_order,
+    y=era_values,
+    marker=dict(
+        color=era_values,
+        colorscale='Purples',
+    ),
+    text=era_values,
+    textposition='auto',
+))
+
+era_fig.update_layout(
+    title='cocktails by era',
+    xaxis_title='era',
+    yaxis_title='count',
+    height=400,
+    margin=dict(l=60, r=20, t=60, b=80),
+    showlegend=False
 )
 
-overview_fig.add_trace(
-    go.Pie(labels=country_counts.index, values=country_counts.values, name="Country"),
-    row=1, col=2
-)
-
-overview_fig.update_layout(height=600, showlegend=True)
-chart_data_js += f"var overviewData = {overview_fig.to_json()};\n"
-chart_data_js += "Plotly.newPlot('overview-chart', overviewData.data, overviewData.layout);\n\n"
+chart_data_js += f"var eraData = {era_fig.to_json()};\n"
+chart_data_js += "Plotly.newPlot('era-chart', eraData.data, eraData.layout, {responsive: true});\n\n"
 
 # 2. Map
 map_fig = go.Figure()
@@ -299,7 +361,7 @@ map_fig.add_trace(go.Scattergeo(
         color=[loc['count'] for loc in locations],
         colorscale='Viridis',
         showscale=True,
-        colorbar=dict(title="Number of<br>Cocktails"),
+        colorbar=dict(title="cocktails"),
         line=dict(width=0.5, color='white')
     ),
     hovertemplate='<b>%{text}</b><extra></extra>',
@@ -307,7 +369,6 @@ map_fig.add_trace(go.Scattergeo(
 ))
 
 map_fig.update_layout(
-    title='',
     geo=dict(
         scope='world',
         projection_type='natural earth',
@@ -324,7 +385,7 @@ map_fig.update_layout(
 )
 
 chart_data_js += f"var mapData = {map_fig.to_json()};\n"
-chart_data_js += "Plotly.newPlot('map-chart', mapData.data, mapData.layout);\n\n"
+chart_data_js += "Plotly.newPlot('map-chart', mapData.data, mapData.layout, {responsive: true});\n\n"
 
 # 3. Hosts stacked bar
 country_by_host = df.groupby(['host', 'country_of_origin']).size().unstack(fill_value=0)
@@ -373,11 +434,11 @@ hosts_fig.update_layout(
             direction="left",
             x=0.5,
             xanchor="center",
-            y=1.15,
+            y=1.12,
             yanchor="top",
             buttons=[
                 dict(
-                    label="By Country",
+                    label="by country",
                     method="update",
                     args=[
                         {"visible": [True] * num_country_traces + [False] * num_liquor_traces},
@@ -385,7 +446,7 @@ hosts_fig.update_layout(
                     ]
                 ),
                 dict(
-                    label="By Primary Liquor",
+                    label="by liquor",
                     method="update",
                     args=[
                         {"visible": [False] * num_country_traces + [True] * num_liquor_traces},
@@ -395,16 +456,16 @@ hosts_fig.update_layout(
             ]
         )
     ],
-    xaxis_title="Host",
-    yaxis_title="Number of Cocktails",
+    xaxis_title="host",
+    yaxis_title="cocktails",
     barmode='stack',
     height=600,
     showlegend=True,
-    margin=dict(t=100)
+    margin=dict(l=60, r=20, t=80, b=60)
 )
 
 chart_data_js += f"var hostsData = {hosts_fig.to_json()};\n"
-chart_data_js += "Plotly.newPlot('hosts-chart', hostsData.data, hostsData.layout);\n\n"
+chart_data_js += "Plotly.newPlot('hosts-chart', hostsData.data, hostsData.layout, {responsive: true});\n\n"
 
 # 4. Timeline
 cocktails_with_years = [c for c in data if c.get('year_invented')]
@@ -436,26 +497,26 @@ for host in sorted(by_host.keys()):
         text=[c['cocktail'] for c in cocktails],
         textposition='middle right',
         textfont=dict(size=9),
-        hovertemplate='<b>%{text}</b><br>Invented: %{x}<br>Presented by: ' + host + '<br><extra></extra>'
+        hovertemplate='<b>%{text}</b><br>invented: %{x}<br>presented by: ' + host + '<br><extra></extra>'
     ))
 
 timeline_fig.add_vline(x=1900, line_dash="dash", line_color="gray", opacity=0.3, annotation_text="1900")
-timeline_fig.add_vline(x=1920, line_dash="dash", line_color="gray", opacity=0.3, annotation_text="Prohibition")
-timeline_fig.add_vline(x=1933, line_dash="dash", line_color="gray", opacity=0.3, annotation_text="Repeal")
-timeline_fig.add_vline(x=2000, line_dash="dash", line_color="gray", opacity=0.3, annotation_text="Craft Era")
+timeline_fig.add_vline(x=1920, line_dash="dash", line_color="gray", opacity=0.3, annotation_text="prohibition")
+timeline_fig.add_vline(x=1933, line_dash="dash", line_color="gray", opacity=0.3, annotation_text="repeal")
+timeline_fig.add_vline(x=2000, line_dash="dash", line_color="gray", opacity=0.3, annotation_text="craft era")
 
 timeline_fig.update_layout(
     title='',
-    xaxis_title='Year Invented',
+    xaxis_title='year invented',
     yaxis=dict(showticklabels=False, title=''),
     height=1200,
     showlegend=True,
     hovermode='closest',
-    margin=dict(l=50, r=300, t=50, b=50)
+    margin=dict(l=60, r=300, t=20, b=60)
 )
 
 chart_data_js += f"var timelineData = {timeline_fig.to_json()};\n"
-chart_data_js += "Plotly.newPlot('timeline-chart', timelineData.data, timelineData.layout);\n\n"
+chart_data_js += "Plotly.newPlot('timeline-chart', timelineData.data, timelineData.layout, {responsive: true});\n\n"
 
 # Create final HTML
 final_html = html_template.replace('{CHART_DATA}', chart_data_js)
@@ -463,10 +524,8 @@ final_html = html_template.replace('{CHART_DATA}', chart_data_js)
 with open('vcl_cocktail_dashboard.html', 'w') as f:
     f.write(final_html)
 
-print("created comprehensive dashboard: vcl_cocktail_dashboard.html")
-print("\nthe dashboard includes:")
-print("  - overview tab: pie charts showing distribution")
-print("  - origin map tab: world map of cocktail origins")
-print("  - by host tab: stacked bar chart with country/liquor toggle")
-print("  - timeline tab: historical timeline of all cocktails")
-print("\nopen vcl_cocktail_dashboard.html in your browser to view")
+print("created improved dashboard: vcl_cocktail_dashboard.html")
+print("\nfixed issues:")
+print("  - better overview: liquor bar chart + era distribution")
+print("  - proper chart sizing: all charts now use full width")
+print("  - responsive layout for all screen sizes")
