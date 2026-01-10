@@ -7,7 +7,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "New Orleans, Louisiana",
     "primary_liquor": "whiskey",
-    "whiskey_type": "rye"
+    "whiskey_type": "rye",
+    "year_invented": 1838
   },
   {
     "meeting_number": 2,
@@ -17,7 +18,8 @@
     "country_of_origin": "France",
     "city_of_origin": "Paris",
     "primary_liquor": "brandy",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1920
   },
   {
     "meeting_number": 3,
@@ -27,7 +29,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "scotch"
+    "whiskey_type": "scotch",
+    "year_invented": 1937
   },
   {
     "meeting_number": 4,
@@ -37,7 +40,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "Los Angeles, California",
     "primary_liquor": "vodka",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1952
   },
   {
     "meeting_number": 5,
@@ -47,7 +51,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "rum",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1950
   },
   {
     "meeting_number": 6,
@@ -57,7 +62,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "Louisville, Kentucky",
     "primary_liquor": "whiskey",
-    "whiskey_type": "bourbon"
+    "whiskey_type": "bourbon",
+    "year_invented": 1880
   },
   {
     "meeting_number": 7,
@@ -67,7 +73,8 @@
     "country_of_origin": "France",
     "city_of_origin": "Paris",
     "primary_liquor": "brandy",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1930
   },
   {
     "meeting_number": 8,
@@ -77,7 +84,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "bourbon"
+    "whiskey_type": "bourbon",
+    "year_invented": 1870
   },
   {
     "meeting_number": 9,
@@ -87,7 +95,8 @@
     "country_of_origin": "Italy",
     "city_of_origin": "Florence",
     "primary_liquor": "gin",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1919
   },
   {
     "meeting_number": 10,
@@ -97,7 +106,8 @@
     "country_of_origin": "France",
     "city_of_origin": "Paris",
     "primary_liquor": "vodka",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1921
   },
   {
     "meeting_number": 11,
@@ -107,7 +117,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "brandy",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1890
   },
   {
     "meeting_number": 12,
@@ -117,7 +128,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "whiskey"
+    "whiskey_type": "whiskey",
+    "year_invented": 1960
   },
   {
     "meeting_number": 13,
@@ -127,7 +139,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "whiskey"
+    "whiskey_type": "whiskey",
+    "year_invented": 2000
   },
   {
     "meeting_number": 14,
@@ -137,7 +150,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "New York, New York",
     "primary_liquor": "whiskey",
-    "whiskey_type": "rye"
+    "whiskey_type": "rye",
+    "year_invented": 1874
   },
   {
     "meeting_number": 15,
@@ -147,7 +161,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "New Orleans, Louisiana",
     "primary_liquor": "whiskey",
-    "whiskey_type": "rye"
+    "whiskey_type": "rye",
+    "year_invented": 1938
   },
   {
     "meeting_number": 16,
@@ -157,7 +172,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "vodka",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1950
   },
   {
     "meeting_number": 17,
@@ -167,7 +183,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "whiskey"
+    "whiskey_type": "whiskey",
+    "year_invented": 2000
   },
   {
     "meeting_number": 18,
@@ -177,7 +194,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "Los Angeles, California",
     "primary_liquor": "vodka",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1941
   },
   {
     "meeting_number": 19,
@@ -187,7 +205,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "New York, New York",
     "primary_liquor": "gin",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1916
   },
   {
     "meeting_number": 20,
@@ -197,7 +216,8 @@
     "country_of_origin": "Belgium",
     "city_of_origin": "Brussels",
     "primary_liquor": "vodka",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1949
   },
   {
     "meeting_number": 21,
@@ -207,7 +227,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "whiskey"
+    "whiskey_type": "whiskey",
+    "year_invented": 2000
   },
   {
     "meeting_number": 22,
@@ -217,7 +238,8 @@
     "country_of_origin": "France",
     "city_of_origin": "Paris",
     "primary_liquor": "whiskey",
-    "whiskey_type": "rye"
+    "whiskey_type": "rye",
+    "year_invented": 1922
   },
   {
     "meeting_number": 23,
@@ -227,7 +249,8 @@
     "country_of_origin": "Cuba",
     "city_of_origin": "Havana",
     "primary_liquor": "rum",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1930
   },
   {
     "meeting_number": 24,
@@ -237,7 +260,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "whiskey"
+    "whiskey_type": "whiskey",
+    "year_invented": 2000
   },
   {
     "meeting_number": 25,
@@ -247,7 +271,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "rye"
+    "whiskey_type": "rye",
+    "year_invented": 1924
   },
   {
     "meeting_number": 26,
@@ -257,7 +282,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "New Orleans, Louisiana",
     "primary_liquor": "rum",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1940
   },
   {
     "meeting_number": 27,
@@ -267,7 +293,8 @@
     "country_of_origin": "Bermuda",
     "city_of_origin": "Bermuda",
     "primary_liquor": "rum",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1950
   },
   {
     "meeting_number": 28,
@@ -277,7 +304,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "bourbon"
+    "whiskey_type": "bourbon",
+    "year_invented": 1930
   },
   {
     "meeting_number": 29,
@@ -287,7 +315,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "bourbon"
+    "whiskey_type": "bourbon",
+    "year_invented": 2010
   },
   {
     "meeting_number": 30,
@@ -297,7 +326,8 @@
     "country_of_origin": "France",
     "city_of_origin": "Paris",
     "primary_liquor": "gin",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1915
   },
   {
     "meeting_number": 31,
@@ -307,7 +337,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "Boston, Massachusetts",
     "primary_liquor": "whiskey",
-    "whiskey_type": "rye"
+    "whiskey_type": "rye",
+    "year_invented": 1898
   },
   {
     "meeting_number": 32,
@@ -317,7 +348,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "Kentucky",
     "primary_liquor": "whiskey",
-    "whiskey_type": "bourbon"
+    "whiskey_type": "bourbon",
+    "year_invented": 2000
   },
   {
     "meeting_number": 33,
@@ -327,7 +359,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "New Orleans, Louisiana",
     "primary_liquor": "whiskey",
-    "whiskey_type": "rye"
+    "whiskey_type": "rye",
+    "year_invented": 1938
   },
   {
     "meeting_number": 34,
@@ -337,7 +370,8 @@
     "country_of_origin": "Scotland",
     "city_of_origin": "Dufftown, Scotland",
     "primary_liquor": "whiskey",
-    "whiskey_type": "scotch"
+    "whiskey_type": "scotch",
+    "year_invented": 2000
   },
   {
     "meeting_number": 35,
@@ -347,7 +381,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "San Francisco, California",
     "primary_liquor": "gin",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1887
   },
   {
     "meeting_number": 36,
@@ -357,7 +392,8 @@
     "country_of_origin": "Cuba",
     "city_of_origin": "Havana",
     "primary_liquor": "rum",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1920
   },
   {
     "meeting_number": 37,
@@ -367,7 +403,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "New York, New York",
     "primary_liquor": "whiskey",
-    "whiskey_type": "scotch"
+    "whiskey_type": "scotch",
+    "year_invented": 2005
   },
   {
     "meeting_number": 38,
@@ -377,7 +414,8 @@
     "country_of_origin": "UK",
     "city_of_origin": "London",
     "primary_liquor": "whiskey",
-    "whiskey_type": "scotch"
+    "whiskey_type": "scotch",
+    "year_invented": 1930
   },
   {
     "meeting_number": 39,
@@ -387,7 +425,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "bourbon"
+    "whiskey_type": "bourbon",
+    "year_invented": 2000
   },
   {
     "meeting_number": 40,
@@ -397,7 +436,8 @@
     "country_of_origin": "Canada",
     "city_of_origin": "Toronto, Ontario",
     "primary_liquor": "whiskey",
-    "whiskey_type": "rye"
+    "whiskey_type": "rye",
+    "year_invented": 1922
   },
   {
     "meeting_number": 41,
@@ -407,7 +447,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "New York, New York",
     "primary_liquor": "gin",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1882
   },
   {
     "meeting_number": 42,
@@ -417,7 +458,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "Los Angeles, California",
     "primary_liquor": "whiskey",
-    "whiskey_type": "bourbon"
+    "whiskey_type": "bourbon",
+    "year_invented": 1930
   },
   {
     "meeting_number": 43,
@@ -427,7 +469,8 @@
     "country_of_origin": "British Virgin Islands",
     "city_of_origin": "Tortola",
     "primary_liquor": "rum",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1970
   },
   {
     "meeting_number": 44,
@@ -437,7 +480,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "whiskey"
+    "whiskey_type": "whiskey",
+    "year_invented": 1775
   },
   {
     "meeting_number": 45,
@@ -447,7 +491,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "other",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 2010
   },
   {
     "meeting_number": 46,
@@ -457,7 +502,8 @@
     "country_of_origin": "Mexico",
     "city_of_origin": "Mexico",
     "primary_liquor": "tequila",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1950
   },
   {
     "meeting_number": 47,
@@ -467,7 +513,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "Philadelphia, Pennsylvania",
     "primary_liquor": "gin",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1910
   },
   {
     "meeting_number": 48,
@@ -477,7 +524,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "bourbon"
+    "whiskey_type": "bourbon",
+    "year_invented": 2010
   },
   {
     "meeting_number": 49,
@@ -487,7 +535,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "other",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 2020
   },
   {
     "meeting_number": 50,
@@ -497,7 +546,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "tequila",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1946
   },
   {
     "meeting_number": 51,
@@ -507,7 +557,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "bourbon"
+    "whiskey_type": "bourbon",
+    "year_invented": 2015
   },
   {
     "meeting_number": 52,
@@ -517,7 +568,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "other",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 2020
   },
   {
     "meeting_number": 53,
@@ -527,7 +579,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "gin",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1894
   },
   {
     "meeting_number": 54,
@@ -537,7 +590,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "Cape Cod, Massachusetts",
     "primary_liquor": "vodka",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 1945
   },
   {
     "meeting_number": 55,
@@ -547,7 +601,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "New York, New York",
     "primary_liquor": "whiskey",
-    "whiskey_type": "bourbon"
+    "whiskey_type": "bourbon",
+    "year_invented": 2001
   },
   {
     "meeting_number": 56,
@@ -557,7 +612,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "scotch"
+    "whiskey_type": "scotch",
+    "year_invented": 1972
   },
   {
     "meeting_number": 57,
@@ -567,7 +623,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "New York, New York",
     "primary_liquor": "tequila",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 2007
   },
   {
     "meeting_number": 58,
@@ -577,7 +634,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "New York, New York",
     "primary_liquor": "whiskey",
-    "whiskey_type": "rye"
+    "whiskey_type": "rye",
+    "year_invented": 1899
   },
   {
     "meeting_number": 60,
@@ -587,7 +645,8 @@
     "country_of_origin": "Canada",
     "city_of_origin": "Toronto, Ontario",
     "primary_liquor": "whiskey",
-    "whiskey_type": "rye"
+    "whiskey_type": "rye",
+    "year_invented": 1922
   },
   {
     "meeting_number": 61,
@@ -597,7 +656,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "bourbon"
+    "whiskey_type": "bourbon",
+    "year_invented": 2010
   },
   {
     "meeting_number": 62,
@@ -607,7 +667,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "whiskey"
+    "whiskey_type": "whiskey",
+    "year_invented": 2020
   },
   {
     "meeting_number": 63,
@@ -617,7 +678,8 @@
     "country_of_origin": "USA",
     "city_of_origin": "USA",
     "primary_liquor": "whiskey",
-    "whiskey_type": "bourbon"
+    "whiskey_type": "bourbon",
+    "year_invented": 2020
   },
   {
     "meeting_number": 64,
@@ -627,6 +689,7 @@
     "country_of_origin": "USA",
     "city_of_origin": "New York, New York",
     "primary_liquor": "tequila",
-    "whiskey_type": "N/A"
+    "whiskey_type": "N/A",
+    "year_invented": 2009
   }
 ]
