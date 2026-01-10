@@ -5,7 +5,8 @@
     "host": "Chris",
     "cocktail": "Sazerac",
     "country_of_origin": "USA",
-    "city_of_origin": "New Orleans, Louisiana"
+    "city_of_origin": "New Orleans, Louisiana",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 2,
@@ -13,7 +14,8 @@
     "host": "Joe",
     "cocktail": "Sidecar",
     "country_of_origin": "France",
-    "city_of_origin": "Paris"
+    "city_of_origin": "Paris",
+    "primary_liquor": "brandy"
   },
   {
     "meeting_number": 3,
@@ -21,7 +23,8 @@
     "host": "John",
     "cocktail": "Rusty Nail",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 4,
@@ -29,7 +32,8 @@
     "host": "Chris",
     "cocktail": "Harvey Wallbanger",
     "country_of_origin": "USA",
-    "city_of_origin": "Los Angeles, California"
+    "city_of_origin": "Los Angeles, California",
+    "primary_liquor": "vodka"
   },
   {
     "meeting_number": 5,
@@ -37,7 +41,8 @@
     "host": "Joe",
     "cocktail": "Rum Ball",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "rum"
   },
   {
     "meeting_number": 6,
@@ -45,7 +50,8 @@
     "host": "John",
     "cocktail": "Old Fashion",
     "country_of_origin": "USA",
-    "city_of_origin": "Louisville, Kentucky"
+    "city_of_origin": "Louisville, Kentucky",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 7,
@@ -53,7 +59,8 @@
     "host": "Chris",
     "cocktail": "Between the Sheets",
     "country_of_origin": "France",
-    "city_of_origin": "Paris"
+    "city_of_origin": "Paris",
+    "primary_liquor": "brandy"
   },
   {
     "meeting_number": 8,
@@ -61,7 +68,8 @@
     "host": "Joe",
     "cocktail": "Whiskey Sour",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 9,
@@ -69,7 +77,8 @@
     "host": "Lucas",
     "cocktail": "Negroni",
     "country_of_origin": "Italy",
-    "city_of_origin": "Florence"
+    "city_of_origin": "Florence",
+    "primary_liquor": "gin"
   },
   {
     "meeting_number": 10,
@@ -77,7 +86,8 @@
     "host": "John",
     "cocktail": "Bloody Mary",
     "country_of_origin": "France",
-    "city_of_origin": "Paris"
+    "city_of_origin": "Paris",
+    "primary_liquor": "vodka"
   },
   {
     "meeting_number": 11,
@@ -85,7 +95,8 @@
     "host": "Chris",
     "cocktail": "Stinger",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "brandy"
   },
   {
     "meeting_number": 12,
@@ -93,7 +104,8 @@
     "host": "Joe",
     "cocktail": "Soft Wink",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 13,
@@ -101,7 +113,8 @@
     "host": "Lucas",
     "cocktail": "The Magnificent Bastard",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 14,
@@ -109,7 +122,8 @@
     "host": "John",
     "cocktail": "Manhattan",
     "country_of_origin": "USA",
-    "city_of_origin": "New York, New York"
+    "city_of_origin": "New York, New York",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 15,
@@ -117,7 +131,8 @@
     "host": "Chris",
     "cocktail": "Vieux Carre",
     "country_of_origin": "USA",
-    "city_of_origin": "New Orleans, Louisiana"
+    "city_of_origin": "New Orleans, Louisiana",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 16,
@@ -125,7 +140,8 @@
     "host": "Joe",
     "cocktail": "Vodka Martini (Kangaroo)",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "vodka"
   },
   {
     "meeting_number": 17,
@@ -133,7 +149,8 @@
     "host": "Lucas",
     "cocktail": "The Sun Also Sets",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 18,
@@ -141,7 +158,8 @@
     "host": "John",
     "cocktail": "Moscow Mule",
     "country_of_origin": "USA",
-    "city_of_origin": "Los Angeles, California"
+    "city_of_origin": "Los Angeles, California",
+    "primary_liquor": "vodka"
   },
   {
     "meeting_number": 19,
@@ -149,7 +167,8 @@
     "host": "Chris",
     "cocktail": "The Aviation",
     "country_of_origin": "USA",
-    "city_of_origin": "New York, New York"
+    "city_of_origin": "New York, New York",
+    "primary_liquor": "gin"
   },
   {
     "meeting_number": 20,
@@ -157,7 +176,8 @@
     "host": "Joe",
     "cocktail": "Black Russian",
     "country_of_origin": "Belgium",
-    "city_of_origin": "Brussels"
+    "city_of_origin": "Brussels",
+    "primary_liquor": "vodka"
   },
   {
     "meeting_number": 21,
@@ -165,7 +185,8 @@
     "host": "Eric",
     "cocktail": "Black Ginger",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 22,
@@ -173,7 +194,8 @@
     "host": "John",
     "cocktail": "Old Pal",
     "country_of_origin": "France",
-    "city_of_origin": "Paris"
+    "city_of_origin": "Paris",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 23,
@@ -181,7 +203,8 @@
     "host": "Adam",
     "cocktail": "Hemingway Daiquiri",
     "country_of_origin": "Cuba",
-    "city_of_origin": "Havana"
+    "city_of_origin": "Havana",
+    "primary_liquor": "rum"
   },
   {
     "meeting_number": 24,
@@ -189,7 +212,8 @@
     "host": "Lucas",
     "cocktail": "The Packie",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 25,
@@ -197,7 +221,8 @@
     "host": "Chris",
     "cocktail": "The Scofflaw",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 26,
@@ -205,7 +230,8 @@
     "host": "Joe",
     "cocktail": "Hurricane",
     "country_of_origin": "USA",
-    "city_of_origin": "New Orleans, Louisiana"
+    "city_of_origin": "New Orleans, Louisiana",
+    "primary_liquor": "rum"
   },
   {
     "meeting_number": 27,
@@ -213,7 +239,8 @@
     "host": "Eric",
     "cocktail": "Dark & Stormy",
     "country_of_origin": "Bermuda",
-    "city_of_origin": "Bermuda"
+    "city_of_origin": "Bermuda",
+    "primary_liquor": "rum"
   },
   {
     "meeting_number": 28,
@@ -221,7 +248,8 @@
     "host": "John",
     "cocktail": "The Kentucky Buck",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 29,
@@ -229,7 +257,8 @@
     "host": "Adam",
     "cocktail": "Harvest Moon Old-Fashioned",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 30,
@@ -237,7 +266,8 @@
     "host": "Lucas",
     "cocktail": "French 75",
     "country_of_origin": "France",
-    "city_of_origin": "Paris"
+    "city_of_origin": "Paris",
+    "primary_liquor": "gin"
   },
   {
     "meeting_number": 31,
@@ -245,7 +275,8 @@
     "host": "Chris",
     "cocktail": "Ward 8",
     "country_of_origin": "USA",
-    "city_of_origin": "Boston, Massachusetts"
+    "city_of_origin": "Boston, Massachusetts",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 32,
@@ -253,7 +284,8 @@
     "host": "Joe",
     "cocktail": "Bourbon Tasting \u2013 Beam's Choice Collector's Edition 50+; Carleton Tower 50+; Woodford Reserve Double Oaked",
     "country_of_origin": "USA",
-    "city_of_origin": "Kentucky"
+    "city_of_origin": "Kentucky",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 33,
@@ -261,7 +293,8 @@
     "host": "John",
     "cocktail": "Vieux Carre",
     "country_of_origin": "USA",
-    "city_of_origin": "New Orleans, Louisiana"
+    "city_of_origin": "New Orleans, Louisiana",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 34,
@@ -269,7 +302,8 @@
     "host": "Eric",
     "cocktail": "Balvenie 14 Year Old Caribbean Cask Single Malt Scotch",
     "country_of_origin": "Scotland",
-    "city_of_origin": "Dufftown, Scotland"
+    "city_of_origin": "Dufftown, Scotland",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 35,
@@ -277,7 +311,8 @@
     "host": "Adam",
     "cocktail": "Martinez",
     "country_of_origin": "USA",
-    "city_of_origin": "San Francisco, California"
+    "city_of_origin": "San Francisco, California",
+    "primary_liquor": "gin"
   },
   {
     "meeting_number": 36,
@@ -285,7 +320,8 @@
     "host": "Chris",
     "cocktail": "El Presidente",
     "country_of_origin": "Cuba",
-    "city_of_origin": "Havana"
+    "city_of_origin": "Havana",
+    "primary_liquor": "rum"
   },
   {
     "meeting_number": 37,
@@ -293,7 +329,8 @@
     "host": "Joe",
     "cocktail": "The Penicillin",
     "country_of_origin": "USA",
-    "city_of_origin": "New York, New York"
+    "city_of_origin": "New York, New York",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 38,
@@ -301,7 +338,8 @@
     "host": "Eric",
     "cocktail": "Blood + Sand",
     "country_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 39,
@@ -309,7 +347,8 @@
     "host": "John",
     "cocktail": "81 Old Fashion",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 40,
@@ -317,7 +356,8 @@
     "host": "Adam",
     "cocktail": "Toronto",
     "country_of_origin": "Canada",
-    "city_of_origin": "Toronto, Ontario"
+    "city_of_origin": "Toronto, Ontario",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 41,
@@ -325,7 +365,8 @@
     "host": "Chris",
     "cocktail": "Tuxedo No. 2",
     "country_of_origin": "USA",
-    "city_of_origin": "New York, New York"
+    "city_of_origin": "New York, New York",
+    "primary_liquor": "gin"
   },
   {
     "meeting_number": 42,
@@ -333,7 +374,8 @@
     "host": "Joe",
     "cocktail": "Brown Derby",
     "country_of_origin": "USA",
-    "city_of_origin": "Los Angeles, California"
+    "city_of_origin": "Los Angeles, California",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 43,
@@ -341,7 +383,8 @@
     "host": "Eric",
     "cocktail": "Painkiller",
     "country_of_origin": "British Virgin Islands",
-    "city_of_origin": "Tortola"
+    "city_of_origin": "Tortola",
+    "primary_liquor": "rum"
   },
   {
     "meeting_number": 44,
@@ -349,7 +392,8 @@
     "host": "John",
     "cocktail": "Stone Fence",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 45,
@@ -357,7 +401,8 @@
     "host": "Adam",
     "cocktail": "Cynar Flip",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "other"
   },
   {
     "meeting_number": 46,
@@ -365,7 +410,8 @@
     "host": "Lucas",
     "cocktail": "Paloma",
     "country_of_origin": "Mexico",
-    "city_of_origin": "Mexico"
+    "city_of_origin": "Mexico",
+    "primary_liquor": "tequila"
   },
   {
     "meeting_number": 47,
@@ -373,7 +419,8 @@
     "host": "Chris",
     "cocktail": "The Clover Club",
     "country_of_origin": "USA",
-    "city_of_origin": "Philadelphia, Pennsylvania"
+    "city_of_origin": "Philadelphia, Pennsylvania",
+    "primary_liquor": "gin"
   },
   {
     "meeting_number": 48,
@@ -381,7 +428,8 @@
     "host": "Joe",
     "cocktail": "The New Fashioned",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 49,
@@ -389,7 +437,8 @@
     "host": "Eric",
     "cocktail": "Eric's Fancy",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "other"
   },
   {
     "meeting_number": 50,
@@ -397,7 +446,8 @@
     "host": "John",
     "cocktail": "El Diablo",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "tequila"
   },
   {
     "meeting_number": 51,
@@ -405,7 +455,8 @@
     "host": "Adam",
     "cocktail": "Ginger Pear Bourbon",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 52,
@@ -413,7 +464,8 @@
     "host": "Lucas",
     "cocktail": "Late Night Flight",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "other"
   },
   {
     "meeting_number": 53,
@@ -421,7 +473,8 @@
     "host": "Chris",
     "cocktail": "Turf Club",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "gin"
   },
   {
     "meeting_number": 54,
@@ -429,7 +482,8 @@
     "host": "Joe",
     "cocktail": "The Cape Codder",
     "country_of_origin": "USA",
-    "city_of_origin": "Cape Cod, Massachusetts"
+    "city_of_origin": "Cape Cod, Massachusetts",
+    "primary_liquor": "vodka"
   },
   {
     "meeting_number": 55,
@@ -437,7 +491,8 @@
     "host": "Eric",
     "cocktail": "Gold Rush",
     "country_of_origin": "USA",
-    "city_of_origin": "New York, New York"
+    "city_of_origin": "New York, New York",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 56,
@@ -445,7 +500,8 @@
     "host": "John",
     "cocktail": "Godfather",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 57,
@@ -453,7 +509,8 @@
     "host": "Adam",
     "cocktail": "Oaxaca Old Fashioned",
     "country_of_origin": "USA",
-    "city_of_origin": "New York, New York"
+    "city_of_origin": "New York, New York",
+    "primary_liquor": "tequila"
   },
   {
     "meeting_number": 58,
@@ -461,7 +518,8 @@
     "host": "Lucas",
     "cocktail": "Remember the Maine",
     "country_of_origin": "USA",
-    "city_of_origin": "New York, New York"
+    "city_of_origin": "New York, New York",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 60,
@@ -469,7 +527,8 @@
     "host": "Chris",
     "cocktail": "Toronto Sour",
     "country_of_origin": "Canada",
-    "city_of_origin": "Toronto, Ontario"
+    "city_of_origin": "Toronto, Ontario",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 61,
@@ -477,7 +536,8 @@
     "host": "Joe",
     "cocktail": "Blackberry Smash",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 62,
@@ -485,7 +545,8 @@
     "host": "John",
     "cocktail": "Pendergast",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 63,
@@ -493,7 +554,8 @@
     "host": "Adam",
     "cocktail": "Bubby's Barrel-Aged Manhattan - Elijah Craig Small Batch Edition",
     "country_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "primary_liquor": "whiskey"
   },
   {
     "meeting_number": 64,
@@ -501,6 +563,7 @@
     "host": "Lucas",
     "cocktail": "Division Bell",
     "country_of_origin": "USA",
-    "city_of_origin": "New York, New York"
+    "city_of_origin": "New York, New York",
+    "primary_liquor": "tequila"
   }
 ]
