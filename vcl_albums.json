@@ -8,7 +8,9 @@
     "album_title": "In the Court of the Crimson King",
     "release_year": 1969,
     "label": "Island",
-    "genre": "Progressive Rock"
+    "genre": "Progressive Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 2,
@@ -19,7 +21,9 @@
     "album_title": "Nantucket Sleighride",
     "release_year": 1971,
     "label": "Windfall",
-    "genre": "Hard Rock"
+    "genre": "Hard Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "New York, New York"
   },
   {
     "meeting_number": 3,
@@ -30,7 +34,9 @@
     "album_title": "Sebadoh III",
     "release_year": 1991,
     "label": "Homestead",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Northampton, Massachusetts"
   },
   {
     "meeting_number": 3,
@@ -41,7 +47,9 @@
     "album_title": "I Can Hear the Heart Beating as One",
     "release_year": 1997,
     "label": "Matador",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Hoboken, New Jersey"
   },
   {
     "meeting_number": 3,
@@ -52,7 +60,9 @@
     "album_title": "Grandpaw Would",
     "release_year": 1995,
     "label": "Modular",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "Australia",
+    "city_of_origin": "Sydney"
   },
   {
     "meeting_number": 4,
@@ -63,7 +73,9 @@
     "album_title": "Silent Shout",
     "release_year": 2006,
     "label": "Rabid",
-    "genre": "Electronic"
+    "genre": "Electronic",
+    "nation_of_origin": "Sweden",
+    "city_of_origin": "Gothenburg"
   },
   {
     "meeting_number": 5,
@@ -74,7 +86,9 @@
     "album_title": "Surrealistic Pillow",
     "release_year": 1967,
     "label": "RCA Victor",
-    "genre": "Psychedelic Rock"
+    "genre": "Psychedelic Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "San Francisco, California"
   },
   {
     "meeting_number": 5,
@@ -85,7 +99,9 @@
     "album_title": "Talking Heads: 77",
     "release_year": 1977,
     "label": "Sire",
-    "genre": "New Wave"
+    "genre": "New Wave",
+    "nation_of_origin": "USA",
+    "city_of_origin": "New York, New York"
   },
   {
     "meeting_number": 6,
@@ -96,7 +112,9 @@
     "album_title": "Black Love",
     "release_year": 1996,
     "label": "Elektra",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Cincinnati, Ohio"
   },
   {
     "meeting_number": 7,
@@ -107,7 +125,9 @@
     "album_title": "Raw Power",
     "release_year": 1973,
     "label": "Columbia",
-    "genre": "Punk Rock"
+    "genre": "Punk Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Ann Arbor, Michigan"
   },
   {
     "meeting_number": 8,
@@ -118,7 +138,9 @@
     "album_title": "Say It Loud",
     "release_year": 1969,
     "label": "King",
-    "genre": "Funk"
+    "genre": "Funk",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Augusta, Georgia"
   },
   {
     "meeting_number": 8,
@@ -129,7 +151,9 @@
     "album_title": "David Bowie Tribute",
     "release_year": 2016,
     "label": "Various",
-    "genre": "Rock"
+    "genre": "Rock",
+    "nation_of_origin": "Various",
+    "city_of_origin": "Various"
   },
   {
     "meeting_number": 9,
@@ -140,7 +164,9 @@
     "album_title": "Graceland",
     "release_year": 1986,
     "label": "Warner Bros.",
-    "genre": "World Music"
+    "genre": "World Music",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Newark, New Jersey"
   },
   {
     "meeting_number": 9,
@@ -151,7 +177,9 @@
     "album_title": "Funeral",
     "release_year": 2004,
     "label": "Merge",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "Canada",
+    "city_of_origin": "Montreal, Quebec"
   },
   {
     "meeting_number": 9,
@@ -162,7 +190,9 @@
     "album_title": "Vampire Weekend",
     "release_year": 2008,
     "label": "XL",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "New York, New York"
   },
   {
     "meeting_number": 10,
@@ -173,7 +203,9 @@
     "album_title": "Pleased to Meet Me",
     "release_year": 1987,
     "label": "Sire",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Minneapolis, Minnesota"
   },
   {
     "meeting_number": 10,
@@ -184,7 +216,9 @@
     "album_title": "Setting Sons",
     "release_year": 1979,
     "label": "Polydor",
-    "genre": "Punk Rock"
+    "genre": "Punk Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Woking, Surrey"
   },
   {
     "meeting_number": 10,
@@ -195,7 +229,9 @@
     "album_title": "#1 Record",
     "release_year": 1972,
     "label": "Ardent",
-    "genre": "Power Pop"
+    "genre": "Power Pop",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Memphis, Tennessee"
   },
   {
     "meeting_number": 11,
@@ -206,7 +242,9 @@
     "album_title": "Unknown Pleasures",
     "release_year": 1979,
     "label": "Factory",
-    "genre": "Post-Punk"
+    "genre": "Post-Punk",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Manchester"
   },
   {
     "meeting_number": 11,
@@ -217,7 +255,9 @@
     "album_title": "Selling England by the Pound",
     "release_year": 1973,
     "label": "Charisma",
-    "genre": "Progressive Rock"
+    "genre": "Progressive Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Godalming, Surrey"
   },
   {
     "meeting_number": 11,
@@ -228,7 +268,9 @@
     "album_title": "A Moon Shaped Pool",
     "release_year": 2016,
     "label": "XL",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Abingdon, Oxfordshire"
   },
   {
     "meeting_number": 12,
@@ -239,7 +281,9 @@
     "album_title": "Young Lions",
     "release_year": 1990,
     "label": "Atlantic",
-    "genre": "Art Rock"
+    "genre": "Art Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Covington, Kentucky"
   },
   {
     "meeting_number": 12,
@@ -250,7 +294,9 @@
     "album_title": "Bridge of Sighs",
     "release_year": 1974,
     "label": "Chrysalis",
-    "genre": "Blues Rock"
+    "genre": "Blues Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 12,
@@ -261,7 +307,9 @@
     "album_title": "Moonflower",
     "release_year": 1977,
     "label": "Columbia",
-    "genre": "Latin Rock"
+    "genre": "Latin Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "San Francisco, California"
   },
   {
     "meeting_number": 13,
@@ -272,7 +320,9 @@
     "album_title": "Midnight Organ Fight",
     "release_year": 2008,
     "label": "Fat Cat",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Selkirk, Scotland"
   },
   {
     "meeting_number": 13,
@@ -283,7 +333,9 @@
     "album_title": "Various Positions",
     "release_year": 1984,
     "label": "Columbia",
-    "genre": "Folk"
+    "genre": "Folk",
+    "nation_of_origin": "Canada",
+    "city_of_origin": "Montreal, Quebec"
   },
   {
     "meeting_number": 13,
@@ -294,7 +346,9 @@
     "album_title": "Blood on the Tracks",
     "release_year": 1975,
     "label": "Columbia",
-    "genre": "Folk Rock"
+    "genre": "Folk Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Duluth, Minnesota"
   },
   {
     "meeting_number": 14,
@@ -305,7 +359,9 @@
     "album_title": "On Fire",
     "release_year": 1989,
     "label": "4AD",
-    "genre": "Dream Pop"
+    "genre": "Dream Pop",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Cambridge, Massachusetts"
   },
   {
     "meeting_number": 14,
@@ -316,7 +372,9 @@
     "album_title": "Cure for Pain",
     "release_year": 1993,
     "label": "Rykodisc",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Cambridge, Massachusetts"
   },
   {
     "meeting_number": 14,
@@ -327,7 +385,9 @@
     "album_title": "Perfect from Now On",
     "release_year": 1997,
     "label": "Warner Bros.",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Boise, Idaho"
   },
   {
     "meeting_number": 15,
@@ -338,7 +398,9 @@
     "album_title": "Kick Out the Jams",
     "release_year": 1969,
     "label": "Elektra",
-    "genre": "Punk Rock"
+    "genre": "Punk Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Detroit, Michigan"
   },
   {
     "meeting_number": 15,
@@ -349,7 +411,9 @@
     "album_title": "Crack the Skye",
     "release_year": 2009,
     "label": "Reprise",
-    "genre": "Progressive Metal"
+    "genre": "Progressive Metal",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Atlanta, Georgia"
   },
   {
     "meeting_number": 15,
@@ -360,7 +424,9 @@
     "album_title": "Vol. 4",
     "release_year": 1972,
     "label": "Vertigo",
-    "genre": "Heavy Metal"
+    "genre": "Heavy Metal",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Birmingham"
   },
   {
     "meeting_number": 16,
@@ -371,7 +437,9 @@
     "album_title": "Mental Jewelry",
     "release_year": 1991,
     "label": "Radioactive",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "York, Pennsylvania"
   },
   {
     "meeting_number": 16,
@@ -382,7 +450,9 @@
     "album_title": "Leftoverture",
     "release_year": 1976,
     "label": "Kirshner",
-    "genre": "Progressive Rock"
+    "genre": "Progressive Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Topeka, Kansas"
   },
   {
     "meeting_number": 16,
@@ -393,7 +463,9 @@
     "album_title": "At Fillmore East",
     "release_year": 1971,
     "label": "Capricorn",
-    "genre": "Southern Rock"
+    "genre": "Southern Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Jacksonville, Florida"
   },
   {
     "meeting_number": 17,
@@ -404,7 +476,9 @@
     "album_title": "Turn On the Bright Lights",
     "release_year": 2002,
     "label": "Matador",
-    "genre": "Post-Punk Revival"
+    "genre": "Post-Punk Revival",
+    "nation_of_origin": "USA",
+    "city_of_origin": "New York, New York"
   },
   {
     "meeting_number": 17,
@@ -415,7 +489,9 @@
     "album_title": "Jane Birkin/Serge Gainsbourg",
     "release_year": 1969,
     "label": "Fontana",
-    "genre": "Chanson"
+    "genre": "Chanson",
+    "nation_of_origin": "France",
+    "city_of_origin": "Paris"
   },
   {
     "meeting_number": 17,
@@ -426,7 +502,9 @@
     "album_title": "The Moon & Antarctica",
     "release_year": 2000,
     "label": "Epic",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Issaquah, Washington"
   },
   {
     "meeting_number": 18,
@@ -437,7 +515,9 @@
     "album_title": "Pin Ups",
     "release_year": 1973,
     "label": "RCA",
-    "genre": "Glam Rock"
+    "genre": "Glam Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 18,
@@ -448,7 +528,9 @@
     "album_title": "Townes",
     "release_year": 2009,
     "label": "New West",
-    "genre": "Country"
+    "genre": "Country",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Fort Monroe, Virginia"
   },
   {
     "meeting_number": 18,
@@ -459,7 +541,9 @@
     "album_title": "Believe I'm Going Down",
     "release_year": 2015,
     "label": "Matador",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Philadelphia, Pennsylvania"
   },
   {
     "meeting_number": 19,
@@ -470,7 +554,9 @@
     "album_title": "Ga Ga Ga Ga Ga",
     "release_year": 2007,
     "label": "Merge",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Austin, Texas"
   },
   {
     "meeting_number": 19,
@@ -481,7 +567,9 @@
     "album_title": "Rumours",
     "release_year": 1977,
     "label": "Warner Bros.",
-    "genre": "Rock"
+    "genre": "Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 19,
@@ -492,7 +580,9 @@
     "album_title": "Murmur",
     "release_year": 1983,
     "label": "I.R.S.",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Athens, Georgia"
   },
   {
     "meeting_number": 20,
@@ -503,7 +593,9 @@
     "album_title": "VCL Mix Edition",
     "release_year": 2018,
     "label": "Various",
-    "genre": "Jam Band"
+    "genre": "Jam Band",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Athens, Georgia"
   },
   {
     "meeting_number": 20,
@@ -514,7 +606,9 @@
     "album_title": "The Morning After",
     "release_year": 1971,
     "label": "Atlantic",
-    "genre": "Rock"
+    "genre": "Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Worcester, Massachusetts"
   },
   {
     "meeting_number": 20,
@@ -525,7 +619,9 @@
     "album_title": "Thick as a Brick",
     "release_year": 1972,
     "label": "Chrysalis",
-    "genre": "Progressive Rock"
+    "genre": "Progressive Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Blackpool"
   },
   {
     "meeting_number": 21,
@@ -536,7 +632,9 @@
     "album_title": "The Stone Roses",
     "release_year": 1989,
     "label": "Silvertone",
-    "genre": "Madchester"
+    "genre": "Madchester",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Manchester"
   },
   {
     "meeting_number": 21,
@@ -547,7 +645,9 @@
     "album_title": "Never Trust a Happy Song",
     "release_year": 2011,
     "label": "Canvasback",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Los Angeles, California"
   },
   {
     "meeting_number": 21,
@@ -558,7 +658,9 @@
     "album_title": "Beautiful People Will Ruin Your Life",
     "release_year": 2018,
     "label": "Kobalt",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Liverpool"
   },
   {
     "meeting_number": 22,
@@ -569,7 +671,9 @@
     "album_title": "Yankee Hotel Foxtrot",
     "release_year": 2002,
     "label": "Nonesuch",
-    "genre": "Alternative Country"
+    "genre": "Alternative Country",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Chicago, Illinois"
   },
   {
     "meeting_number": 22,
@@ -580,7 +684,9 @@
     "album_title": "Slanted and Enchanted",
     "release_year": 1992,
     "label": "Matador",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Stockton, California"
   },
   {
     "meeting_number": 22,
@@ -591,7 +697,9 @@
     "album_title": "Daydream Nation",
     "release_year": 1988,
     "label": "Enigma",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "New York, New York"
   },
   {
     "meeting_number": 23,
@@ -602,7 +710,9 @@
     "album_title": "Disgraceland",
     "release_year": 2017,
     "label": "Canvasback",
-    "genre": "Garage Rock"
+    "genre": "Garage Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Elmhurst, Illinois"
   },
   {
     "meeting_number": 23,
@@ -613,7 +723,9 @@
     "album_title": "Dig Me Out",
     "release_year": 1997,
     "label": "Kill Rock Stars",
-    "genre": "Riot Grrrl"
+    "genre": "Riot Grrrl",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Olympia, Washington"
   },
   {
     "meeting_number": 23,
@@ -624,7 +736,9 @@
     "album_title": "Doolittle",
     "release_year": 1989,
     "label": "4AD",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Boston, Massachusetts"
   },
   {
     "meeting_number": 24,
@@ -635,7 +749,9 @@
     "album_title": "No Blues",
     "release_year": 2013,
     "label": "Wichita",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Cardiff, Wales"
   },
   {
     "meeting_number": 24,
@@ -646,7 +762,9 @@
     "album_title": "Bruised Orange",
     "release_year": 1978,
     "label": "Asylum",
-    "genre": "Country Folk"
+    "genre": "Country Folk",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Maywood, Illinois"
   },
   {
     "meeting_number": 25,
@@ -657,7 +775,9 @@
     "album_title": "Led Zeppelin",
     "release_year": 1969,
     "label": "Atlantic",
-    "genre": "Hard Rock"
+    "genre": "Hard Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 25,
@@ -668,7 +788,9 @@
     "album_title": "Led Zeppelin II",
     "release_year": 1969,
     "label": "Atlantic",
-    "genre": "Hard Rock"
+    "genre": "Hard Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 26,
@@ -679,7 +801,9 @@
     "album_title": "All the Young Dudes",
     "release_year": 1972,
     "label": "Columbia",
-    "genre": "Glam Rock"
+    "genre": "Glam Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Hereford"
   },
   {
     "meeting_number": 26,
@@ -690,7 +814,9 @@
     "album_title": "That's What I Am Here For",
     "release_year": 1973,
     "label": "Polydor",
-    "genre": "Blues Rock"
+    "genre": "Blues Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Ozark, Arkansas"
   },
   {
     "meeting_number": 27,
@@ -701,7 +827,9 @@
     "album_title": "Elemental",
     "release_year": 1993,
     "label": "Mercury",
-    "genre": "Pop Rock"
+    "genre": "Pop Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Bath, Somerset"
   },
   {
     "meeting_number": 27,
@@ -712,7 +840,9 @@
     "album_title": "Guero",
     "release_year": 2005,
     "label": "Interscope",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Los Angeles, California"
   },
   {
     "meeting_number": 28,
@@ -723,7 +853,9 @@
     "album_title": "You're Living All Over Me",
     "release_year": 1987,
     "label": "SST",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Amherst, Massachusetts"
   },
   {
     "meeting_number": 28,
@@ -734,7 +866,9 @@
     "album_title": "Elastic Days",
     "release_year": 2018,
     "label": "Sub Pop",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Amherst, Massachusetts"
   },
   {
     "meeting_number": 29,
@@ -745,7 +879,9 @@
     "album_title": "Celebration Rock",
     "release_year": 2012,
     "label": "Polyvinyl",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "Canada",
+    "city_of_origin": "Vancouver, British Columbia"
   },
   {
     "meeting_number": 29,
@@ -756,7 +892,9 @@
     "album_title": "Funeral",
     "release_year": 2004,
     "label": "Merge",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "Canada",
+    "city_of_origin": "Montreal, Quebec"
   },
   {
     "meeting_number": 30,
@@ -767,7 +905,9 @@
     "album_title": "Fear Fun",
     "release_year": 2012,
     "label": "Sub Pop",
-    "genre": "Folk Rock"
+    "genre": "Folk Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Rockville, Maryland"
   },
   {
     "meeting_number": 30,
@@ -778,7 +918,9 @@
     "album_title": "Astral Weeks",
     "release_year": 1968,
     "label": "Warner Bros.",
-    "genre": "Folk Rock"
+    "genre": "Folk Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Belfast, Northern Ireland"
   },
   {
     "meeting_number": 31,
@@ -789,7 +931,9 @@
     "album_title": "Everything All the Time",
     "release_year": 2006,
     "label": "Sub Pop",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Seattle, Washington"
   },
   {
     "meeting_number": 31,
@@ -800,7 +944,9 @@
     "album_title": "The Devil and God Are Raging Inside Me",
     "release_year": 2006,
     "label": "Interscope",
-    "genre": "Emo"
+    "genre": "Emo",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Long Island, New York"
   },
   {
     "meeting_number": 31,
@@ -811,7 +957,9 @@
     "album_title": "Return to Cookie Mountain",
     "release_year": 2006,
     "label": "Interscope",
-    "genre": "Art Rock"
+    "genre": "Art Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Brooklyn, New York"
   },
   {
     "meeting_number": 32,
@@ -822,7 +970,9 @@
     "album_title": "Arc Angels",
     "release_year": 1992,
     "label": "Geffen",
-    "genre": "Blues Rock"
+    "genre": "Blues Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Austin, Texas"
   },
   {
     "meeting_number": 32,
@@ -833,7 +983,9 @@
     "album_title": "Close to the Edge",
     "release_year": 1972,
     "label": "Atlantic",
-    "genre": "Progressive Rock"
+    "genre": "Progressive Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 32,
@@ -844,7 +996,9 @@
     "album_title": "Biggest Fears",
     "release_year": 2019,
     "label": "Independent",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "USA"
   },
   {
     "meeting_number": 33,
@@ -855,7 +1009,9 @@
     "album_title": "Starfish",
     "release_year": 1988,
     "label": "Arista",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "Australia",
+    "city_of_origin": "Sydney"
   },
   {
     "meeting_number": 33,
@@ -866,7 +1022,9 @@
     "album_title": "Something Vicious for Tomorrow / Time Whore",
     "release_year": 1994,
     "label": "C/Z",
-    "genre": "Grunge"
+    "genre": "Grunge",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Boise, Idaho"
   },
   {
     "meeting_number": 33,
@@ -877,7 +1035,9 @@
     "album_title": "Streetcore",
     "release_year": 2003,
     "label": "Hellcat",
-    "genre": "Punk Rock"
+    "genre": "Punk Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 34,
@@ -888,7 +1048,9 @@
     "album_title": "1984",
     "release_year": 1984,
     "label": "Warner Bros.",
-    "genre": "Hard Rock"
+    "genre": "Hard Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Pasadena, California"
   },
   {
     "meeting_number": 34,
@@ -899,7 +1061,9 @@
     "album_title": "Days Are Gone",
     "release_year": 2013,
     "label": "Polydor",
-    "genre": "Pop Rock"
+    "genre": "Pop Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Los Angeles, California"
   },
   {
     "meeting_number": 34,
@@ -910,7 +1074,9 @@
     "album_title": "Louder Than Bombs",
     "release_year": 1987,
     "label": "Sire",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Manchester"
   },
   {
     "meeting_number": 35,
@@ -921,7 +1087,9 @@
     "album_title": "nipiy",
     "release_year": 2020,
     "label": "Independent",
-    "genre": "Indigenous Hip Hop"
+    "genre": "Indigenous Hip Hop",
+    "nation_of_origin": "Canada",
+    "city_of_origin": "Edmonton, Alberta"
   },
   {
     "meeting_number": 35,
@@ -932,7 +1100,9 @@
     "album_title": "Coup de Grace",
     "release_year": 2020,
     "label": "Independent",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "Canada",
+    "city_of_origin": "Canada"
   },
   {
     "meeting_number": 35,
@@ -943,7 +1113,9 @@
     "album_title": "Up in It",
     "release_year": 1990,
     "label": "Sub Pop",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Cincinnati, Ohio"
   },
   {
     "meeting_number": 36,
@@ -954,7 +1126,9 @@
     "album_title": "Marquee Moon",
     "release_year": 1977,
     "label": "Elektra",
-    "genre": "Punk Rock"
+    "genre": "Punk Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "New York, New York"
   },
   {
     "meeting_number": 36,
@@ -965,7 +1139,9 @@
     "album_title": "Q: Are We Not Men? A: We Are Devo!",
     "release_year": 1978,
     "label": "Warner Bros.",
-    "genre": "New Wave"
+    "genre": "New Wave",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Akron, Ohio"
   },
   {
     "meeting_number": 36,
@@ -976,7 +1152,9 @@
     "album_title": "London Calling",
     "release_year": 1979,
     "label": "CBS",
-    "genre": "Punk Rock"
+    "genre": "Punk Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 37,
@@ -987,7 +1165,9 @@
     "album_title": "Coming Home",
     "release_year": 2015,
     "label": "Columbia",
-    "genre": "Soul"
+    "genre": "Soul",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Fort Worth, Texas"
   },
   {
     "meeting_number": 37,
@@ -998,7 +1178,9 @@
     "album_title": "When We All Fall Asleep, Where Do We Go?",
     "release_year": 2019,
     "label": "Interscope",
-    "genre": "Pop"
+    "genre": "Pop",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Los Angeles, California"
   },
   {
     "meeting_number": 37,
@@ -1009,7 +1191,9 @@
     "album_title": "Fine Line",
     "release_year": 2019,
     "label": "Columbia",
-    "genre": "Pop Rock"
+    "genre": "Pop Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Redditch, Worcestershire"
   },
   {
     "meeting_number": 38,
@@ -1020,7 +1204,9 @@
     "album_title": "My Oracle Lives Uptown",
     "release_year": 2019,
     "label": "Guerilla",
-    "genre": "Electronic"
+    "genre": "Electronic",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 38,
@@ -1031,7 +1217,9 @@
     "album_title": "Steadman's Wake",
     "release_year": 2001,
     "label": "Black Park",
-    "genre": "Jangle Pop"
+    "genre": "Jangle Pop",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Raleigh, North Carolina"
   },
   {
     "meeting_number": 38,
@@ -1042,7 +1230,9 @@
     "album_title": "Dark Matters",
     "release_year": 2021,
     "label": "Coursegood",
-    "genre": "Post-Punk"
+    "genre": "Post-Punk",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Guildford, Surrey"
   },
   {
     "meeting_number": 39,
@@ -1053,7 +1243,9 @@
     "album_title": "New Long Leg",
     "release_year": 2021,
     "label": "4AD",
-    "genre": "Post-Punk"
+    "genre": "Post-Punk",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 39,
@@ -1064,7 +1256,9 @@
     "album_title": "I Don't Live Here Anymore",
     "release_year": 2021,
     "label": "Atlantic",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Philadelphia, Pennsylvania"
   },
   {
     "meeting_number": 39,
@@ -1075,7 +1269,9 @@
     "album_title": "My Morning Jacket",
     "release_year": 2021,
     "label": "ATO",
-    "genre": "Southern Rock"
+    "genre": "Southern Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Louisville, Kentucky"
   },
   {
     "meeting_number": 40,
@@ -1086,7 +1282,9 @@
     "album_title": "Between 10th and 11th",
     "release_year": 1992,
     "label": "Situation Two",
-    "genre": "Madchester"
+    "genre": "Madchester",
+    "nation_of_origin": "UK",
+    "city_of_origin": "West Midlands"
   },
   {
     "meeting_number": 40,
@@ -1097,7 +1295,9 @@
     "album_title": "Bring It On",
     "release_year": 1998,
     "label": "Hut",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Southport"
   },
   {
     "meeting_number": 40,
@@ -1108,7 +1308,9 @@
     "album_title": "Crawler",
     "release_year": 2021,
     "label": "Partisan",
-    "genre": "Post-Punk"
+    "genre": "Post-Punk",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Bristol"
   },
   {
     "meeting_number": 41,
@@ -1119,7 +1321,9 @@
     "album_title": "Speak & Spell",
     "release_year": 1981,
     "label": "Mute",
-    "genre": "Synthpop"
+    "genre": "Synthpop",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Basildon, Essex"
   },
   {
     "meeting_number": 41,
@@ -1130,7 +1334,9 @@
     "album_title": "Computer World",
     "release_year": 1981,
     "label": "Kling Klang",
-    "genre": "Electronic"
+    "genre": "Electronic",
+    "nation_of_origin": "Germany",
+    "city_of_origin": "D\u00fcsseldorf"
   },
   {
     "meeting_number": 41,
@@ -1141,7 +1347,9 @@
     "album_title": "Ghost in the Machine",
     "release_year": 1981,
     "label": "A&M",
-    "genre": "New Wave"
+    "genre": "New Wave",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 42,
@@ -1152,7 +1360,9 @@
     "album_title": "Live Bullet",
     "release_year": 1976,
     "label": "Capitol",
-    "genre": "Rock"
+    "genre": "Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Detroit, Michigan"
   },
   {
     "meeting_number": 42,
@@ -1163,7 +1373,9 @@
     "album_title": "Pieces of a Man",
     "release_year": 1971,
     "label": "Flying Dutchman",
-    "genre": "Jazz Poetry"
+    "genre": "Jazz Poetry",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Chicago, Illinois"
   },
   {
     "meeting_number": 42,
@@ -1174,7 +1386,9 @@
     "album_title": "The Tipping Point",
     "release_year": 2022,
     "label": "Concord",
-    "genre": "Pop Rock"
+    "genre": "Pop Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Bath, Somerset"
   },
   {
     "meeting_number": 43,
@@ -1185,7 +1399,9 @@
     "album_title": "Evergreen",
     "release_year": 1997,
     "label": "London",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Liverpool"
   },
   {
     "meeting_number": 43,
@@ -1196,7 +1412,9 @@
     "album_title": "Vessel",
     "release_year": 2013,
     "label": "Fueled by Ramen",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Columbus, Ohio"
   },
   {
     "meeting_number": 43,
@@ -1207,7 +1425,9 @@
     "album_title": "Art of Doubt",
     "release_year": 2018,
     "label": "Crystal Math",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "Canada",
+    "city_of_origin": "Toronto, Ontario"
   },
   {
     "meeting_number": 44,
@@ -1218,7 +1438,9 @@
     "album_title": "The Doors",
     "release_year": 1967,
     "label": "Elektra",
-    "genre": "Psychedelic Rock"
+    "genre": "Psychedelic Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Los Angeles, California"
   },
   {
     "meeting_number": 44,
@@ -1229,7 +1451,9 @@
     "album_title": "Is This It",
     "release_year": 2001,
     "label": "RCA",
-    "genre": "Garage Rock Revival"
+    "genre": "Garage Rock Revival",
+    "nation_of_origin": "USA",
+    "city_of_origin": "New York, New York"
   },
   {
     "meeting_number": 45,
@@ -1240,7 +1464,9 @@
     "album_title": "Heavy Meta",
     "release_year": 2017,
     "label": "New West",
-    "genre": "Garage Rock"
+    "genre": "Garage Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Philadelphia, Pennsylvania"
   },
   {
     "meeting_number": 45,
@@ -1251,7 +1477,9 @@
     "album_title": "The Colour and the Shape",
     "release_year": 1997,
     "label": "Roswell",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Seattle, Washington"
   },
   {
     "meeting_number": 46,
@@ -1262,7 +1490,9 @@
     "album_title": "Night Time, My Time",
     "release_year": 2013,
     "label": "Capitol",
-    "genre": "Indie Pop"
+    "genre": "Indie Pop",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Los Angeles, California"
   },
   {
     "meeting_number": 46,
@@ -1273,7 +1503,9 @@
     "album_title": "Silent Alarm",
     "release_year": 2005,
     "label": "Wichita",
-    "genre": "Post-Punk Revival"
+    "genre": "Post-Punk Revival",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 47,
@@ -1284,7 +1516,9 @@
     "album_title": "In Ghost Colours",
     "release_year": 2008,
     "label": "Modular",
-    "genre": "Electronic"
+    "genre": "Electronic",
+    "nation_of_origin": "Australia",
+    "city_of_origin": "Melbourne"
   },
   {
     "meeting_number": 47,
@@ -1295,7 +1529,9 @@
     "album_title": "Kiss Me, Kiss Me, Kiss Me",
     "release_year": 1987,
     "label": "Fiction",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Crawley, West Sussex"
   },
   {
     "meeting_number": 48,
@@ -1306,7 +1542,9 @@
     "album_title": "Crime of the Century",
     "release_year": 1974,
     "label": "A&M",
-    "genre": "Progressive Rock"
+    "genre": "Progressive Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 48,
@@ -1317,7 +1555,9 @@
     "album_title": "The Alien Coast",
     "release_year": 2020,
     "label": "ATO",
-    "genre": "Soul"
+    "genre": "Soul",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Birmingham, Alabama"
   },
   {
     "meeting_number": 48,
@@ -1328,7 +1568,9 @@
     "album_title": "100 Days, 100 Nights",
     "release_year": 2007,
     "label": "Daptone",
-    "genre": "Soul"
+    "genre": "Soul",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Brooklyn, New York"
   },
   {
     "meeting_number": 49,
@@ -1339,7 +1581,9 @@
     "album_title": "Zenyatta Mondatta",
     "release_year": 1980,
     "label": "A&M",
-    "genre": "New Wave"
+    "genre": "New Wave",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 49,
@@ -1350,7 +1594,9 @@
     "album_title": "The Swing",
     "release_year": 1984,
     "label": "Mercury",
-    "genre": "New Wave"
+    "genre": "New Wave",
+    "nation_of_origin": "Australia",
+    "city_of_origin": "Sydney"
   },
   {
     "meeting_number": 49,
@@ -1361,7 +1607,9 @@
     "album_title": "Late for the Sky",
     "release_year": 1974,
     "label": "Asylum",
-    "genre": "Folk Rock"
+    "genre": "Folk Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Heidelberg, Germany"
   },
   {
     "meeting_number": 50,
@@ -1372,7 +1620,9 @@
     "album_title": "A Wizard, a True Star",
     "release_year": 1973,
     "label": "Bearsville",
-    "genre": "Art Rock"
+    "genre": "Art Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Philadelphia, Pennsylvania"
   },
   {
     "meeting_number": 50,
@@ -1383,7 +1633,9 @@
     "album_title": "Animals",
     "release_year": 1977,
     "label": "Harvest",
-    "genre": "Progressive Rock"
+    "genre": "Progressive Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 50,
@@ -1394,7 +1646,9 @@
     "album_title": "This Stupid World",
     "release_year": 2023,
     "label": "Matador",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Hoboken, New Jersey"
   },
   {
     "meeting_number": 51,
@@ -1405,7 +1659,9 @@
     "album_title": "Painless",
     "release_year": 2022,
     "label": "ATO",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 51,
@@ -1416,7 +1672,9 @@
     "album_title": "Stories from the City, Stories from the Sea",
     "release_year": 2000,
     "label": "Island",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Bridport, Dorset"
   },
   {
     "meeting_number": 51,
@@ -1427,7 +1685,9 @@
     "album_title": "Fever to Tell",
     "release_year": 2003,
     "label": "Interscope",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "New York, New York"
   },
   {
     "meeting_number": 52,
@@ -1438,7 +1698,9 @@
     "album_title": "From Under the Cork Tree",
     "release_year": 2005,
     "label": "Island",
-    "genre": "Pop Punk"
+    "genre": "Pop Punk",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Wilmette, Illinois"
   },
   {
     "meeting_number": 52,
@@ -1449,7 +1711,9 @@
     "album_title": "Blink-182",
     "release_year": 2003,
     "label": "Geffen",
-    "genre": "Pop Punk"
+    "genre": "Pop Punk",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Poway, California"
   },
   {
     "meeting_number": 52,
@@ -1460,7 +1724,9 @@
     "album_title": "Tell All Your Friends",
     "release_year": 2002,
     "label": "Victory",
-    "genre": "Emo"
+    "genre": "Emo",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Long Island, New York"
   },
   {
     "meeting_number": 53,
@@ -1471,7 +1737,9 @@
     "album_title": "Killing Joke",
     "release_year": 1980,
     "label": "E.G.",
-    "genre": "Post-Punk"
+    "genre": "Post-Punk",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Notting Hill, London"
   },
   {
     "meeting_number": 53,
@@ -1482,7 +1750,9 @@
     "album_title": "Tubeway Army",
     "release_year": 1978,
     "label": "Beggars Banquet",
-    "genre": "Post-Punk"
+    "genre": "Post-Punk",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 53,
@@ -1493,7 +1763,9 @@
     "album_title": "The Fragile",
     "release_year": 1999,
     "label": "Nothing",
-    "genre": "Industrial Rock"
+    "genre": "Industrial Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Cleveland, Ohio"
   },
   {
     "meeting_number": 54,
@@ -1504,7 +1776,9 @@
     "album_title": "Live at the Fillmore 1970",
     "release_year": 2006,
     "label": "Reprise",
-    "genre": "Rock"
+    "genre": "Rock",
+    "nation_of_origin": "Canada",
+    "city_of_origin": "Toronto, Ontario"
   },
   {
     "meeting_number": 55,
@@ -1515,7 +1789,9 @@
     "album_title": "Boomslang",
     "release_year": 2003,
     "label": "Artistdirect",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Manchester"
   },
   {
     "meeting_number": 55,
@@ -1526,7 +1802,9 @@
     "album_title": "Viva Hate",
     "release_year": 1988,
     "label": "HMV",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Manchester"
   },
   {
     "meeting_number": 55,
@@ -1537,7 +1815,9 @@
     "album_title": "Hatful of Hollow",
     "release_year": 1984,
     "label": "Rough Trade",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Manchester"
   },
   {
     "meeting_number": 56,
@@ -1548,7 +1828,9 @@
     "album_title": "Perennial",
     "release_year": 2023,
     "label": "Woodsist",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Brooklyn, New York"
   },
   {
     "meeting_number": 56,
@@ -1559,7 +1841,9 @@
     "album_title": "Ice, Death, Planets, Lungs, Mushrooms and Lava",
     "release_year": 2022,
     "label": "KGLW",
-    "genre": "Psychedelic Rock"
+    "genre": "Psychedelic Rock",
+    "nation_of_origin": "Australia",
+    "city_of_origin": "Melbourne"
   },
   {
     "meeting_number": 56,
@@ -1570,7 +1854,9 @@
     "album_title": "Chrome Dreams",
     "release_year": 2007,
     "label": "Reprise",
-    "genre": "Folk Rock"
+    "genre": "Folk Rock",
+    "nation_of_origin": "Canada",
+    "city_of_origin": "Toronto, Ontario"
   },
   {
     "meeting_number": 57,
@@ -1581,7 +1867,9 @@
     "album_title": "A Face in Your Life",
     "release_year": 2024,
     "label": "Carpark",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Brooklyn, New York"
   },
   {
     "meeting_number": 57,
@@ -1592,7 +1880,9 @@
     "album_title": "Household Name",
     "release_year": 2022,
     "label": "Polyvinyl",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Los Angeles, California"
   },
   {
     "meeting_number": 57,
@@ -1603,7 +1893,9 @@
     "album_title": "Songs of Praise",
     "release_year": 2018,
     "label": "Dead Oceans",
-    "genre": "Post-Punk"
+    "genre": "Post-Punk",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 58,
@@ -1614,7 +1906,9 @@
     "album_title": "A Weekend in the City",
     "release_year": 2007,
     "label": "Wichita",
-    "genre": "Post-Punk Revival"
+    "genre": "Post-Punk Revival",
+    "nation_of_origin": "UK",
+    "city_of_origin": "London"
   },
   {
     "meeting_number": 58,
@@ -1625,7 +1919,9 @@
     "album_title": "A Certain Trigger",
     "release_year": 2005,
     "label": "Warp",
-    "genre": "Post-Punk Revival"
+    "genre": "Post-Punk Revival",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Newcastle upon Tyne"
   },
   {
     "meeting_number": 58,
@@ -1636,7 +1932,9 @@
     "album_title": "The Futureheads",
     "release_year": 2004,
     "label": "679",
-    "genre": "Post-Punk Revival"
+    "genre": "Post-Punk Revival",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Sunderland"
   },
   {
     "meeting_number": 60,
@@ -1647,7 +1945,9 @@
     "album_title": "To Be Announced",
     "release_year": 2024,
     "label": "TBA",
-    "genre": "TBA"
+    "genre": "TBA",
+    "nation_of_origin": "Various",
+    "city_of_origin": "Various"
   },
   {
     "meeting_number": 60,
@@ -1658,7 +1958,9 @@
     "album_title": "To Be Announced",
     "release_year": 2024,
     "label": "TBA",
-    "genre": "TBA"
+    "genre": "TBA",
+    "nation_of_origin": "Various",
+    "city_of_origin": "Various"
   },
   {
     "meeting_number": 60,
@@ -1669,7 +1971,9 @@
     "album_title": "To Be Announced",
     "release_year": 2024,
     "label": "TBA",
-    "genre": "TBA"
+    "genre": "TBA",
+    "nation_of_origin": "Various",
+    "city_of_origin": "Various"
   },
   {
     "meeting_number": 61,
@@ -1680,7 +1984,9 @@
     "album_title": "To Be Announced",
     "release_year": 2024,
     "label": "TBA",
-    "genre": "TBA"
+    "genre": "TBA",
+    "nation_of_origin": "Various",
+    "city_of_origin": "Various"
   },
   {
     "meeting_number": 61,
@@ -1691,7 +1997,9 @@
     "album_title": "To Be Announced",
     "release_year": 2024,
     "label": "TBA",
-    "genre": "TBA"
+    "genre": "TBA",
+    "nation_of_origin": "Various",
+    "city_of_origin": "Various"
   },
   {
     "meeting_number": 61,
@@ -1702,7 +2010,9 @@
     "album_title": "To Be Announced",
     "release_year": 2024,
     "label": "TBA",
-    "genre": "TBA"
+    "genre": "TBA",
+    "nation_of_origin": "Various",
+    "city_of_origin": "Various"
   },
   {
     "meeting_number": 62,
@@ -1713,7 +2023,9 @@
     "album_title": "To Be Announced",
     "release_year": 2025,
     "label": "TBA",
-    "genre": "TBA"
+    "genre": "TBA",
+    "nation_of_origin": "Various",
+    "city_of_origin": "Various"
   },
   {
     "meeting_number": 62,
@@ -1724,7 +2036,9 @@
     "album_title": "To Be Announced",
     "release_year": 2025,
     "label": "TBA",
-    "genre": "TBA"
+    "genre": "TBA",
+    "nation_of_origin": "Various",
+    "city_of_origin": "Various"
   },
   {
     "meeting_number": 62,
@@ -1735,7 +2049,9 @@
     "album_title": "To Be Announced",
     "release_year": 2025,
     "label": "TBA",
-    "genre": "TBA"
+    "genre": "TBA",
+    "nation_of_origin": "Various",
+    "city_of_origin": "Various"
   },
   {
     "meeting_number": 63,
@@ -1746,7 +2062,9 @@
     "album_title": "Phantom Planet",
     "release_year": 2004,
     "label": "Epic",
-    "genre": "Indie Rock"
+    "genre": "Indie Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Los Angeles, California"
   },
   {
     "meeting_number": 63,
@@ -1757,7 +2075,9 @@
     "album_title": "Loss of Life",
     "release_year": 2024,
     "label": "Mom + Pop",
-    "genre": "Psychedelic Pop"
+    "genre": "Psychedelic Pop",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Middletown, Connecticut"
   },
   {
     "meeting_number": 63,
@@ -1768,7 +2088,9 @@
     "album_title": "Magical Mystery Tour",
     "release_year": 1967,
     "label": "Capitol",
-    "genre": "Psychedelic Rock"
+    "genre": "Psychedelic Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Liverpool"
   },
   {
     "meeting_number": 64,
@@ -1779,7 +2101,9 @@
     "album_title": "Incesticide",
     "release_year": 1992,
     "label": "DGC",
-    "genre": "Grunge"
+    "genre": "Grunge",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Aberdeen, Washington"
   },
   {
     "meeting_number": 64,
@@ -1790,7 +2114,9 @@
     "album_title": "A Black Mile to the Surface",
     "release_year": 2017,
     "label": "Loma Vista",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "USA",
+    "city_of_origin": "Atlanta, Georgia"
   },
   {
     "meeting_number": 64,
@@ -1801,6 +2127,8 @@
     "album_title": "In Rainbows",
     "release_year": 2007,
     "label": "XL",
-    "genre": "Alternative Rock"
+    "genre": "Alternative Rock",
+    "nation_of_origin": "UK",
+    "city_of_origin": "Abingdon, Oxfordshire"
   }
 ]
