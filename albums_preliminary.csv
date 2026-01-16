@@ -1,0 +1,176 @@
+meeting_number,meeting_date,presenter,album_position,artist,album_title,raw_text
+1,1/22/2015,Chris,warm_up_1,King Crimson,In the Court of the Crimson King,King Crimson In the Court of the Crimson King
+2,2/26/2015,Joe,warm_up_1,Mountain Nantucket,Sleighride,Mountain Nantucket Sleighride
+3,3/27/2015,John,warm_up_1,,Sebado,Sebado
+3,3/27/2015,John,warm_up_2,Yo La,Tengo,Yo La Tengo
+3,3/27/2015,John,headliner,Ben,Lee,Ben Lee
+4,4/23/2015,Chris,warm_up_1,The Knife,Silent Shout,The Knife Silent Shout
+5,7/29/2015,Joe,warm_up_1,Jefferson Airplane,Surrealistic Pillow,Jefferson Airplane Surrealistic Pillow
+5,7/29/2015,Joe,warm_up_2,Talking Heads,Talking Heads:77,Talking Heads Talking Heads:77
+6,11/5/2015,John,warm_up_1,The Afghan,Whigs Black Love,The Afghan Whigs Black Love
+7,12/17/2015,Chris,warm_up_1,The Stooges,Raw Power,The Stooges Raw Power
+8,1/26/2016,Joe,warm_up_1,James Brown,Say it Loud,James Brown Say it Loud
+8,1/26/2016,Joe,warm_up_2,David Bowie,tribute,David Bowie tribute
+9,3/25/2016,Lucas,warm_up_1,Paul Simon,Graceland,Paul Simon Graceland
+9,3/25/2016,Lucas,warm_up_2,Arcade Fire,Funeral,Arcade Fire Funeral
+9,3/25/2016,Lucas,headliner,Vampire Weekend,Vampire Weekend,Vampire Weekend Vampire Weekend
+10,5/26/2016,John,warm_up_1,The Replacements,Pleased to Meet You,The Replacements Pleased to Meet You
+10,5/26/2016,John,warm_up_2,The Jam,Setting Sons,The Jam Setting Sons
+10,5/26/2016,John,headliner,Big Star,#1 Record,Big Star #1 Record
+11,8/10/2016,Chris,warm_up_1,Joy Division,Unknown Pleasures,Joy Division Unknown Pleasures
+11,8/10/2016,Chris,warm_up_2,Genesis Selling,England by the Pound,Genesis Selling England by the Pound
+11,8/10/2016,Chris,headliner,Radiohead A,Moon Shaped Pool,Radiohead A Moon Shaped Pool
+12,9/29/2016,Joe,warm_up_1,Adrian Belew,Young Lions,Adrian Belew Young Lions
+12,9/29/2016,Joe,warm_up_2,Robin Trower,Bridge of Sighs,Robin Trower Bridge of Sighs
+12,9/29/2016,Joe,headliner,Santana,Moonflower,Santana Moonflower
+13,12/8/2016,Lucas,warm_up_1,Frightened Rabbits,Midnight Organ Fight,Frightened Rabbits Midnight Organ Fight
+13,12/8/2016,Lucas,warm_up_2,Leonard Cohen,Personal Problems,Leonard Cohen Personal Problems
+13,12/8/2016,Lucas,headliner,Bob Dylan,Blood on the Tracks,Bob Dylan Blood on the Tracks
+14,1/26/2017,John,warm_up_1,Galaxie 500,On Fire,Galaxie 500 On Fire
+14,1/26/2017,John,warm_up_2,Morphine Cure,for Pain,Morphine Cure for Pain
+14,1/26/2017,John,headliner,Built to,Spill Perfect from Now On,Built to Spill Perfect from Now On
+15,3/9/2017,Chris,warm_up_1,MC5 Kick,Out the Jams,MC5 Kick Out the Jams
+15,3/9/2017,Chris,warm_up_2,Mastodon Crack,the Skye,Mastodon Crack the Skye
+15,3/9/2017,Chris,headliner,Black Sabbath,Black Sabbath Vol 4,Black Sabbath Black Sabbath Vol 4
+16,5/4/2017,Joe,warm_up_1,Live Mental,Jewelry,Live Mental Jewelry
+16,5/4/2017,Joe,warm_up_2,Kansas,Leftoverture,Kansas Leftoverture
+16,5/4/2017,Joe,headliner,Allman Brothers,At Fillmore East,Allman Brothers At Fillmore East
+17,8/10/2017,Lucas,warm_up_1,Interpol Turn,On The Bright Lights,Interpol Turn On The Bright Lights
+17,8/10/2017,Lucas,warm_up_2,Serge Gainsbourg,& Jane Burkin Jane Burkin/Serge Gainsbourg,Serge Gainsbourg & Jane Burkin Jane Burkin/Serge Gainsbourg
+17,8/10/2017,Lucas,headliner,Modest Mouse,The Moon & Antarctica,Modest Mouse The Moon & Antarctica
+18,9/14/2017,John,warm_up_1,David Bowie,Pinups,David Bowie Pinups
+18,9/14/2017,John,warm_up_2,Steve Earle,Townes: The Basics,Steve Earle Townes: The Basics
+18,9/14/2017,John,headliner,Kurt Vile,Believe I’m Going Down,Kurt Vile Believe I’m Going Down
+18,9/14/2017,John,additional_4,(also played*John Mayer,Where the Light Is,"David Bowie Pinups, Steve Earle Townes: The Basics, Kurt Vile Believe I’m Going Down, (also played*John Mayer – Where the Light Is, Steely Dan – Aja)"
+18,9/14/2017,John,additional_5,Steely Dan,Aja),"David Bowie Pinups, Steve Earle Townes: The Basics, Kurt Vile Believe I’m Going Down, (also played*John Mayer – Where the Light Is, Steely Dan – Aja)"
+19,10/26/2017,Chris,warm_up_1,Spoon Ga,Ga Ga Ga Ga,Spoon Ga Ga Ga Ga Ga
+19,10/26/2017,Chris,warm_up_2,Fleetwood Mac,Rumours,Fleetwood Mac Rumours
+19,10/26/2017,Chris,headliner,R.E.M.,Murmur,R.E.M. Murmur
+20,1/25/2018,Joe,warm_up_1,Widespread Panic,VCL Mix Edition,"Widespread Panic - VCL Mix Edition, J. Geils - The Morning After, Jethro Tull - Thick As A Brick"
+20,1/25/2018,Joe,warm_up_2,J. Geils,The Morning After,"Widespread Panic - VCL Mix Edition, J. Geils - The Morning After, Jethro Tull - Thick As A Brick"
+20,1/25/2018,Joe,headliner,Jethro Tull,Thick As A Brick,"Widespread Panic - VCL Mix Edition, J. Geils - The Morning After, Jethro Tull - Thick As A Brick"
+21,3/8/2018,Eric,warm_up_1,Stone Roses,The Stone Roses,Stone Roses The Stone Roses
+21,3/8/2018,Eric,warm_up_2,Grouplove Never,Trust a Happy Song,Grouplove Never Trust a Happy Song
+21,3/8/2018,Eric,headliner,The Wombats,Beautiful People Will Ruin Your Life,The Wombats Beautiful People Will Ruin Your Life
+22,5/10/2018,John,warm_up_1,Wilco Yankee,Hotel Foxtrot,Wilco Yankee Hotel Foxtrot
+22,5/10/2018,John,warm_up_2,Pavement Slanted,and Enchanted,Pavement Slanted and Enchanted
+22,5/10/2018,John,headliner,Sonic Youth,Daydream Nation,Sonic Youth Daydream Nation
+23,8/9/2018,Adam,warm_up_1,The Orwells,Discgraceland,The Orwells Discgraceland
+23,8/9/2018,Adam,warm_up_2,Sleater Kinney,Dig Me Out,Sleater Kinney Dig Me Out
+23,8/9/2018,Adam,headliner,Pixies,Doolittle,Pixies Doolittle
+24,11/1/2018,Lucas,warm_up_1,Los Campesinos,No Blues,Los Campesinos No Blues
+24,11/1/2018,Lucas,warm_up_2,John Prine,Bruised Orange,John Prine Bruised Orange
+25,1/24/2019,Chris,warm_up_1,Led Zeppelin,Led Zeppelin I,Led Zeppelin Led Zeppelin I
+25,1/24/2019,Chris,warm_up_2,Led Zeppelin,Led Zeppelin II,Led Zeppelin Led Zeppelin II
+26,3/7/2019,Joe,warm_up_1,Mott The,Hoople All The Young Dudes,Mott The Hoople All The Young Dudes
+26,3/7/2019,Joe,warm_up_2,Roy Buchanan,That’s What I Am Here For,Roy Buchanan That’s What I Am Here For
+27,5/2/2019,Eric,warm_up_1,Tears for,Fears Elemental,Tears for Fears Elemental
+27,5/2/2019,Eric,warm_up_2,Beck,Guero,Beck Guero
+28,9/5/2019,John,warm_up_1,Dinosaur Jr,You’re Living All Over Me,Dinosaur Jr You’re Living All Over Me
+28,9/5/2019,John,warm_up_2,J. Mascis,Elastic Days,J. Mascis Elastic Days
+29,10/7/2019,Adam,warm_up_1,Japandroids Celebration,Rock,Japandroids Celebration Rock
+29,10/7/2019,Adam,warm_up_2,Arcade Fire,Funeral,Arcade Fire Funeral
+30,1/23/2020,Lucas,warm_up_1,Father John,Misty Fear Fun,Father John Misty Fear Fun
+30,1/23/2020,Lucas,warm_up_2,Van Morrison,Astral Weeks,Van Morrison Astral Weeks
+31,6/11/2020,Chris,warm_up_1,Band of Horses,Everything All the Time,Band of Horses – Everything All the Time; Brand New – The Devil and God Are Raging Inside Me; TV on the Radio – Return to Cookie Mountain
+31,6/11/2020,Chris,warm_up_2,Brand New,The Devil and God Are Raging Inside Me,Band of Horses – Everything All the Time; Brand New – The Devil and God Are Raging Inside Me; TV on the Radio – Return to Cookie Mountain
+31,6/11/2020,Chris,headliner,TV on the Radio,Return to Cookie Mountain,Band of Horses – Everything All the Time; Brand New – The Devil and God Are Raging Inside Me; TV on the Radio – Return to Cookie Mountain
+32,8/6/2020,Joe,warm_up_1,Arc Angels,Arc Angels,Arc Angels – Arc Angels; Yes – Close to the Edge; Good Night Lights – Biggest Fears
+32,8/6/2020,Joe,warm_up_2,Yes,Close to the Edge,Arc Angels – Arc Angels; Yes – Close to the Edge; Good Night Lights – Biggest Fears
+32,8/6/2020,Joe,headliner,Good Night Lights,Biggest Fears,Arc Angels – Arc Angels; Yes – Close to the Edge; Good Night Lights – Biggest Fears
+33,9/24/2020,John,warm_up_1,The Church,Starfish,The Church – Starfish; Treepeople – Something Vicious for Tomorrow / Time Whore; Joe Strummer + The Mescaleros - Streetcore
+33,9/24/2020,John,warm_up_2,Treepeople,Something Vicious for Tomorrow / Time Whore,The Church – Starfish; Treepeople – Something Vicious for Tomorrow / Time Whore; Joe Strummer + The Mescaleros - Streetcore
+33,9/24/2020,John,headliner,Joe Strummer + The Mescaleros,Streetcore,The Church – Starfish; Treepeople – Something Vicious for Tomorrow / Time Whore; Joe Strummer + The Mescaleros - Streetcore
+34,11/19/2020,Eric,warm_up_1,Van Halen,1984,Van Halen – 1984; Haim – Days Are Gone; The Smiths – Louder Than Bombs
+34,11/19/2020,Eric,warm_up_2,Haim,Days Are Gone,Van Halen – 1984; Haim – Days Are Gone; The Smiths – Louder Than Bombs
+34,11/19/2020,Eric,headliner,The Smiths,Louder Than Bombs,Van Halen – 1984; Haim – Days Are Gone; The Smiths – Louder Than Bombs
+35,3/11/2021,Adam,warm_up_1,Nehiyawak,nipiy,"Nehiyawak – nipiy, Miles Cane – Coup de Grace, Afghan Whigs – Up In It"
+35,3/11/2021,Adam,warm_up_2,Miles Cane,Coup de Grace,"Nehiyawak – nipiy, Miles Cane – Coup de Grace, Afghan Whigs – Up In It"
+35,3/11/2021,Adam,headliner,Afghan Whigs,Up In It,"Nehiyawak – nipiy, Miles Cane – Coup de Grace, Afghan Whigs – Up In It"
+36,5/13/2021,Chris,warm_up_1,Television,Marquee Moon,"Television – Marquee Moon, Devo – Q: Are We Not Men? A: We Are Devo; The Clash – London Calling"
+36,5/13/2021,Chris,warm_up_2,Devo,Q: Are We Not Men? A: We Are Devo,"Television – Marquee Moon, Devo – Q: Are We Not Men? A: We Are Devo; The Clash – London Calling"
+36,5/13/2021,Chris,headliner,The Clash,London Calling,"Television – Marquee Moon, Devo – Q: Are We Not Men? A: We Are Devo; The Clash – London Calling"
+37,6/10/2021,Joe,warm_up_1,Leon Bridges,Coming Home,"Leon Bridges – Coming Home; Billie Eilish – When We all Fall Asleep, Where Do We Go; Harry Styles – Fine Line"
+37,6/10/2021,Joe,warm_up_2,Billie Eilish,When We all Fall Asleep,"Leon Bridges – Coming Home; Billie Eilish – When We all Fall Asleep, Where Do We Go; Harry Styles – Fine Line"
+37,6/10/2021,Joe,headliner,Where Do,We Go,Where Do We Go
+37,6/10/2021,Joe,additional_4,Harry Styles,Fine Line,"Leon Bridges – Coming Home; Billie Eilish – When We all Fall Asleep, Where Do We Go; Harry Styles – Fine Line"
+38,9/7/2021,Eric,warm_up_1,William Orbit,My Oracle Lives Uptown,William Orbit – My Oracle Lives Uptown; The Connells – Steadman’s Wake; The Stranglers – Dark Matters
+38,9/7/2021,Eric,warm_up_2,The Connells,Steadman’s Wake,William Orbit – My Oracle Lives Uptown; The Connells – Steadman’s Wake; The Stranglers – Dark Matters
+38,9/7/2021,Eric,headliner,The Stranglers,Dark Matters,William Orbit – My Oracle Lives Uptown; The Connells – Steadman’s Wake; The Stranglers – Dark Matters
+39,11/23/2021,John,warm_up_1,Dry Cleaning,New Long Leg,Dry Cleaning – New Long Leg; The War on Drugs – I Don’t Live Here Anymore; My Morning Jacket – My Morning Jacket
+39,11/23/2021,John,warm_up_2,The War on Drugs,I Don’t Live Here Anymore,Dry Cleaning – New Long Leg; The War on Drugs – I Don’t Live Here Anymore; My Morning Jacket – My Morning Jacket
+39,11/23/2021,John,headliner,My Morning Jacket,My Morning Jacket,Dry Cleaning – New Long Leg; The War on Drugs – I Don’t Live Here Anymore; My Morning Jacket – My Morning Jacket
+40,04/14/2022,Adam,warm_up_1,The Charlatans UK,Between 10th + 11th,"The Charlatans UK – Between 10th + 11th, Gomez – Bring It On, IDLES - CRAWLER"
+40,04/14/2022,Adam,warm_up_2,Gomez,Bring It On,"The Charlatans UK – Between 10th + 11th, Gomez – Bring It On, IDLES - CRAWLER"
+40,04/14/2022,Adam,headliner,IDLES,CRAWLER,"The Charlatans UK – Between 10th + 11th, Gomez – Bring It On, IDLES - CRAWLER"
+41,6/9/2022,Chris,warm_up_1,Depeche Mode,Speak & Spell,Depeche Mode – Speak & Spell; Kraftwerk – Computer World; The Police – Ghost in the Machine
+41,6/9/2022,Chris,warm_up_2,Kraftwerk,Computer World,Depeche Mode – Speak & Spell; Kraftwerk – Computer World; The Police – Ghost in the Machine
+41,6/9/2022,Chris,headliner,The Police,Ghost in the Machine,Depeche Mode – Speak & Spell; Kraftwerk – Computer World; The Police – Ghost in the Machine
+42,7/14/2022,Joe,warm_up_1,Beautiful Bob Seger,Live Bullet,Beautiful Bob Seger – Live Bullet; Gil Scott-Heron – Pieces of a Man; Tears for Fears – Tipping Point
+42,7/14/2022,Joe,warm_up_2,Gil Scott-Heron,Pieces of a Man,Beautiful Bob Seger – Live Bullet; Gil Scott-Heron – Pieces of a Man; Tears for Fears – Tipping Point
+42,7/14/2022,Joe,headliner,Tears for Fears,Tipping Point,Beautiful Bob Seger – Live Bullet; Gil Scott-Heron – Pieces of a Man; Tears for Fears – Tipping Point
+43,8/11/2022,Eric,warm_up_1,Echo & the bunnymen,Evergreen,Echo & the bunnymen - Evergreen; Twenty One Pilots - Vessel;  Metric - The Art of Doubt
+43,8/11/2022,Eric,warm_up_2,Twenty One Pilots,Vessel,Echo & the bunnymen - Evergreen; Twenty One Pilots - Vessel;  Metric - The Art of Doubt
+43,8/11/2022,Eric,headliner,Metric,The Art of Doubt,Echo & the bunnymen - Evergreen; Twenty One Pilots - Vessel;  Metric - The Art of Doubt
+44,9/15/2022,John,warm_up_1,The Doors,The Doors,The Doors – The Doors; The Strokes – This is It
+44,9/15/2022,John,warm_up_2,The Strokes,This is It,The Doors – The Doors; The Strokes – This is It
+45,11/17/2022,Adam,warm_up_1,Ron Gallo,HEAVY META,Ron Gallo - HEAVY META; The Foo Fighters – The Colour and the Shape
+45,11/17/2022,Adam,warm_up_2,The Foo Fighters,The Colour and the Shape,Ron Gallo - HEAVY META; The Foo Fighters – The Colour and the Shape
+46,1/12/2023,Lucas,warm_up_1,Sky Perriera,Night Time,"Sky Perriera – Night Time, My Time; Bloc Party – Silent Alarm"
+46,1/12/2023,Lucas,warm_up_2,My,Time,My Time
+46,1/12/2023,Lucas,headliner,Bloc Party,Silent Alarm,"Sky Perriera – Night Time, My Time; Bloc Party – Silent Alarm"
+47,3/9/2023,Chris,warm_up_1,Cut/Copy,In Ghost Colours,"Cut/Copy – In Ghost Colours; The Cure – Kiss Me, Kiss Me, Kiss Me"
+47,3/9/2023,Chris,warm_up_2,The Cure,Kiss Me,"Cut/Copy – In Ghost Colours; The Cure – Kiss Me, Kiss Me, Kiss Me"
+47,3/9/2023,Chris,headliner,Kiss,Me,Kiss Me
+47,3/9/2023,Chris,additional_4,Kiss,Me,Kiss Me
+48,4/20/2023,Joe,warm_up_1,Supertramp,Crime of the Century,Supertramp – Crime of the Century; St. Paul & The Broken Bones – The Alien Coast; Sharon Jones & The Dap Kings – 100 Days 100 Nights
+48,4/20/2023,Joe,warm_up_2,St. Paul & The Broken Bones,The Alien Coast,Supertramp – Crime of the Century; St. Paul & The Broken Bones – The Alien Coast; Sharon Jones & The Dap Kings – 100 Days 100 Nights
+48,4/20/2023,Joe,headliner,Sharon Jones & The Dap Kings,100 Days 100 Nights,Supertramp – Crime of the Century; St. Paul & The Broken Bones – The Alien Coast; Sharon Jones & The Dap Kings – 100 Days 100 Nights
+49,6/8/2023,Eric,warm_up_1,The Police,Zenyatta Mondatta,The Police - Zenyatta Mondatta; INXS – The Swing; Jackson Browne – Late For The Sky
+49,6/8/2023,Eric,warm_up_2,INXS,The Swing,The Police - Zenyatta Mondatta; INXS – The Swing; Jackson Browne – Late For The Sky
+49,6/8/2023,Eric,headliner,Jackson Browne,Late For The Sky,The Police - Zenyatta Mondatta; INXS – The Swing; Jackson Browne – Late For The Sky
+50,7/13/2023,John,warm_up_1,Todd Rundgren,A Wizard / A True Star,Todd Rundgren - A Wizard / A True Star; Pink Floyd - Animals; Yo La Tengo - This Stupid World
+50,7/13/2023,John,warm_up_2,Pink Floyd,Animals,Todd Rundgren - A Wizard / A True Star; Pink Floyd - Animals; Yo La Tengo - This Stupid World
+50,7/13/2023,John,headliner,Yo La Tengo,This Stupid World,Todd Rundgren - A Wizard / A True Star; Pink Floyd - Animals; Yo La Tengo - This Stupid World
+51,9/21/2023,Adam,warm_up_1,Nilüfer Yanya,PAINLESS,"Nilüfer Yanya - PAINLESS, PJ Harvey - Stories from the City, Stories from the Sea; Yeah Yeah Yeahs - Fever to Tell"
+51,9/21/2023,Adam,warm_up_2,PJ Harvey,Stories from the City,"Nilüfer Yanya - PAINLESS, PJ Harvey - Stories from the City, Stories from the Sea; Yeah Yeah Yeahs - Fever to Tell"
+51,9/21/2023,Adam,headliner,Stories from,the Sea,Stories from the Sea
+51,9/21/2023,Adam,additional_4,Yeah Yeah Yeahs,Fever to Tell,"Nilüfer Yanya - PAINLESS, PJ Harvey - Stories from the City, Stories from the Sea; Yeah Yeah Yeahs - Fever to Tell"
+52,10/19/2023,Lucas,warm_up_1,Fall Out Boy,From Under the Cork Tree,"Fall Out Boy – From Under the Cork Tree, Blink-182 – Blink-182, Taking Back Sunday – Tell All Your Friends"
+52,10/19/2023,Lucas,warm_up_2,Blink-182,Blink-182,"Fall Out Boy – From Under the Cork Tree, Blink-182 – Blink-182, Taking Back Sunday – Tell All Your Friends"
+52,10/19/2023,Lucas,headliner,Taking Back Sunday,Tell All Your Friends,"Fall Out Boy – From Under the Cork Tree, Blink-182 – Blink-182, Taking Back Sunday – Tell All Your Friends"
+53,11/9/2023,Chris,warm_up_1,Killing Joke,Killing Joke,Killing Joke – Killing Joke; Tubeway Army – Tubeway Army; Nine Inch Nails – The Fragile
+53,11/9/2023,Chris,warm_up_2,Tubeway Army,Tubeway Army,Killing Joke – Killing Joke; Tubeway Army – Tubeway Army; Nine Inch Nails – The Fragile
+53,11/9/2023,Chris,headliner,Nine Inch Nails,The Fragile,Killing Joke – Killing Joke; Tubeway Army – Tubeway Army; Nine Inch Nails – The Fragile
+54,1/10/2024,Joe,warm_up_1,Neil Young,& Crazy Horse at The Fillmore 1970,Neil Young & Crazy Horse at The Fillmore 1970
+54,1/10/2024,Joe,warm_up_2,First Ever,Film Presentation: The Last Waltz,First Ever Film Presentation: The Last Waltz
+55,3/14/2024,Eric,warm_up_1,Johnny Marr + the Healers,Boomslang,Johnny Marr + the Healers – Boomslang; Morrissey – Viva Hate; The Smiths – Hatful of Hollow
+55,3/14/2024,Eric,warm_up_2,Morrissey,Viva Hate,Johnny Marr + the Healers – Boomslang; Morrissey – Viva Hate; The Smiths – Hatful of Hollow
+55,3/14/2024,Eric,headliner,The Smiths,Hatful of Hollow,Johnny Marr + the Healers – Boomslang; Morrissey – Viva Hate; The Smiths – Hatful of Hollow
+56,4/11/2024,John,warm_up_1,Woods,Perennial,"Woods - Perennial; King Gizzard & the Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms and Lava; Neil Young - Chrome Dreams"
+56,4/11/2024,John,warm_up_2,King Gizzard & the Lizard Wizard,Ice,"Woods - Perennial; King Gizzard & the Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms and Lava; Neil Young - Chrome Dreams"
+56,4/11/2024,John,headliner,,Death,Death
+56,4/11/2024,John,additional_4,,Planets,Planets
+56,4/11/2024,John,additional_5,,Lungs,Lungs
+56,4/11/2024,John,additional_6,Mushrooms and,Lava,Mushrooms and Lava
+56,4/11/2024,John,additional_7,Neil Young,Chrome Dreams,"Woods - Perennial; King Gizzard & the Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms and Lava; Neil Young - Chrome Dreams"
+57,5/9/2024,Adam,warm_up_1,Pet Fox,A Face in Your Life,Pet Fox - A Face in Your Life; Momma - Household Name; Shame - Songs of Praise
+57,5/9/2024,Adam,warm_up_2,Momma,Household Name,Pet Fox - A Face in Your Life; Momma - Household Name; Shame - Songs of Praise
+57,5/9/2024,Adam,headliner,Shame,Songs of Praise,Pet Fox - A Face in Your Life; Momma - Household Name; Shame - Songs of Praise
+58,9/12/2024,Lucas,warm_up_1,Bloc Party,A Weekend in the City,"Bloc Party – A Weekend in the City, Maximo Park – A Certain Trigger, Futureheads – Futureheads (Self Titled)"
+58,9/12/2024,Lucas,warm_up_2,Maximo Park,A Certain Trigger,"Bloc Party – A Weekend in the City, Maximo Park – A Certain Trigger, Futureheads – Futureheads (Self Titled)"
+58,9/12/2024,Lucas,headliner,Futureheads,Futureheads (Self Titled),"Bloc Party – A Weekend in the City, Maximo Park – A Certain Trigger, Futureheads – Futureheads (Self Titled)"
+63,3/13/2025,Adam,warm_up_1,Phantom Planet,Phantom Planet,"Phantom Planet – Phantom Planet, MGMT – Loss of Life, The Beatles – Magical Mystery Tour"
+63,3/13/2025,Adam,warm_up_2,MGMT,Loss of Life,"Phantom Planet – Phantom Planet, MGMT – Loss of Life, The Beatles – Magical Mystery Tour"
+63,3/13/2025,Adam,headliner,The Beatles,Magical Mystery Tour,"Phantom Planet – Phantom Planet, MGMT – Loss of Life, The Beatles – Magical Mystery Tour"
+64,5/22/2025,Lucas,warm_up_1,Nirvana,Incesticide,"Nirvana – Incesticide, Manchester Orchestra – A Black Mile to the Surface, Radiohead – In Rainbows"
+64,5/22/2025,Lucas,warm_up_2,Manchester Orchestra,A Black Mile to the Surface,"Nirvana – Incesticide, Manchester Orchestra – A Black Mile to the Surface, Radiohead – In Rainbows"
+64,5/22/2025,Lucas,headliner,Radiohead,In Rainbows,"Nirvana – Incesticide, Manchester Orchestra – A Black Mile to the Surface, Radiohead – In Rainbows"
+12/17/15,Chris,,warm_up_1,1st Presentation,deck,1st Presentation deck
+3/25/16,Lucas,Joe,warm_up_1,1st Reference,"to ""Resident Musicologist","1st Reference to ""Resident Musicologist"
+3/25/16,Lucas,Joe,warm_up_2,Joseph Ziegler,"report""","Joseph Ziegler report"""
+5/25/16,John,Joe,warm_up_1,2nd Reference,"to ""Resident Musicologist…""","2nd Reference to ""Resident Musicologist…"""
+8/10/16,Chris,Joe,warm_up_1,Resident Musicologist,Report reference,Resident Musicologist Report reference
+6/11/20,Chris,Joe,warm_up_1,***Musicology was,tabled until the next meeting,***Musicology was tabled until the next meeting
+11/19/20,Eric,Joe,warm_up_1,***unclear what,topic was covered,***unclear what topic was covered
+4/11/24,John,,warm_up_1,***No musicology conducted,Changing of the arms,***No musicology conducted - Changing of the arms
