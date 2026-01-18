@@ -1,165 +1,165 @@
-meeting_number,meeting_date,presenter,album_position,artist,album_title,release_year,label,genre,nation_of_origin,city_of_origin
-1,1/22/2015,Chris,headliner,King Crimson,In the Court of the Crimson King,1969,Island,Progressive Rock,UK,London
-2,2/26/2015,Joe,headliner,Mountain,Nantucket Sleighride,1971,Windfall,Hard Rock,USA,"New York, New York"
-3,3/27/2015,John,warm_up_1,Sebadoh,Sebadoh III,1991,Homestead,Indie Rock,USA,"Northampton, Massachusetts"
-3,3/27/2015,John,warm_up_2,Yo La Tengo,I Can Hear the Heart Beating as One,1997,Matador,Indie Rock,USA,"Hoboken, New Jersey"
-3,3/27/2015,John,headliner,Ben Lee,Grandpaw Would,1995,Modular,Alternative Rock,Australia,Sydney
-4,4/23/2015,Chris,headliner,The Knife,Silent Shout,2006,Rabid,Electronic,Sweden,Gothenburg
-5,7/29/2015,Joe,warm_up_1,Jefferson Airplane,Surrealistic Pillow,1967,RCA Victor,Psychedelic Rock,USA,"San Francisco, California"
-5,7/29/2015,Joe,warm_up_2,Talking Heads,Talking Heads: 77,1977,Sire,New Wave,USA,"New York, New York"
-6,11/5/2015,John,headliner,The Afghan Whigs,Black Love,1996,Elektra,Alternative Rock,USA,"Cincinnati, Ohio"
-7,12/17/2015,Chris,headliner,The Stooges,Raw Power,1973,Columbia,Punk Rock,USA,"Ann Arbor, Michigan"
-8,1/26/2016,Joe,warm_up_1,James Brown,Say It Loud,1969,King,Funk,USA,"Augusta, Georgia"
-8,1/26/2016,Joe,warm_up_2,Various Artists,David Bowie Tribute,2016,Various,Rock,Various,Various
-9,3/25/2016,Lucas,warm_up_1,Paul Simon,Graceland,1986,Warner Bros.,World Music,USA,"Newark, New Jersey"
-9,3/25/2016,Lucas,warm_up_2,Arcade Fire,Funeral,2004,Merge,Indie Rock,Canada,"Montreal, Quebec"
-9,3/25/2016,Lucas,headliner,Vampire Weekend,Vampire Weekend,2008,XL,Indie Rock,USA,"New York, New York"
-10,5/26/2016,John,warm_up_1,The Replacements,Pleased to Meet Me,1987,Sire,Alternative Rock,USA,"Minneapolis, Minnesota"
-10,5/26/2016,John,warm_up_2,The Jam,Setting Sons,1979,Polydor,Punk Rock,UK,"Woking, Surrey"
-10,5/26/2016,John,headliner,Big Star,#1 Record,1972,Ardent,Power Pop,USA,"Memphis, Tennessee"
-11,8/10/2016,Chris,warm_up_1,Joy Division,Unknown Pleasures,1979,Factory,Post-Punk,UK,Manchester
-11,8/10/2016,Chris,warm_up_2,Genesis,Selling England by the Pound,1973,Charisma,Progressive Rock,UK,"Godalming, Surrey"
-11,8/10/2016,Chris,headliner,Radiohead,A Moon Shaped Pool,2016,XL,Alternative Rock,UK,"Abingdon, Oxfordshire"
-12,9/29/2016,Joe,warm_up_1,Adrian Belew,Young Lions,1990,Atlantic,Art Rock,USA,"Covington, Kentucky"
-12,9/29/2016,Joe,warm_up_2,Robin Trower,Bridge of Sighs,1974,Chrysalis,Blues Rock,UK,London
-12,9/29/2016,Joe,headliner,Santana,Moonflower,1977,Columbia,Latin Rock,USA,"San Francisco, California"
-13,12/8/2016,Lucas,warm_up_1,Frightened Rabbit,Midnight Organ Fight,2008,Fat Cat,Indie Rock,UK,"Selkirk, Scotland"
-13,12/8/2016,Lucas,warm_up_2,Leonard Cohen,Various Positions,1984,Columbia,Folk,Canada,"Montreal, Quebec"
-13,12/8/2016,Lucas,headliner,Bob Dylan,Blood on the Tracks,1975,Columbia,Folk Rock,USA,"Duluth, Minnesota"
-14,1/26/2017,John,warm_up_1,Galaxie 500,On Fire,1989,4AD,Dream Pop,USA,"Cambridge, Massachusetts"
-14,1/26/2017,John,warm_up_2,Morphine,Cure for Pain,1993,Rykodisc,Alternative Rock,USA,"Cambridge, Massachusetts"
-14,1/26/2017,John,headliner,Built to Spill,Perfect from Now On,1997,Warner Bros.,Indie Rock,USA,"Boise, Idaho"
-15,3/9/2017,Chris,warm_up_1,MC5,Kick Out the Jams,1969,Elektra,Punk Rock,USA,"Detroit, Michigan"
-15,3/9/2017,Chris,warm_up_2,Mastodon,Crack the Skye,2009,Reprise,Progressive Metal,USA,"Atlanta, Georgia"
-15,3/9/2017,Chris,headliner,Black Sabbath,Vol. 4,1972,Vertigo,Heavy Metal,UK,Birmingham
-16,5/4/2017,Joe,warm_up_1,Live,Mental Jewelry,1991,Radioactive,Alternative Rock,USA,"York, Pennsylvania"
-16,5/4/2017,Joe,warm_up_2,Kansas,Leftoverture,1976,Kirshner,Progressive Rock,USA,"Topeka, Kansas"
-16,5/4/2017,Joe,headliner,The Allman Brothers Band,At Fillmore East,1971,Capricorn,Southern Rock,USA,"Jacksonville, Florida"
-17,8/10/2017,Lucas,warm_up_1,Interpol,Turn On the Bright Lights,2002,Matador,Post-Punk Revival,USA,"New York, New York"
-17,8/10/2017,Lucas,warm_up_2,Serge Gainsbourg & Jane Birkin,Jane Birkin/Serge Gainsbourg,1969,Fontana,Chanson,France,Paris
-17,8/10/2017,Lucas,headliner,Modest Mouse,The Moon & Antarctica,2000,Epic,Indie Rock,USA,"Issaquah, Washington"
-18,9/14/2017,John,warm_up_1,David Bowie,Pin Ups,1973,RCA,Glam Rock,UK,London
-18,9/14/2017,John,warm_up_2,Steve Earle,Townes,2009,New West,Country,USA,"Fort Monroe, Virginia"
-18,9/14/2017,John,headliner,Kurt Vile,Believe I'm Going Down,2015,Matador,Indie Rock,USA,"Philadelphia, Pennsylvania"
-19,10/26/2017,Chris,warm_up_1,Spoon,Ga Ga Ga Ga Ga,2007,Merge,Indie Rock,USA,"Austin, Texas"
-19,10/26/2017,Chris,warm_up_2,Fleetwood Mac,Rumours,1977,Warner Bros.,Rock,UK,London
-19,10/26/2017,Chris,headliner,R.E.M.,Murmur,1983,I.R.S.,Alternative Rock,USA,"Athens, Georgia"
-20,1/25/2018,Joe,warm_up_1,Widespread Panic,VCL Mix Edition,2018,Various,Jam Band,USA,"Athens, Georgia"
-20,1/25/2018,Joe,warm_up_2,J. Geils Band,The Morning After,1971,Atlantic,Rock,USA,"Worcester, Massachusetts"
-20,1/25/2018,Joe,headliner,Jethro Tull,Thick as a Brick,1972,Chrysalis,Progressive Rock,UK,Blackpool
-21,3/8/2018,Eric,warm_up_1,The Stone Roses,The Stone Roses,1989,Silvertone,Madchester,UK,Manchester
-21,3/8/2018,Eric,warm_up_2,Grouplove,Never Trust a Happy Song,2011,Canvasback,Indie Rock,USA,"Los Angeles, California"
-21,3/8/2018,Eric,headliner,The Wombats,Beautiful People Will Ruin Your Life,2018,Kobalt,Indie Rock,UK,Liverpool
-22,5/10/2018,John,warm_up_1,Wilco,Yankee Hotel Foxtrot,2002,Nonesuch,Alternative Country,USA,"Chicago, Illinois"
-22,5/10/2018,John,warm_up_2,Pavement,Slanted and Enchanted,1992,Matador,Indie Rock,USA,"Stockton, California"
-22,5/10/2018,John,headliner,Sonic Youth,Daydream Nation,1988,Enigma,Alternative Rock,USA,"New York, New York"
-23,8/9/2018,Adam,warm_up_1,The Orwells,Disgraceland,2017,Canvasback,Garage Rock,USA,"Elmhurst, Illinois"
-23,8/9/2018,Adam,warm_up_2,Sleater-Kinney,Dig Me Out,1997,Kill Rock Stars,Riot Grrrl,USA,"Olympia, Washington"
-23,8/9/2018,Adam,headliner,Pixies,Doolittle,1989,4AD,Alternative Rock,USA,"Boston, Massachusetts"
-24,11/1/2018,Lucas,warm_up_1,Los Campesinos!,No Blues,2013,Wichita,Indie Rock,UK,"Cardiff, Wales"
-24,11/1/2018,Lucas,warm_up_2,John Prine,Bruised Orange,1978,Asylum,Country Folk,USA,"Maywood, Illinois"
-25,1/24/2019,Chris,warm_up_1,Led Zeppelin,Led Zeppelin,1969,Atlantic,Hard Rock,UK,London
-25,1/24/2019,Chris,headliner,Led Zeppelin,Led Zeppelin II,1969,Atlantic,Hard Rock,UK,London
-26,3/7/2019,Joe,warm_up_1,Mott the Hoople,All the Young Dudes,1972,Columbia,Glam Rock,UK,Hereford
-26,3/7/2019,Joe,warm_up_2,Roy Buchanan,That's What I Am Here For,1973,Polydor,Blues Rock,USA,"Ozark, Arkansas"
-27,5/2/2019,Eric,warm_up_1,Tears for Fears,Elemental,1993,Mercury,Pop Rock,UK,"Bath, Somerset"
-27,5/2/2019,Eric,headliner,Beck,Guero,2005,Interscope,Alternative Rock,USA,"Los Angeles, California"
-28,9/5/2019,John,warm_up_1,Dinosaur Jr.,You're Living All Over Me,1987,SST,Alternative Rock,USA,"Amherst, Massachusetts"
-28,9/5/2019,John,warm_up_2,J Mascis,Elastic Days,2018,Sub Pop,Indie Rock,USA,"Amherst, Massachusetts"
-29,10/7/2019,Adam,warm_up_1,Japandroids,Celebration Rock,2012,Polyvinyl,Indie Rock,Canada,"Vancouver, British Columbia"
-29,10/7/2019,Adam,headliner,Arcade Fire,Funeral,2004,Merge,Indie Rock,Canada,"Montreal, Quebec"
-30,1/23/2020,Lucas,warm_up_1,Father John Misty,Fear Fun,2012,Sub Pop,Folk Rock,USA,"Rockville, Maryland"
-30,1/23/2020,Lucas,headliner,Van Morrison,Astral Weeks,1968,Warner Bros.,Folk Rock,UK,"Belfast, Northern Ireland"
-31,6/11/2020,Chris,warm_up_1,Band of Horses,Everything All the Time,2006,Sub Pop,Indie Rock,USA,"Seattle, Washington"
-31,6/11/2020,Chris,warm_up_2,Brand New,The Devil and God Are Raging Inside Me,2006,Interscope,Emo,USA,"Long Island, New York"
-31,6/11/2020,Chris,headliner,TV on the Radio,Return to Cookie Mountain,2006,Interscope,Art Rock,USA,"Brooklyn, New York"
-32,8/6/2020,Joe,warm_up_1,Arc Angels,Arc Angels,1992,Geffen,Blues Rock,USA,"Austin, Texas"
-32,8/6/2020,Joe,warm_up_2,Yes,Close to the Edge,1972,Atlantic,Progressive Rock,UK,London
-32,8/6/2020,Joe,headliner,Good Night Lights,Biggest Fears,2019,Independent,Indie Rock,USA,USA
-33,9/24/2020,John,warm_up_1,The Church,Starfish,1988,Arista,Alternative Rock,Australia,Sydney
-33,9/24/2020,John,warm_up_2,Treepeople,Something Vicious for Tomorrow / Time Whore,1994,C/Z,Grunge,USA,"Boise, Idaho"
-33,9/24/2020,John,headliner,Joe Strummer and the Mescaleros,Streetcore,2003,Hellcat,Punk Rock,UK,London
-34,11/19/2020,Eric,warm_up_1,Van Halen,1984,1984,Warner Bros.,Hard Rock,USA,"Pasadena, California"
-34,11/19/2020,Eric,warm_up_2,Haim,Days Are Gone,2013,Polydor,Pop Rock,USA,"Los Angeles, California"
-34,11/19/2020,Eric,headliner,The Smiths,Louder Than Bombs,1987,Sire,Alternative Rock,UK,Manchester
-35,3/11/2021,Adam,warm_up_1,Nêhiyawak,nipiy,2020,Independent,Indigenous Hip Hop,Canada,"Edmonton, Alberta"
-35,3/11/2021,Adam,warm_up_2,Myles Cane,Coup de Grace,2020,Independent,Indie Rock,Canada,Canada
-35,3/11/2021,Adam,headliner,The Afghan Whigs,Up in It,1990,Sub Pop,Alternative Rock,USA,"Cincinnati, Ohio"
-36,5/13/2021,Chris,warm_up_1,Television,Marquee Moon,1977,Elektra,Punk Rock,USA,"New York, New York"
-36,5/13/2021,Chris,warm_up_2,Devo,Q: Are We Not Men? A: We Are Devo!,1978,Warner Bros.,New Wave,USA,"Akron, Ohio"
-36,5/13/2021,Chris,headliner,The Clash,London Calling,1979,CBS,Punk Rock,UK,London
-37,6/10/2021,Joe,warm_up_1,Leon Bridges,Coming Home,2015,Columbia,Soul,USA,"Fort Worth, Texas"
-37,6/10/2021,Joe,warm_up_2,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2019,Interscope,Pop,USA,"Los Angeles, California"
-37,6/10/2021,Joe,headliner,Harry Styles,Fine Line,2019,Columbia,Pop Rock,UK,"Redditch, Worcestershire"
-38,9/7/2021,Eric,warm_up_1,William Orbit,My Oracle Lives Uptown,2019,Guerilla,Electronic,UK,London
-38,9/7/2021,Eric,warm_up_2,The Connells,Steadman's Wake,2001,Black Park,Jangle Pop,USA,"Raleigh, North Carolina"
-38,9/7/2021,Eric,headliner,The Stranglers,Dark Matters,2021,Coursegood,Post-Punk,UK,"Guildford, Surrey"
-39,11/23/2021,John,warm_up_1,Dry Cleaning,New Long Leg,2021,4AD,Post-Punk,UK,London
-39,11/23/2021,John,warm_up_2,The War on Drugs,I Don't Live Here Anymore,2021,Atlantic,Indie Rock,USA,"Philadelphia, Pennsylvania"
-39,11/23/2021,John,headliner,My Morning Jacket,My Morning Jacket,2021,ATO,Southern Rock,USA,"Louisville, Kentucky"
-40,04/14/2022,Adam,warm_up_1,The Charlatans UK,Between 10th and 11th,1992,Situation Two,Madchester,UK,West Midlands
-40,04/14/2022,Adam,warm_up_2,Gomez,Bring It On,1998,Hut,Alternative Rock,UK,Southport
-40,04/14/2022,Adam,headliner,IDLES,Crawler,2021,Partisan,Post-Punk,UK,Bristol
-41,6/9/2022,Chris,warm_up_1,Depeche Mode,Speak & Spell,1981,Mute,Synthpop,UK,"Basildon, Essex"
-41,6/9/2022,Chris,warm_up_2,Kraftwerk,Computer World,1981,Kling Klang,Electronic,Germany,Düsseldorf
-41,6/9/2022,Chris,headliner,The Police,Ghost in the Machine,1981,A&M,New Wave,UK,London
-42,7/14/2022,Joe,warm_up_1,Bob Seger,Live Bullet,1976,Capitol,Rock,USA,"Detroit, Michigan"
-42,7/14/2022,Joe,warm_up_2,Gil Scott-Heron,Pieces of a Man,1971,Flying Dutchman,Jazz Poetry,USA,"Chicago, Illinois"
-42,7/14/2022,Joe,headliner,Tears for Fears,The Tipping Point,2022,Concord,Pop Rock,UK,"Bath, Somerset"
-43,8/11/2022,Eric,warm_up_1,Echo & the Bunnymen,Evergreen,1997,London,Alternative Rock,UK,Liverpool
-43,8/11/2022,Eric,warm_up_2,Twenty One Pilots,Vessel,2013,Fueled by Ramen,Alternative Rock,USA,"Columbus, Ohio"
-43,8/11/2022,Eric,headliner,Metric,Art of Doubt,2018,Crystal Math,Indie Rock,Canada,"Toronto, Ontario"
-44,9/15/2022,John,warm_up_1,The Doors,The Doors,1967,Elektra,Psychedelic Rock,USA,"Los Angeles, California"
-44,9/15/2022,John,headliner,The Strokes,Is This It,2001,RCA,Garage Rock Revival,USA,"New York, New York"
-45,11/17/2022,Adam,warm_up_1,Ron Gallo,Heavy Meta,2017,New West,Garage Rock,USA,"Philadelphia, Pennsylvania"
-45,11/17/2022,Adam,headliner,Foo Fighters,The Colour and the Shape,1997,Roswell,Alternative Rock,USA,"Seattle, Washington"
-46,1/12/2023,Lucas,warm_up_1,Sky Ferreira,"Night Time, My Time",2013,Capitol,Indie Pop,USA,"Los Angeles, California"
-46,1/12/2023,Lucas,headliner,Bloc Party,Silent Alarm,2005,Wichita,Post-Punk Revival,UK,London
-47,3/9/2023,Chris,warm_up_1,Cut Copy,In Ghost Colours,2008,Modular,Electronic,Australia,Melbourne
-47,3/9/2023,Chris,headliner,The Cure,"Kiss Me, Kiss Me, Kiss Me",1987,Fiction,Alternative Rock,UK,"Crawley, West Sussex"
-48,4/20/2023,Joe,warm_up_1,Supertramp,Crime of the Century,1974,A&M,Progressive Rock,UK,London
-48,4/20/2023,Joe,warm_up_2,St. Paul and the Broken Bones,The Alien Coast,2020,ATO,Soul,USA,"Birmingham, Alabama"
-48,4/20/2023,Joe,headliner,Sharon Jones & The Dap-Kings,"100 Days, 100 Nights",2007,Daptone,Soul,USA,"Brooklyn, New York"
-49,6/8/2023,Eric,warm_up_1,The Police,Zenyatta Mondatta,1980,A&M,New Wave,UK,London
-49,6/8/2023,Eric,warm_up_2,INXS,The Swing,1984,Mercury,New Wave,Australia,Sydney
-49,6/8/2023,Eric,headliner,Jackson Browne,Late for the Sky,1974,Asylum,Folk Rock,USA,"Heidelberg, Germany"
-50,7/13/2023,John,warm_up_1,Todd Rundgren,"A Wizard, a True Star",1973,Bearsville,Art Rock,USA,"Philadelphia, Pennsylvania"
-50,7/13/2023,John,warm_up_2,Pink Floyd,Animals,1977,Harvest,Progressive Rock,UK,London
-50,7/13/2023,John,headliner,Yo La Tengo,This Stupid World,2023,Matador,Indie Rock,USA,"Hoboken, New Jersey"
-51,9/21/2023,Adam,warm_up_1,Nilüfer Yanya,Painless,2022,ATO,Alternative Rock,UK,London
-51,9/21/2023,Adam,warm_up_2,PJ Harvey,"Stories from the City, Stories from the Sea",2000,Island,Alternative Rock,UK,"Bridport, Dorset"
-51,9/21/2023,Adam,headliner,Yeah Yeah Yeahs,Fever to Tell,2003,Interscope,Indie Rock,USA,"New York, New York"
-52,10/19/2023,Lucas,warm_up_1,Fall Out Boy,From Under the Cork Tree,2005,Island,Pop Punk,USA,"Wilmette, Illinois"
-52,10/19/2023,Lucas,warm_up_2,Blink-182,Blink-182,2003,Geffen,Pop Punk,USA,"Poway, California"
-52,10/19/2023,Lucas,headliner,Taking Back Sunday,Tell All Your Friends,2002,Victory,Emo,USA,"Long Island, New York"
-53,11/9/2023,Chris,warm_up_1,Killing Joke,Killing Joke,1980,E.G.,Post-Punk,UK,"Notting Hill, London"
-53,11/9/2023,Chris,warm_up_2,Tubeway Army,Tubeway Army,1978,Beggars Banquet,Post-Punk,UK,London
-53,11/9/2023,Chris,headliner,Nine Inch Nails,The Fragile,1999,Nothing,Industrial Rock,USA,"Cleveland, Ohio"
-54,1/10/2024,Joe,headliner,Neil Young & Crazy Horse,Live at the Fillmore 1970,2006,Reprise,Rock,Canada,"Toronto, Ontario"
-55,3/14/2024,Eric,warm_up_1,Johnny Marr and the Healers,Boomslang,2003,Artistdirect,Alternative Rock,UK,Manchester
-55,3/14/2024,Eric,warm_up_2,Morrissey,Viva Hate,1988,HMV,Alternative Rock,UK,Manchester
-55,3/14/2024,Eric,headliner,The Smiths,Hatful of Hollow,1984,Rough Trade,Alternative Rock,UK,Manchester
-56,4/11/2024,John,warm_up_1,Woods,Perennial,2023,Woodsist,Indie Rock,USA,"Brooklyn, New York"
-56,4/11/2024,John,warm_up_2,King Gizzard & the Lizard Wizard,"Ice, Death, Planets, Lungs, Mushrooms and Lava",2022,KGLW,Psychedelic Rock,Australia,Melbourne
-56,4/11/2024,John,headliner,Neil Young,Chrome Dreams,2007,Reprise,Folk Rock,Canada,"Toronto, Ontario"
-57,5/9/2024,Adam,warm_up_1,Pet Fox,A Face in Your Life,2024,Carpark,Indie Rock,USA,"Brooklyn, New York"
-57,5/9/2024,Adam,warm_up_2,Momma,Household Name,2022,Polyvinyl,Alternative Rock,USA,"Los Angeles, California"
-57,5/9/2024,Adam,headliner,Shame,Songs of Praise,2018,Dead Oceans,Post-Punk,UK,London
-58,9/12/2024,Lucas,warm_up_1,Bloc Party,A Weekend in the City,2007,Wichita,Post-Punk Revival,UK,London
-58,9/12/2024,Lucas,warm_up_2,Maximo Park,A Certain Trigger,2005,Warp,Post-Punk Revival,UK,Newcastle upon Tyne
-58,9/12/2024,Lucas,headliner,The Futureheads,The Futureheads,2004,679,Post-Punk Revival,UK,Sunderland
-60,10/10/2024,Chris,warm_up_1,Various,To Be Announced,2024,TBA,TBA,Various,Various
-60,10/10/2024,Chris,warm_up_2,Various,To Be Announced,2024,TBA,TBA,Various,Various
-60,10/10/2024,Chris,headliner,Various,To Be Announced,2024,TBA,TBA,Various,Various
-61,11/21/2024,Joe,warm_up_1,Various,To Be Announced,2024,TBA,TBA,Various,Various
-61,11/21/2024,Joe,warm_up_2,Various,To Be Announced,2024,TBA,TBA,Various,Various
-61,11/21/2024,Joe,headliner,Various,To Be Announced,2024,TBA,TBA,Various,Various
-62,1/9/2025,John,warm_up_1,Various,To Be Announced,2025,TBA,TBA,Various,Various
-62,1/9/2025,John,warm_up_2,Various,To Be Announced,2025,TBA,TBA,Various,Various
-62,1/9/2025,John,headliner,Various,To Be Announced,2025,TBA,TBA,Various,Various
-63,3/13/2025,Adam,warm_up_1,Phantom Planet,Phantom Planet,2004,Epic,Indie Rock,USA,"Los Angeles, California"
-63,3/13/2025,Adam,warm_up_2,MGMT,Loss of Life,2024,Mom + Pop,Psychedelic Pop,USA,"Middletown, Connecticut"
-63,3/13/2025,Adam,headliner,The Beatles,Magical Mystery Tour,1967,Capitol,Psychedelic Rock,UK,Liverpool
-64,5/22/2025,Lucas,warm_up_1,Nirvana,Incesticide,1992,DGC,Grunge,USA,"Aberdeen, Washington"
-64,5/22/2025,Lucas,warm_up_2,Manchester Orchestra,A Black Mile to the Surface,2017,Loma Vista,Alternative Rock,USA,"Atlanta, Georgia"
-64,5/22/2025,Lucas,headliner,Radiohead,In Rainbows,2007,XL,Alternative Rock,UK,"Abingdon, Oxfordshire"
+meeting_number,meeting_date,presenter,album_position,artist,album_title,release_year,label,genre,micro_genre,nation_of_origin,city_of_origin
+1,1/22/2015,Chris,headliner,King Crimson,In the Court of the Crimson King,1969,Island,Progressive Rock,Symphonic Prog,UK,London
+2,2/26/2015,Joe,headliner,Mountain,Nantucket Sleighride,1971,Windfall,Hard Rock,Proto-Metal,USA,"New York, New York"
+3,3/27/2015,John,warm_up_1,Sebadoh,Sebadoh III,1991,Homestead,Indie Rock,Lo-Fi Indie Rock,USA,"Northampton, Massachusetts"
+3,3/27/2015,John,warm_up_2,Yo La Tengo,I Can Hear the Heart Beating as One,1997,Matador,Indie Rock,Indie Pop / Noise Pop,USA,"Hoboken, New Jersey"
+3,3/27/2015,John,headliner,Ben Lee,Grandpaw Would,1995,Modular,Alternative Rock,Twee Pop,Australia,Sydney
+4,4/23/2015,Chris,headliner,The Knife,Silent Shout,2006,Rabid,Electronic,Synthpop / Minimal Wave,Sweden,Gothenburg
+5,7/29/2015,Joe,warm_up_1,Jefferson Airplane,Surrealistic Pillow,1967,RCA Victor,Psychedelic Rock,Acid Rock,USA,"San Francisco, California"
+5,7/29/2015,Joe,warm_up_2,Talking Heads,Talking Heads: 77,1977,Sire,New Wave,Art Punk / No Wave,USA,"New York, New York"
+6,11/5/2015,John,headliner,The Afghan Whigs,Black Love,1996,Elektra,Alternative Rock,Grunge / Alternative R&B,USA,"Cincinnati, Ohio"
+7,12/17/2015,Chris,headliner,The Stooges,Raw Power,1973,Columbia,Punk Rock,Proto-Punk,USA,"Ann Arbor, Michigan"
+8,1/26/2016,Joe,warm_up_1,James Brown,Say It Loud,1969,King,Funk,Funk / Soul Jazz,USA,"Augusta, Georgia"
+8,1/26/2016,Joe,warm_up_2,Various Artists,David Bowie Tribute,2016,Various,Rock,Tribute Album,Various,Various
+9,3/25/2016,Lucas,warm_up_1,Paul Simon,Graceland,1986,Warner Bros.,World Music,Worldbeat / Sophisti-Pop,USA,"Newark, New Jersey"
+9,3/25/2016,Lucas,warm_up_2,Arcade Fire,Funeral,2004,Merge,Indie Rock,Baroque Pop,Canada,"Montreal, Quebec"
+9,3/25/2016,Lucas,headliner,Vampire Weekend,Vampire Weekend,2008,XL,Indie Rock,Afro-Pop Influenced Indie,USA,"New York, New York"
+10,5/26/2016,John,warm_up_1,The Replacements,Pleased to Meet Me,1987,Sire,Alternative Rock,Cowpunk / Power Pop,USA,"Minneapolis, Minnesota"
+10,5/26/2016,John,warm_up_2,The Jam,Setting Sons,1979,Polydor,Punk Rock,Mod Revival / Power Pop,UK,"Woking, Surrey"
+10,5/26/2016,John,headliner,Big Star,#1 Record,1972,Ardent,Power Pop,Jangle Pop / Power Pop,USA,"Memphis, Tennessee"
+11,8/10/2016,Chris,warm_up_1,Joy Division,Unknown Pleasures,1979,Factory,Post-Punk,Post-Punk / Coldwave,UK,Manchester
+11,8/10/2016,Chris,warm_up_2,Genesis,Selling England by the Pound,1973,Charisma,Progressive Rock,Symphonic Prog,UK,"Godalming, Surrey"
+11,8/10/2016,Chris,headliner,Radiohead,A Moon Shaped Pool,2016,XL,Alternative Rock,Art Rock / Chamber Pop,UK,"Abingdon, Oxfordshire"
+12,9/29/2016,Joe,warm_up_1,Adrian Belew,Young Lions,1990,Atlantic,Art Rock,Progressive Pop / Art Rock,USA,"Covington, Kentucky"
+12,9/29/2016,Joe,warm_up_2,Robin Trower,Bridge of Sighs,1974,Chrysalis,Blues Rock,Blues Rock / Psychedelic Blues,UK,London
+12,9/29/2016,Joe,headliner,Santana,Moonflower,1977,Columbia,Latin Rock,Latin Rock / Jazz Fusion,USA,"San Francisco, California"
+13,12/8/2016,Lucas,warm_up_1,Frightened Rabbit,Midnight Organ Fight,2008,Fat Cat,Indie Rock,Scottish Indie Rock,UK,"Selkirk, Scotland"
+13,12/8/2016,Lucas,warm_up_2,Leonard Cohen,Various Positions,1984,Columbia,Folk,Chamber Folk,Canada,"Montreal, Quebec"
+13,12/8/2016,Lucas,headliner,Bob Dylan,Blood on the Tracks,1975,Columbia,Folk Rock,Singer-Songwriter / Heartland Rock,USA,"Duluth, Minnesota"
+14,1/26/2017,John,warm_up_1,Galaxie 500,On Fire,1989,4AD,Dream Pop,Slowcore / Dream Pop,USA,"Cambridge, Massachusetts"
+14,1/26/2017,John,warm_up_2,Morphine,Cure for Pain,1993,Rykodisc,Alternative Rock,Low Rock / Noir Jazz,USA,"Cambridge, Massachusetts"
+14,1/26/2017,John,headliner,Built to Spill,Perfect from Now On,1997,Warner Bros.,Indie Rock,Indie Rock / Midwest Emo Influenced,USA,"Boise, Idaho"
+15,3/9/2017,Chris,warm_up_1,MC5,Kick Out the Jams,1969,Elektra,Punk Rock,Proto-Punk / Garage Rock,USA,"Detroit, Michigan"
+15,3/9/2017,Chris,warm_up_2,Mastodon,Crack the Skye,2009,Reprise,Progressive Metal,Progressive Sludge Metal,USA,"Atlanta, Georgia"
+15,3/9/2017,Chris,headliner,Black Sabbath,Vol. 4,1972,Vertigo,Heavy Metal,Heavy Psych / Doom Metal,UK,Birmingham
+16,5/4/2017,Joe,warm_up_1,Live,Mental Jewelry,1991,Radioactive,Alternative Rock,Grunge / Post-Grunge,USA,"York, Pennsylvania"
+16,5/4/2017,Joe,warm_up_2,Kansas,Leftoverture,1976,Kirshner,Progressive Rock,Arena Rock / Symphonic Prog,USA,"Topeka, Kansas"
+16,5/4/2017,Joe,headliner,The Allman Brothers Band,At Fillmore East,1971,Capricorn,Southern Rock,Southern Rock / Blues Rock,USA,"Jacksonville, Florida"
+17,8/10/2017,Lucas,warm_up_1,Interpol,Turn On the Bright Lights,2002,Matador,Post-Punk Revival,Post-Punk Revival / Art Punk,USA,"New York, New York"
+17,8/10/2017,Lucas,warm_up_2,Serge Gainsbourg & Jane Birkin,Jane Birkin/Serge Gainsbourg,1969,Fontana,Chanson,Yé-Yé / Baroque Pop,France,Paris
+17,8/10/2017,Lucas,headliner,Modest Mouse,The Moon & Antarctica,2000,Epic,Indie Rock,Indie Rock / Art Rock,USA,"Issaquah, Washington"
+18,9/14/2017,John,warm_up_1,David Bowie,Pin Ups,1973,RCA,Glam Rock,Glam Rock / Art Rock,UK,London
+18,9/14/2017,John,warm_up_2,Steve Earle,Townes,2009,New West,Country,Outlaw Country / Americana,USA,"Fort Monroe, Virginia"
+18,9/14/2017,John,headliner,Kurt Vile,Believe I'm Going Down,2015,Matador,Indie Rock,Slacker Rock / Neo-Psychedelia,USA,"Philadelphia, Pennsylvania"
+19,10/26/2017,Chris,warm_up_1,Spoon,Ga Ga Ga Ga Ga,2007,Merge,Indie Rock,Indie Rock / Post-Punk Revival,USA,"Austin, Texas"
+19,10/26/2017,Chris,warm_up_2,Fleetwood Mac,Rumours,1977,Warner Bros.,Rock,Soft Rock / West Coast Pop,UK,London
+19,10/26/2017,Chris,headliner,R.E.M.,Murmur,1983,I.R.S.,Alternative Rock,Jangle Pop / College Rock,USA,"Athens, Georgia"
+20,1/25/2018,Joe,warm_up_1,Widespread Panic,VCL Mix Edition,2018,Various,Jam Band,Southern Rock / Jam Band,USA,"Athens, Georgia"
+20,1/25/2018,Joe,warm_up_2,J. Geils Band,The Morning After,1971,Atlantic,Rock,Blue-Eyed Soul / R&B Rock,USA,"Worcester, Massachusetts"
+20,1/25/2018,Joe,headliner,Jethro Tull,Thick as a Brick,1972,Chrysalis,Progressive Rock,Progressive Rock / Folk Prog,UK,Blackpool
+21,3/8/2018,Eric,warm_up_1,The Stone Roses,The Stone Roses,1989,Silvertone,Madchester,Madchester / Baggy,UK,Manchester
+21,3/8/2018,Eric,warm_up_2,Grouplove,Never Trust a Happy Song,2011,Canvasback,Indie Rock,Indie Pop / Dance-Punk,USA,"Los Angeles, California"
+21,3/8/2018,Eric,headliner,The Wombats,Beautiful People Will Ruin Your Life,2018,Kobalt,Indie Rock,Indie Pop / Dance-Punk,UK,Liverpool
+22,5/10/2018,John,warm_up_1,Wilco,Yankee Hotel Foxtrot,2002,Nonesuch,Alternative Country,Art Rock / Experimental Rock,USA,"Chicago, Illinois"
+22,5/10/2018,John,warm_up_2,Pavement,Slanted and Enchanted,1992,Matador,Indie Rock,Lo-Fi Indie / Slacker Rock,USA,"Stockton, California"
+22,5/10/2018,John,headliner,Sonic Youth,Daydream Nation,1988,Enigma,Alternative Rock,Noise Rock / No Wave,USA,"New York, New York"
+23,8/9/2018,Adam,warm_up_1,The Orwells,Disgraceland,2017,Canvasback,Garage Rock,Garage Punk Revival,USA,"Elmhurst, Illinois"
+23,8/9/2018,Adam,warm_up_2,Sleater-Kinney,Dig Me Out,1997,Kill Rock Stars,Riot Grrrl,Riot Grrrl / Post-Hardcore,USA,"Olympia, Washington"
+23,8/9/2018,Adam,headliner,Pixies,Doolittle,1989,4AD,Alternative Rock,Noise Pop / Surf Punk,USA,"Boston, Massachusetts"
+24,11/1/2018,Lucas,warm_up_1,Los Campesinos!,No Blues,2013,Wichita,Indie Rock,Twee Pop / Emo,UK,"Cardiff, Wales"
+24,11/1/2018,Lucas,warm_up_2,John Prine,Bruised Orange,1978,Asylum,Country Folk,Outlaw Country / Country Folk,USA,"Maywood, Illinois"
+25,1/24/2019,Chris,warm_up_1,Led Zeppelin,Led Zeppelin,1969,Atlantic,Hard Rock,Blues Rock / Heavy Psych,UK,London
+25,1/24/2019,Chris,headliner,Led Zeppelin,Led Zeppelin II,1969,Atlantic,Hard Rock,Hard Rock / Heavy Blues,UK,London
+26,3/7/2019,Joe,warm_up_1,Mott the Hoople,All the Young Dudes,1972,Columbia,Glam Rock,Glam Rock / Proto-Punk,UK,Hereford
+26,3/7/2019,Joe,warm_up_2,Roy Buchanan,That's What I Am Here For,1973,Polydor,Blues Rock,Blues Rock / Telecaster Blues,USA,"Ozark, Arkansas"
+27,5/2/2019,Eric,warm_up_1,Tears for Fears,Elemental,1993,Mercury,Pop Rock,Sophisti-Pop / Art Pop,UK,"Bath, Somerset"
+27,5/2/2019,Eric,headliner,Beck,Guero,2005,Interscope,Alternative Rock,Alternative Hip Hop / Neo-Psychedelia,USA,"Los Angeles, California"
+28,9/5/2019,John,warm_up_1,Dinosaur Jr.,You're Living All Over Me,1987,SST,Alternative Rock,Noise Rock / Hardcore Punk,USA,"Amherst, Massachusetts"
+28,9/5/2019,John,warm_up_2,J Mascis,Elastic Days,2018,Sub Pop,Indie Rock,Singer-Songwriter / Neo-Psychedelia,USA,"Amherst, Massachusetts"
+29,10/7/2019,Adam,warm_up_1,Japandroids,Celebration Rock,2012,Polyvinyl,Indie Rock,Noise Pop / Post-Hardcore,Canada,"Vancouver, British Columbia"
+29,10/7/2019,Adam,headliner,Arcade Fire,Funeral,2004,Merge,Indie Rock,Baroque Pop,Canada,"Montreal, Quebec"
+30,1/23/2020,Lucas,warm_up_1,Father John Misty,Fear Fun,2012,Sub Pop,Folk Rock,Baroque Pop / Chamber Folk,USA,"Rockville, Maryland"
+30,1/23/2020,Lucas,headliner,Van Morrison,Astral Weeks,1968,Warner Bros.,Folk Rock,Celtic Soul / Chamber Jazz,UK,"Belfast, Northern Ireland"
+31,6/11/2020,Chris,warm_up_1,Band of Horses,Everything All the Time,2006,Sub Pop,Indie Rock,Heartland Rock / Indie Folk,USA,"Seattle, Washington"
+31,6/11/2020,Chris,warm_up_2,Brand New,The Devil and God Are Raging Inside Me,2006,Interscope,Emo,Emo / Post-Hardcore,USA,"Long Island, New York"
+31,6/11/2020,Chris,headliner,TV on the Radio,Return to Cookie Mountain,2006,Interscope,Art Rock,Art Punk / Post-Punk Revival,USA,"Brooklyn, New York"
+32,8/6/2020,Joe,warm_up_1,Arc Angels,Arc Angels,1992,Geffen,Blues Rock,Texas Blues / Southern Rock,USA,"Austin, Texas"
+32,8/6/2020,Joe,warm_up_2,Yes,Close to the Edge,1972,Atlantic,Progressive Rock,Symphonic Prog / Art Rock,UK,London
+32,8/6/2020,Joe,headliner,Good Night Lights,Biggest Fears,2019,Independent,Indie Rock,Indie Rock,USA,USA
+33,9/24/2020,John,warm_up_1,The Church,Starfish,1988,Arista,Alternative Rock,Jangle Pop / Dream Pop,Australia,Sydney
+33,9/24/2020,John,warm_up_2,Treepeople,Something Vicious for Tomorrow / Time Whore,1994,C/Z,Grunge,Post-Hardcore / Emo,USA,"Boise, Idaho"
+33,9/24/2020,John,headliner,Joe Strummer and the Mescaleros,Streetcore,2003,Hellcat,Punk Rock,Worldbeat / Folk Punk,UK,London
+34,11/19/2020,Eric,warm_up_1,Van Halen,1984,1984,Warner Bros.,Hard Rock,Hard Rock / Arena Rock,USA,"Pasadena, California"
+34,11/19/2020,Eric,warm_up_2,Haim,Days Are Gone,2013,Polydor,Pop Rock,Soft Rock Revival / Indie Pop,USA,"Los Angeles, California"
+34,11/19/2020,Eric,headliner,The Smiths,Louder Than Bombs,1987,Sire,Alternative Rock,Jangle Pop / Post-Punk,UK,Manchester
+35,3/11/2021,Adam,warm_up_1,Nêhiyawak,nipiy,2020,Independent,Indigenous Hip Hop,Indigenous Hip Hop / Experimental,Canada,"Edmonton, Alberta"
+35,3/11/2021,Adam,warm_up_2,Myles Cane,Coup de Grace,2020,Independent,Indie Rock,Indie Rock,Canada,Canada
+35,3/11/2021,Adam,headliner,The Afghan Whigs,Up in It,1990,Sub Pop,Alternative Rock,Grunge / Cowpunk,USA,"Cincinnati, Ohio"
+36,5/13/2021,Chris,warm_up_1,Television,Marquee Moon,1977,Elektra,Punk Rock,Art Punk / Proto-Post-Punk,USA,"New York, New York"
+36,5/13/2021,Chris,warm_up_2,Devo,Q: Are We Not Men? A: We Are Devo!,1978,Warner Bros.,New Wave,Art Punk / Synth Punk,USA,"Akron, Ohio"
+36,5/13/2021,Chris,headliner,The Clash,London Calling,1979,CBS,Punk Rock,Punk Rock / New Wave,UK,London
+37,6/10/2021,Joe,warm_up_1,Leon Bridges,Coming Home,2015,Columbia,Soul,Neo-Soul / Retro Soul,USA,"Fort Worth, Texas"
+37,6/10/2021,Joe,warm_up_2,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2019,Interscope,Pop,Alt-Pop / Bedroom Pop,USA,"Los Angeles, California"
+37,6/10/2021,Joe,headliner,Harry Styles,Fine Line,2019,Columbia,Pop Rock,Soft Rock / Yacht Rock Revival,UK,"Redditch, Worcestershire"
+38,9/7/2021,Eric,warm_up_1,William Orbit,My Oracle Lives Uptown,2019,Guerilla,Electronic,Ambient Pop / Electronica,UK,London
+38,9/7/2021,Eric,warm_up_2,The Connells,Steadman's Wake,2001,Black Park,Jangle Pop,Jangle Pop / College Rock,USA,"Raleigh, North Carolina"
+38,9/7/2021,Eric,headliner,The Stranglers,Dark Matters,2021,Coursegood,Post-Punk,Post-Punk / Pub Rock,UK,"Guildford, Surrey"
+39,11/23/2021,John,warm_up_1,Dry Cleaning,New Long Leg,2021,4AD,Post-Punk,Post-Punk / Spoken Word Rock,UK,London
+39,11/23/2021,John,warm_up_2,The War on Drugs,I Don't Live Here Anymore,2021,Atlantic,Indie Rock,Heartland Rock / Neo-Psychedelia,USA,"Philadelphia, Pennsylvania"
+39,11/23/2021,John,headliner,My Morning Jacket,My Morning Jacket,2021,ATO,Southern Rock,Southern Rock / Psychedelic Folk,USA,"Louisville, Kentucky"
+40,04/14/2022,Adam,warm_up_1,The Charlatans UK,Between 10th and 11th,1992,Situation Two,Madchester,Madchester / Baggy,UK,West Midlands
+40,04/14/2022,Adam,warm_up_2,Gomez,Bring It On,1998,Hut,Alternative Rock,Blues Rock / Trip Hop,UK,Southport
+40,04/14/2022,Adam,headliner,IDLES,Crawler,2021,Partisan,Post-Punk,Post-Punk / Art Punk,UK,Bristol
+41,6/9/2022,Chris,warm_up_1,Depeche Mode,Speak & Spell,1981,Mute,Synthpop,Synthpop / New Romantic,UK,"Basildon, Essex"
+41,6/9/2022,Chris,warm_up_2,Kraftwerk,Computer World,1981,Kling Klang,Electronic,Krautrock / Electro,Germany,Düsseldorf
+41,6/9/2022,Chris,headliner,The Police,Ghost in the Machine,1981,A&M,New Wave,New Wave / Post-Punk,UK,London
+42,7/14/2022,Joe,warm_up_1,Bob Seger,Live Bullet,1976,Capitol,Rock,Heartland Rock / Arena Rock,USA,"Detroit, Michigan"
+42,7/14/2022,Joe,warm_up_2,Gil Scott-Heron,Pieces of a Man,1971,Flying Dutchman,Jazz Poetry,Jazz Poetry / Proto-Hip Hop,USA,"Chicago, Illinois"
+42,7/14/2022,Joe,headliner,Tears for Fears,The Tipping Point,2022,Concord,Pop Rock,Sophisti-Pop / Art Pop,UK,"Bath, Somerset"
+43,8/11/2022,Eric,warm_up_1,Echo & the Bunnymen,Evergreen,1997,London,Alternative Rock,Neo-Psychedelia / Post-Punk,UK,Liverpool
+43,8/11/2022,Eric,warm_up_2,Twenty One Pilots,Vessel,2013,Fueled by Ramen,Alternative Rock,Electropop / Emo Rap,USA,"Columbus, Ohio"
+43,8/11/2022,Eric,headliner,Metric,Art of Doubt,2018,Crystal Math,Indie Rock,Indie Rock / Synth Rock,Canada,"Toronto, Ontario"
+44,9/15/2022,John,warm_up_1,The Doors,The Doors,1967,Elektra,Psychedelic Rock,Acid Rock / Psychedelic Blues,USA,"Los Angeles, California"
+44,9/15/2022,John,headliner,The Strokes,Is This It,2001,RCA,Garage Rock Revival,Garage Rock Revival / Post-Punk Revival,USA,"New York, New York"
+45,11/17/2022,Adam,warm_up_1,Ron Gallo,Heavy Meta,2017,New West,Garage Rock,Garage Rock / Proto-Punk Revival,USA,"Philadelphia, Pennsylvania"
+45,11/17/2022,Adam,headliner,Foo Fighters,The Colour and the Shape,1997,Roswell,Alternative Rock,Post-Grunge / Power Pop,USA,"Seattle, Washington"
+46,1/12/2023,Lucas,warm_up_1,Sky Ferreira,"Night Time, My Time",2013,Capitol,Indie Pop,Synth-Pop / Dream Pop,USA,"Los Angeles, California"
+46,1/12/2023,Lucas,headliner,Bloc Party,Silent Alarm,2005,Wichita,Post-Punk Revival,Post-Punk Revival / Dance-Punk,UK,London
+47,3/9/2023,Chris,warm_up_1,Cut Copy,In Ghost Colours,2008,Modular,Electronic,Synth-Pop / Nu-Disco,Australia,Melbourne
+47,3/9/2023,Chris,headliner,The Cure,"Kiss Me, Kiss Me, Kiss Me",1987,Fiction,Alternative Rock,Gothic Rock / Jangle Pop,UK,"Crawley, West Sussex"
+48,4/20/2023,Joe,warm_up_1,Supertramp,Crime of the Century,1974,A&M,Progressive Rock,Art Rock / Progressive Pop,UK,London
+48,4/20/2023,Joe,warm_up_2,St. Paul and the Broken Bones,The Alien Coast,2020,ATO,Soul,Southern Soul / Gospel Soul,USA,"Birmingham, Alabama"
+48,4/20/2023,Joe,headliner,Sharon Jones & The Dap-Kings,"100 Days, 100 Nights",2007,Daptone,Soul,Deep Soul / Funk,USA,"Brooklyn, New York"
+49,6/8/2023,Eric,warm_up_1,The Police,Zenyatta Mondatta,1980,A&M,New Wave,New Wave / Reggae Rock,UK,London
+49,6/8/2023,Eric,warm_up_2,INXS,The Swing,1984,Mercury,New Wave,New Wave / Funk Rock,Australia,Sydney
+49,6/8/2023,Eric,headliner,Jackson Browne,Late for the Sky,1974,Asylum,Folk Rock,Singer-Songwriter / Soft Rock,USA,"Heidelberg, Germany"
+50,7/13/2023,John,warm_up_1,Todd Rundgren,"A Wizard, a True Star",1973,Bearsville,Art Rock,Art Pop / Progressive Pop,USA,"Philadelphia, Pennsylvania"
+50,7/13/2023,John,warm_up_2,Pink Floyd,Animals,1977,Harvest,Progressive Rock,Progressive Rock / Art Rock,UK,London
+50,7/13/2023,John,headliner,Yo La Tengo,This Stupid World,2023,Matador,Indie Rock,Indie Rock / Noise Pop,USA,"Hoboken, New Jersey"
+51,9/21/2023,Adam,warm_up_1,Nilüfer Yanya,Painless,2022,ATO,Alternative Rock,Art Pop / Neo-Psychedelia,UK,London
+51,9/21/2023,Adam,warm_up_2,PJ Harvey,"Stories from the City, Stories from the Sea",2000,Island,Alternative Rock,Art Rock / Alternative Rock,UK,"Bridport, Dorset"
+51,9/21/2023,Adam,headliner,Yeah Yeah Yeahs,Fever to Tell,2003,Interscope,Indie Rock,Dance-Punk / Art Punk,USA,"New York, New York"
+52,10/19/2023,Lucas,warm_up_1,Fall Out Boy,From Under the Cork Tree,2005,Island,Pop Punk,Pop Punk / Emo Pop,USA,"Wilmette, Illinois"
+52,10/19/2023,Lucas,warm_up_2,Blink-182,Blink-182,2003,Geffen,Pop Punk,Pop Punk / Skate Punk,USA,"Poway, California"
+52,10/19/2023,Lucas,headliner,Taking Back Sunday,Tell All Your Friends,2002,Victory,Emo,Emo / Post-Hardcore,USA,"Long Island, New York"
+53,11/9/2023,Chris,warm_up_1,Killing Joke,Killing Joke,1980,E.G.,Post-Punk,Post-Punk / Industrial Rock,UK,"Notting Hill, London"
+53,11/9/2023,Chris,warm_up_2,Tubeway Army,Tubeway Army,1978,Beggars Banquet,Post-Punk,Synth-Punk / Proto-Synth-Pop,UK,London
+53,11/9/2023,Chris,headliner,Nine Inch Nails,The Fragile,1999,Nothing,Industrial Rock,Industrial Rock / Art Rock,USA,"Cleveland, Ohio"
+54,1/10/2024,Joe,headliner,Neil Young & Crazy Horse,Live at the Fillmore 1970,2006,Reprise,Rock,Jam Band / Folk Rock,Canada,"Toronto, Ontario"
+55,3/14/2024,Eric,warm_up_1,Johnny Marr and the Healers,Boomslang,2003,Artistdirect,Alternative Rock,Indie Rock / Jangle Pop,UK,Manchester
+55,3/14/2024,Eric,warm_up_2,Morrissey,Viva Hate,1988,HMV,Alternative Rock,Jangle Pop / Art Pop,UK,Manchester
+55,3/14/2024,Eric,headliner,The Smiths,Hatful of Hollow,1984,Rough Trade,Alternative Rock,Jangle Pop / Post-Punk,UK,Manchester
+56,4/11/2024,John,warm_up_1,Woods,Perennial,2023,Woodsist,Indie Rock,Freak Folk / Lo-Fi Indie,USA,"Brooklyn, New York"
+56,4/11/2024,John,warm_up_2,King Gizzard & the Lizard Wizard,"Ice, Death, Planets, Lungs, Mushrooms and Lava",2022,KGLW,Psychedelic Rock,Psychedelic Rock / Krautrock,Australia,Melbourne
+56,4/11/2024,John,headliner,Neil Young,Chrome Dreams,2007,Reprise,Folk Rock,Folk Rock / Country Rock,Canada,"Toronto, Ontario"
+57,5/9/2024,Adam,warm_up_1,Pet Fox,A Face in Your Life,2024,Carpark,Indie Rock,Indie Rock / Jangle Pop,USA,"Brooklyn, New York"
+57,5/9/2024,Adam,warm_up_2,Momma,Household Name,2022,Polyvinyl,Alternative Rock,Grunge Revival / Shoegaze,USA,"Los Angeles, California"
+57,5/9/2024,Adam,headliner,Shame,Songs of Praise,2018,Dead Oceans,Post-Punk,Post-Punk / Art Punk,UK,London
+58,9/12/2024,Lucas,warm_up_1,Bloc Party,A Weekend in the City,2007,Wichita,Post-Punk Revival,Post-Punk Revival / Indie Rock,UK,London
+58,9/12/2024,Lucas,warm_up_2,Maximo Park,A Certain Trigger,2005,Warp,Post-Punk Revival,Post-Punk Revival / Art Punk,UK,Newcastle upon Tyne
+58,9/12/2024,Lucas,headliner,The Futureheads,The Futureheads,2004,679,Post-Punk Revival,Post-Punk Revival / Art Punk,UK,Sunderland
+60,10/10/2024,Chris,warm_up_1,Various,To Be Announced,2024,TBA,TBA,TBA,Various,Various
+60,10/10/2024,Chris,warm_up_2,Various,To Be Announced,2024,TBA,TBA,TBA,Various,Various
+60,10/10/2024,Chris,headliner,Various,To Be Announced,2024,TBA,TBA,TBA,Various,Various
+61,11/21/2024,Joe,warm_up_1,Various,To Be Announced,2024,TBA,TBA,TBA,Various,Various
+61,11/21/2024,Joe,warm_up_2,Various,To Be Announced,2024,TBA,TBA,TBA,Various,Various
+61,11/21/2024,Joe,headliner,Various,To Be Announced,2024,TBA,TBA,TBA,Various,Various
+62,1/9/2025,John,warm_up_1,Various,To Be Announced,2025,TBA,TBA,TBA,Various,Various
+62,1/9/2025,John,warm_up_2,Various,To Be Announced,2025,TBA,TBA,TBA,Various,Various
+62,1/9/2025,John,headliner,Various,To Be Announced,2025,TBA,TBA,TBA,Various,Various
+63,3/13/2025,Adam,warm_up_1,Phantom Planet,Phantom Planet,2004,Epic,Indie Rock,Power Pop / Indie Rock,USA,"Los Angeles, California"
+63,3/13/2025,Adam,warm_up_2,MGMT,Loss of Life,2024,Mom + Pop,Psychedelic Pop,Psychedelic Pop / Neo-Psychedelia,USA,"Middletown, Connecticut"
+63,3/13/2025,Adam,headliner,The Beatles,Magical Mystery Tour,1967,Capitol,Psychedelic Rock,Psychedelic Pop / Baroque Pop,UK,Liverpool
+64,5/22/2025,Lucas,warm_up_1,Nirvana,Incesticide,1992,DGC,Grunge,Grunge / Punk Rock,USA,"Aberdeen, Washington"
+64,5/22/2025,Lucas,warm_up_2,Manchester Orchestra,A Black Mile to the Surface,2017,Loma Vista,Alternative Rock,Indie Rock / Emo,USA,"Atlanta, Georgia"
+64,5/22/2025,Lucas,headliner,Radiohead,In Rainbows,2007,XL,Alternative Rock,Art Rock / Electronic,UK,"Abingdon, Oxfordshire"

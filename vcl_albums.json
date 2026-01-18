@@ -10,7 +10,8 @@
     "label": "Island",
     "genre": "Progressive Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Symphonic Prog"
   },
   {
     "meeting_number": 2,
@@ -23,7 +24,8 @@
     "label": "Windfall",
     "genre": "Hard Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "New York, New York"
+    "city_of_origin": "New York, New York",
+    "micro_genre": "Proto-Metal"
   },
   {
     "meeting_number": 3,
@@ -36,7 +38,8 @@
     "label": "Homestead",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Northampton, Massachusetts"
+    "city_of_origin": "Northampton, Massachusetts",
+    "micro_genre": "Lo-Fi Indie Rock"
   },
   {
     "meeting_number": 3,
@@ -49,7 +52,8 @@
     "label": "Matador",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Hoboken, New Jersey"
+    "city_of_origin": "Hoboken, New Jersey",
+    "micro_genre": "Indie Pop / Noise Pop"
   },
   {
     "meeting_number": 3,
@@ -62,7 +66,8 @@
     "label": "Modular",
     "genre": "Alternative Rock",
     "nation_of_origin": "Australia",
-    "city_of_origin": "Sydney"
+    "city_of_origin": "Sydney",
+    "micro_genre": "Twee Pop"
   },
   {
     "meeting_number": 4,
@@ -75,7 +80,8 @@
     "label": "Rabid",
     "genre": "Electronic",
     "nation_of_origin": "Sweden",
-    "city_of_origin": "Gothenburg"
+    "city_of_origin": "Gothenburg",
+    "micro_genre": "Synthpop / Minimal Wave"
   },
   {
     "meeting_number": 5,
@@ -88,7 +94,8 @@
     "label": "RCA Victor",
     "genre": "Psychedelic Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "San Francisco, California"
+    "city_of_origin": "San Francisco, California",
+    "micro_genre": "Acid Rock"
   },
   {
     "meeting_number": 5,
@@ -101,7 +108,8 @@
     "label": "Sire",
     "genre": "New Wave",
     "nation_of_origin": "USA",
-    "city_of_origin": "New York, New York"
+    "city_of_origin": "New York, New York",
+    "micro_genre": "Art Punk / No Wave"
   },
   {
     "meeting_number": 6,
@@ -114,7 +122,8 @@
     "label": "Elektra",
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Cincinnati, Ohio"
+    "city_of_origin": "Cincinnati, Ohio",
+    "micro_genre": "Grunge / Alternative R&B"
   },
   {
     "meeting_number": 7,
@@ -127,7 +136,8 @@
     "label": "Columbia",
     "genre": "Punk Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Ann Arbor, Michigan"
+    "city_of_origin": "Ann Arbor, Michigan",
+    "micro_genre": "Proto-Punk"
   },
   {
     "meeting_number": 8,
@@ -140,7 +150,8 @@
     "label": "King",
     "genre": "Funk",
     "nation_of_origin": "USA",
-    "city_of_origin": "Augusta, Georgia"
+    "city_of_origin": "Augusta, Georgia",
+    "micro_genre": "Funk / Soul Jazz"
   },
   {
     "meeting_number": 8,
@@ -153,7 +164,8 @@
     "label": "Various",
     "genre": "Rock",
     "nation_of_origin": "Various",
-    "city_of_origin": "Various"
+    "city_of_origin": "Various",
+    "micro_genre": "Tribute Album"
   },
   {
     "meeting_number": 9,
@@ -166,7 +178,8 @@
     "label": "Warner Bros.",
     "genre": "World Music",
     "nation_of_origin": "USA",
-    "city_of_origin": "Newark, New Jersey"
+    "city_of_origin": "Newark, New Jersey",
+    "micro_genre": "Worldbeat / Sophisti-Pop"
   },
   {
     "meeting_number": 9,
@@ -179,7 +192,8 @@
     "label": "Merge",
     "genre": "Indie Rock",
     "nation_of_origin": "Canada",
-    "city_of_origin": "Montreal, Quebec"
+    "city_of_origin": "Montreal, Quebec",
+    "micro_genre": "Baroque Pop"
   },
   {
     "meeting_number": 9,
@@ -192,7 +206,8 @@
     "label": "XL",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "New York, New York"
+    "city_of_origin": "New York, New York",
+    "micro_genre": "Afro-Pop Influenced Indie"
   },
   {
     "meeting_number": 10,
@@ -205,7 +220,8 @@
     "label": "Sire",
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Minneapolis, Minnesota"
+    "city_of_origin": "Minneapolis, Minnesota",
+    "micro_genre": "Cowpunk / Power Pop"
   },
   {
     "meeting_number": 10,
@@ -218,7 +234,8 @@
     "label": "Polydor",
     "genre": "Punk Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Woking, Surrey"
+    "city_of_origin": "Woking, Surrey",
+    "micro_genre": "Mod Revival / Power Pop"
   },
   {
     "meeting_number": 10,
@@ -231,7 +248,8 @@
     "label": "Ardent",
     "genre": "Power Pop",
     "nation_of_origin": "USA",
-    "city_of_origin": "Memphis, Tennessee"
+    "city_of_origin": "Memphis, Tennessee",
+    "micro_genre": "Jangle Pop / Power Pop"
   },
   {
     "meeting_number": 11,
@@ -244,7 +262,8 @@
     "label": "Factory",
     "genre": "Post-Punk",
     "nation_of_origin": "UK",
-    "city_of_origin": "Manchester"
+    "city_of_origin": "Manchester",
+    "micro_genre": "Post-Punk / Coldwave"
   },
   {
     "meeting_number": 11,
@@ -257,7 +276,8 @@
     "label": "Charisma",
     "genre": "Progressive Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Godalming, Surrey"
+    "city_of_origin": "Godalming, Surrey",
+    "micro_genre": "Symphonic Prog"
   },
   {
     "meeting_number": 11,
@@ -270,7 +290,8 @@
     "label": "XL",
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Abingdon, Oxfordshire"
+    "city_of_origin": "Abingdon, Oxfordshire",
+    "micro_genre": "Art Rock / Chamber Pop"
   },
   {
     "meeting_number": 12,
@@ -283,7 +304,8 @@
     "label": "Atlantic",
     "genre": "Art Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Covington, Kentucky"
+    "city_of_origin": "Covington, Kentucky",
+    "micro_genre": "Progressive Pop / Art Rock"
   },
   {
     "meeting_number": 12,
@@ -296,7 +318,8 @@
     "label": "Chrysalis",
     "genre": "Blues Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Blues Rock / Psychedelic Blues"
   },
   {
     "meeting_number": 12,
@@ -309,7 +332,8 @@
     "label": "Columbia",
     "genre": "Latin Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "San Francisco, California"
+    "city_of_origin": "San Francisco, California",
+    "micro_genre": "Latin Rock / Jazz Fusion"
   },
   {
     "meeting_number": 13,
@@ -322,7 +346,8 @@
     "label": "Fat Cat",
     "genre": "Indie Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Selkirk, Scotland"
+    "city_of_origin": "Selkirk, Scotland",
+    "micro_genre": "Scottish Indie Rock"
   },
   {
     "meeting_number": 13,
@@ -335,7 +360,8 @@
     "label": "Columbia",
     "genre": "Folk",
     "nation_of_origin": "Canada",
-    "city_of_origin": "Montreal, Quebec"
+    "city_of_origin": "Montreal, Quebec",
+    "micro_genre": "Chamber Folk"
   },
   {
     "meeting_number": 13,
@@ -348,7 +374,8 @@
     "label": "Columbia",
     "genre": "Folk Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Duluth, Minnesota"
+    "city_of_origin": "Duluth, Minnesota",
+    "micro_genre": "Singer-Songwriter / Heartland Rock"
   },
   {
     "meeting_number": 14,
@@ -361,7 +388,8 @@
     "label": "4AD",
     "genre": "Dream Pop",
     "nation_of_origin": "USA",
-    "city_of_origin": "Cambridge, Massachusetts"
+    "city_of_origin": "Cambridge, Massachusetts",
+    "micro_genre": "Slowcore / Dream Pop"
   },
   {
     "meeting_number": 14,
@@ -374,7 +402,8 @@
     "label": "Rykodisc",
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Cambridge, Massachusetts"
+    "city_of_origin": "Cambridge, Massachusetts",
+    "micro_genre": "Low Rock / Noir Jazz"
   },
   {
     "meeting_number": 14,
@@ -387,7 +416,8 @@
     "label": "Warner Bros.",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Boise, Idaho"
+    "city_of_origin": "Boise, Idaho",
+    "micro_genre": "Indie Rock / Midwest Emo Influenced"
   },
   {
     "meeting_number": 15,
@@ -400,7 +430,8 @@
     "label": "Elektra",
     "genre": "Punk Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Detroit, Michigan"
+    "city_of_origin": "Detroit, Michigan",
+    "micro_genre": "Proto-Punk / Garage Rock"
   },
   {
     "meeting_number": 15,
@@ -413,7 +444,8 @@
     "label": "Reprise",
     "genre": "Progressive Metal",
     "nation_of_origin": "USA",
-    "city_of_origin": "Atlanta, Georgia"
+    "city_of_origin": "Atlanta, Georgia",
+    "micro_genre": "Progressive Sludge Metal"
   },
   {
     "meeting_number": 15,
@@ -426,7 +458,8 @@
     "label": "Vertigo",
     "genre": "Heavy Metal",
     "nation_of_origin": "UK",
-    "city_of_origin": "Birmingham"
+    "city_of_origin": "Birmingham",
+    "micro_genre": "Heavy Psych / Doom Metal"
   },
   {
     "meeting_number": 16,
@@ -439,7 +472,8 @@
     "label": "Radioactive",
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "York, Pennsylvania"
+    "city_of_origin": "York, Pennsylvania",
+    "micro_genre": "Grunge / Post-Grunge"
   },
   {
     "meeting_number": 16,
@@ -452,7 +486,8 @@
     "label": "Kirshner",
     "genre": "Progressive Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Topeka, Kansas"
+    "city_of_origin": "Topeka, Kansas",
+    "micro_genre": "Arena Rock / Symphonic Prog"
   },
   {
     "meeting_number": 16,
@@ -465,7 +500,8 @@
     "label": "Capricorn",
     "genre": "Southern Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Jacksonville, Florida"
+    "city_of_origin": "Jacksonville, Florida",
+    "micro_genre": "Southern Rock / Blues Rock"
   },
   {
     "meeting_number": 17,
@@ -478,7 +514,8 @@
     "label": "Matador",
     "genre": "Post-Punk Revival",
     "nation_of_origin": "USA",
-    "city_of_origin": "New York, New York"
+    "city_of_origin": "New York, New York",
+    "micro_genre": "Post-Punk Revival / Art Punk"
   },
   {
     "meeting_number": 17,
@@ -491,7 +528,8 @@
     "label": "Fontana",
     "genre": "Chanson",
     "nation_of_origin": "France",
-    "city_of_origin": "Paris"
+    "city_of_origin": "Paris",
+    "micro_genre": "Y\u00e9-Y\u00e9 / Baroque Pop"
   },
   {
     "meeting_number": 17,
@@ -504,7 +542,8 @@
     "label": "Epic",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Issaquah, Washington"
+    "city_of_origin": "Issaquah, Washington",
+    "micro_genre": "Indie Rock / Art Rock"
   },
   {
     "meeting_number": 18,
@@ -517,7 +556,8 @@
     "label": "RCA",
     "genre": "Glam Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Glam Rock / Art Rock"
   },
   {
     "meeting_number": 18,
@@ -530,7 +570,8 @@
     "label": "New West",
     "genre": "Country",
     "nation_of_origin": "USA",
-    "city_of_origin": "Fort Monroe, Virginia"
+    "city_of_origin": "Fort Monroe, Virginia",
+    "micro_genre": "Outlaw Country / Americana"
   },
   {
     "meeting_number": 18,
@@ -543,7 +584,8 @@
     "label": "Matador",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Philadelphia, Pennsylvania"
+    "city_of_origin": "Philadelphia, Pennsylvania",
+    "micro_genre": "Slacker Rock / Neo-Psychedelia"
   },
   {
     "meeting_number": 19,
@@ -556,7 +598,8 @@
     "label": "Merge",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Austin, Texas"
+    "city_of_origin": "Austin, Texas",
+    "micro_genre": "Indie Rock / Post-Punk Revival"
   },
   {
     "meeting_number": 19,
@@ -569,7 +612,8 @@
     "label": "Warner Bros.",
     "genre": "Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Soft Rock / West Coast Pop"
   },
   {
     "meeting_number": 19,
@@ -582,7 +626,8 @@
     "label": "I.R.S.",
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Athens, Georgia"
+    "city_of_origin": "Athens, Georgia",
+    "micro_genre": "Jangle Pop / College Rock"
   },
   {
     "meeting_number": 20,
@@ -595,7 +640,8 @@
     "label": "Various",
     "genre": "Jam Band",
     "nation_of_origin": "USA",
-    "city_of_origin": "Athens, Georgia"
+    "city_of_origin": "Athens, Georgia",
+    "micro_genre": "Southern Rock / Jam Band"
   },
   {
     "meeting_number": 20,
@@ -608,7 +654,8 @@
     "label": "Atlantic",
     "genre": "Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Worcester, Massachusetts"
+    "city_of_origin": "Worcester, Massachusetts",
+    "micro_genre": "Blue-Eyed Soul / R&B Rock"
   },
   {
     "meeting_number": 20,
@@ -621,7 +668,8 @@
     "label": "Chrysalis",
     "genre": "Progressive Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Blackpool"
+    "city_of_origin": "Blackpool",
+    "micro_genre": "Progressive Rock / Folk Prog"
   },
   {
     "meeting_number": 21,
@@ -634,7 +682,8 @@
     "label": "Silvertone",
     "genre": "Madchester",
     "nation_of_origin": "UK",
-    "city_of_origin": "Manchester"
+    "city_of_origin": "Manchester",
+    "micro_genre": "Madchester / Baggy"
   },
   {
     "meeting_number": 21,
@@ -647,7 +696,8 @@
     "label": "Canvasback",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Los Angeles, California"
+    "city_of_origin": "Los Angeles, California",
+    "micro_genre": "Indie Pop / Dance-Punk"
   },
   {
     "meeting_number": 21,
@@ -660,7 +710,8 @@
     "label": "Kobalt",
     "genre": "Indie Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Liverpool"
+    "city_of_origin": "Liverpool",
+    "micro_genre": "Indie Pop / Dance-Punk"
   },
   {
     "meeting_number": 22,
@@ -673,7 +724,8 @@
     "label": "Nonesuch",
     "genre": "Alternative Country",
     "nation_of_origin": "USA",
-    "city_of_origin": "Chicago, Illinois"
+    "city_of_origin": "Chicago, Illinois",
+    "micro_genre": "Art Rock / Experimental Rock"
   },
   {
     "meeting_number": 22,
@@ -686,7 +738,8 @@
     "label": "Matador",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Stockton, California"
+    "city_of_origin": "Stockton, California",
+    "micro_genre": "Lo-Fi Indie / Slacker Rock"
   },
   {
     "meeting_number": 22,
@@ -699,7 +752,8 @@
     "label": "Enigma",
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "New York, New York"
+    "city_of_origin": "New York, New York",
+    "micro_genre": "Noise Rock / No Wave"
   },
   {
     "meeting_number": 23,
@@ -712,7 +766,8 @@
     "label": "Canvasback",
     "genre": "Garage Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Elmhurst, Illinois"
+    "city_of_origin": "Elmhurst, Illinois",
+    "micro_genre": "Garage Punk Revival"
   },
   {
     "meeting_number": 23,
@@ -725,7 +780,8 @@
     "label": "Kill Rock Stars",
     "genre": "Riot Grrrl",
     "nation_of_origin": "USA",
-    "city_of_origin": "Olympia, Washington"
+    "city_of_origin": "Olympia, Washington",
+    "micro_genre": "Riot Grrrl / Post-Hardcore"
   },
   {
     "meeting_number": 23,
@@ -738,7 +794,8 @@
     "label": "4AD",
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Boston, Massachusetts"
+    "city_of_origin": "Boston, Massachusetts",
+    "micro_genre": "Noise Pop / Surf Punk"
   },
   {
     "meeting_number": 24,
@@ -751,7 +808,8 @@
     "label": "Wichita",
     "genre": "Indie Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Cardiff, Wales"
+    "city_of_origin": "Cardiff, Wales",
+    "micro_genre": "Twee Pop / Emo"
   },
   {
     "meeting_number": 24,
@@ -764,7 +822,8 @@
     "label": "Asylum",
     "genre": "Country Folk",
     "nation_of_origin": "USA",
-    "city_of_origin": "Maywood, Illinois"
+    "city_of_origin": "Maywood, Illinois",
+    "micro_genre": "Outlaw Country / Country Folk"
   },
   {
     "meeting_number": 25,
@@ -777,7 +836,8 @@
     "label": "Atlantic",
     "genre": "Hard Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Blues Rock / Heavy Psych"
   },
   {
     "meeting_number": 25,
@@ -790,7 +850,8 @@
     "label": "Atlantic",
     "genre": "Hard Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Hard Rock / Heavy Blues"
   },
   {
     "meeting_number": 26,
@@ -803,7 +864,8 @@
     "label": "Columbia",
     "genre": "Glam Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Hereford"
+    "city_of_origin": "Hereford",
+    "micro_genre": "Glam Rock / Proto-Punk"
   },
   {
     "meeting_number": 26,
@@ -816,7 +878,8 @@
     "label": "Polydor",
     "genre": "Blues Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Ozark, Arkansas"
+    "city_of_origin": "Ozark, Arkansas",
+    "micro_genre": "Blues Rock / Telecaster Blues"
   },
   {
     "meeting_number": 27,
@@ -829,7 +892,8 @@
     "label": "Mercury",
     "genre": "Pop Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Bath, Somerset"
+    "city_of_origin": "Bath, Somerset",
+    "micro_genre": "Sophisti-Pop / Art Pop"
   },
   {
     "meeting_number": 27,
@@ -842,7 +906,8 @@
     "label": "Interscope",
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Los Angeles, California"
+    "city_of_origin": "Los Angeles, California",
+    "micro_genre": "Alternative Hip Hop / Neo-Psychedelia"
   },
   {
     "meeting_number": 28,
@@ -855,7 +920,8 @@
     "label": "SST",
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Amherst, Massachusetts"
+    "city_of_origin": "Amherst, Massachusetts",
+    "micro_genre": "Noise Rock / Hardcore Punk"
   },
   {
     "meeting_number": 28,
@@ -868,7 +934,8 @@
     "label": "Sub Pop",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Amherst, Massachusetts"
+    "city_of_origin": "Amherst, Massachusetts",
+    "micro_genre": "Singer-Songwriter / Neo-Psychedelia"
   },
   {
     "meeting_number": 29,
@@ -881,7 +948,8 @@
     "label": "Polyvinyl",
     "genre": "Indie Rock",
     "nation_of_origin": "Canada",
-    "city_of_origin": "Vancouver, British Columbia"
+    "city_of_origin": "Vancouver, British Columbia",
+    "micro_genre": "Noise Pop / Post-Hardcore"
   },
   {
     "meeting_number": 29,
@@ -894,7 +962,8 @@
     "label": "Merge",
     "genre": "Indie Rock",
     "nation_of_origin": "Canada",
-    "city_of_origin": "Montreal, Quebec"
+    "city_of_origin": "Montreal, Quebec",
+    "micro_genre": "Baroque Pop"
   },
   {
     "meeting_number": 30,
@@ -907,7 +976,8 @@
     "label": "Sub Pop",
     "genre": "Folk Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Rockville, Maryland"
+    "city_of_origin": "Rockville, Maryland",
+    "micro_genre": "Baroque Pop / Chamber Folk"
   },
   {
     "meeting_number": 30,
@@ -920,7 +990,8 @@
     "label": "Warner Bros.",
     "genre": "Folk Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Belfast, Northern Ireland"
+    "city_of_origin": "Belfast, Northern Ireland",
+    "micro_genre": "Celtic Soul / Chamber Jazz"
   },
   {
     "meeting_number": 31,
@@ -933,7 +1004,8 @@
     "label": "Sub Pop",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Seattle, Washington"
+    "city_of_origin": "Seattle, Washington",
+    "micro_genre": "Heartland Rock / Indie Folk"
   },
   {
     "meeting_number": 31,
@@ -946,7 +1018,8 @@
     "label": "Interscope",
     "genre": "Emo",
     "nation_of_origin": "USA",
-    "city_of_origin": "Long Island, New York"
+    "city_of_origin": "Long Island, New York",
+    "micro_genre": "Emo / Post-Hardcore"
   },
   {
     "meeting_number": 31,
@@ -959,7 +1032,8 @@
     "label": "Interscope",
     "genre": "Art Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Brooklyn, New York"
+    "city_of_origin": "Brooklyn, New York",
+    "micro_genre": "Art Punk / Post-Punk Revival"
   },
   {
     "meeting_number": 32,
@@ -972,7 +1046,8 @@
     "label": "Geffen",
     "genre": "Blues Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Austin, Texas"
+    "city_of_origin": "Austin, Texas",
+    "micro_genre": "Texas Blues / Southern Rock"
   },
   {
     "meeting_number": 32,
@@ -985,7 +1060,8 @@
     "label": "Atlantic",
     "genre": "Progressive Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Symphonic Prog / Art Rock"
   },
   {
     "meeting_number": 32,
@@ -998,7 +1074,8 @@
     "label": "Independent",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "USA"
+    "city_of_origin": "USA",
+    "micro_genre": "Indie Rock"
   },
   {
     "meeting_number": 33,
@@ -1011,7 +1088,8 @@
     "label": "Arista",
     "genre": "Alternative Rock",
     "nation_of_origin": "Australia",
-    "city_of_origin": "Sydney"
+    "city_of_origin": "Sydney",
+    "micro_genre": "Jangle Pop / Dream Pop"
   },
   {
     "meeting_number": 33,
@@ -1024,7 +1102,8 @@
     "label": "C/Z",
     "genre": "Grunge",
     "nation_of_origin": "USA",
-    "city_of_origin": "Boise, Idaho"
+    "city_of_origin": "Boise, Idaho",
+    "micro_genre": "Post-Hardcore / Emo"
   },
   {
     "meeting_number": 33,
@@ -1037,7 +1116,8 @@
     "label": "Hellcat",
     "genre": "Punk Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Worldbeat / Folk Punk"
   },
   {
     "meeting_number": 34,
@@ -1050,7 +1130,8 @@
     "label": "Warner Bros.",
     "genre": "Hard Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Pasadena, California"
+    "city_of_origin": "Pasadena, California",
+    "micro_genre": "Hard Rock / Arena Rock"
   },
   {
     "meeting_number": 34,
@@ -1063,7 +1144,8 @@
     "label": "Polydor",
     "genre": "Pop Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Los Angeles, California"
+    "city_of_origin": "Los Angeles, California",
+    "micro_genre": "Soft Rock Revival / Indie Pop"
   },
   {
     "meeting_number": 34,
@@ -1076,7 +1158,8 @@
     "label": "Sire",
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Manchester"
+    "city_of_origin": "Manchester",
+    "micro_genre": "Jangle Pop / Post-Punk"
   },
   {
     "meeting_number": 35,
@@ -1089,7 +1172,8 @@
     "label": "Independent",
     "genre": "Indigenous Hip Hop",
     "nation_of_origin": "Canada",
-    "city_of_origin": "Edmonton, Alberta"
+    "city_of_origin": "Edmonton, Alberta",
+    "micro_genre": "Indigenous Hip Hop / Experimental"
   },
   {
     "meeting_number": 35,
@@ -1102,7 +1186,8 @@
     "label": "Independent",
     "genre": "Indie Rock",
     "nation_of_origin": "Canada",
-    "city_of_origin": "Canada"
+    "city_of_origin": "Canada",
+    "micro_genre": "Indie Rock"
   },
   {
     "meeting_number": 35,
@@ -1115,7 +1200,8 @@
     "label": "Sub Pop",
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Cincinnati, Ohio"
+    "city_of_origin": "Cincinnati, Ohio",
+    "micro_genre": "Grunge / Cowpunk"
   },
   {
     "meeting_number": 36,
@@ -1128,7 +1214,8 @@
     "label": "Elektra",
     "genre": "Punk Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "New York, New York"
+    "city_of_origin": "New York, New York",
+    "micro_genre": "Art Punk / Proto-Post-Punk"
   },
   {
     "meeting_number": 36,
@@ -1141,7 +1228,8 @@
     "label": "Warner Bros.",
     "genre": "New Wave",
     "nation_of_origin": "USA",
-    "city_of_origin": "Akron, Ohio"
+    "city_of_origin": "Akron, Ohio",
+    "micro_genre": "Art Punk / Synth Punk"
   },
   {
     "meeting_number": 36,
@@ -1154,7 +1242,8 @@
     "label": "CBS",
     "genre": "Punk Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Punk Rock / New Wave"
   },
   {
     "meeting_number": 37,
@@ -1167,7 +1256,8 @@
     "label": "Columbia",
     "genre": "Soul",
     "nation_of_origin": "USA",
-    "city_of_origin": "Fort Worth, Texas"
+    "city_of_origin": "Fort Worth, Texas",
+    "micro_genre": "Neo-Soul / Retro Soul"
   },
   {
     "meeting_number": 37,
@@ -1180,7 +1270,8 @@
     "label": "Interscope",
     "genre": "Pop",
     "nation_of_origin": "USA",
-    "city_of_origin": "Los Angeles, California"
+    "city_of_origin": "Los Angeles, California",
+    "micro_genre": "Alt-Pop / Bedroom Pop"
   },
   {
     "meeting_number": 37,
@@ -1193,7 +1284,8 @@
     "label": "Columbia",
     "genre": "Pop Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Redditch, Worcestershire"
+    "city_of_origin": "Redditch, Worcestershire",
+    "micro_genre": "Soft Rock / Yacht Rock Revival"
   },
   {
     "meeting_number": 38,
@@ -1206,7 +1298,8 @@
     "label": "Guerilla",
     "genre": "Electronic",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Ambient Pop / Electronica"
   },
   {
     "meeting_number": 38,
@@ -1219,7 +1312,8 @@
     "label": "Black Park",
     "genre": "Jangle Pop",
     "nation_of_origin": "USA",
-    "city_of_origin": "Raleigh, North Carolina"
+    "city_of_origin": "Raleigh, North Carolina",
+    "micro_genre": "Jangle Pop / College Rock"
   },
   {
     "meeting_number": 38,
@@ -1232,7 +1326,8 @@
     "label": "Coursegood",
     "genre": "Post-Punk",
     "nation_of_origin": "UK",
-    "city_of_origin": "Guildford, Surrey"
+    "city_of_origin": "Guildford, Surrey",
+    "micro_genre": "Post-Punk / Pub Rock"
   },
   {
     "meeting_number": 39,
@@ -1245,7 +1340,8 @@
     "label": "4AD",
     "genre": "Post-Punk",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Post-Punk / Spoken Word Rock"
   },
   {
     "meeting_number": 39,
@@ -1258,7 +1354,8 @@
     "label": "Atlantic",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Philadelphia, Pennsylvania"
+    "city_of_origin": "Philadelphia, Pennsylvania",
+    "micro_genre": "Heartland Rock / Neo-Psychedelia"
   },
   {
     "meeting_number": 39,
@@ -1271,7 +1368,8 @@
     "label": "ATO",
     "genre": "Southern Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Louisville, Kentucky"
+    "city_of_origin": "Louisville, Kentucky",
+    "micro_genre": "Southern Rock / Psychedelic Folk"
   },
   {
     "meeting_number": 40,
@@ -1284,7 +1382,8 @@
     "label": "Situation Two",
     "genre": "Madchester",
     "nation_of_origin": "UK",
-    "city_of_origin": "West Midlands"
+    "city_of_origin": "West Midlands",
+    "micro_genre": "Madchester / Baggy"
   },
   {
     "meeting_number": 40,
@@ -1297,7 +1396,8 @@
     "label": "Hut",
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Southport"
+    "city_of_origin": "Southport",
+    "micro_genre": "Blues Rock / Trip Hop"
   },
   {
     "meeting_number": 40,
@@ -1310,7 +1410,8 @@
     "label": "Partisan",
     "genre": "Post-Punk",
     "nation_of_origin": "UK",
-    "city_of_origin": "Bristol"
+    "city_of_origin": "Bristol",
+    "micro_genre": "Post-Punk / Art Punk"
   },
   {
     "meeting_number": 41,
@@ -1323,7 +1424,8 @@
     "label": "Mute",
     "genre": "Synthpop",
     "nation_of_origin": "UK",
-    "city_of_origin": "Basildon, Essex"
+    "city_of_origin": "Basildon, Essex",
+    "micro_genre": "Synthpop / New Romantic"
   },
   {
     "meeting_number": 41,
@@ -1336,7 +1438,8 @@
     "label": "Kling Klang",
     "genre": "Electronic",
     "nation_of_origin": "Germany",
-    "city_of_origin": "D\u00fcsseldorf"
+    "city_of_origin": "D\u00fcsseldorf",
+    "micro_genre": "Krautrock / Electro"
   },
   {
     "meeting_number": 41,
@@ -1349,7 +1452,8 @@
     "label": "A&M",
     "genre": "New Wave",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "New Wave / Post-Punk"
   },
   {
     "meeting_number": 42,
@@ -1362,7 +1466,8 @@
     "label": "Capitol",
     "genre": "Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Detroit, Michigan"
+    "city_of_origin": "Detroit, Michigan",
+    "micro_genre": "Heartland Rock / Arena Rock"
   },
   {
     "meeting_number": 42,
@@ -1375,7 +1480,8 @@
     "label": "Flying Dutchman",
     "genre": "Jazz Poetry",
     "nation_of_origin": "USA",
-    "city_of_origin": "Chicago, Illinois"
+    "city_of_origin": "Chicago, Illinois",
+    "micro_genre": "Jazz Poetry / Proto-Hip Hop"
   },
   {
     "meeting_number": 42,
@@ -1388,7 +1494,8 @@
     "label": "Concord",
     "genre": "Pop Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Bath, Somerset"
+    "city_of_origin": "Bath, Somerset",
+    "micro_genre": "Sophisti-Pop / Art Pop"
   },
   {
     "meeting_number": 43,
@@ -1401,7 +1508,8 @@
     "label": "London",
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Liverpool"
+    "city_of_origin": "Liverpool",
+    "micro_genre": "Neo-Psychedelia / Post-Punk"
   },
   {
     "meeting_number": 43,
@@ -1414,7 +1522,8 @@
     "label": "Fueled by Ramen",
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Columbus, Ohio"
+    "city_of_origin": "Columbus, Ohio",
+    "micro_genre": "Electropop / Emo Rap"
   },
   {
     "meeting_number": 43,
@@ -1427,7 +1536,8 @@
     "label": "Crystal Math",
     "genre": "Indie Rock",
     "nation_of_origin": "Canada",
-    "city_of_origin": "Toronto, Ontario"
+    "city_of_origin": "Toronto, Ontario",
+    "micro_genre": "Indie Rock / Synth Rock"
   },
   {
     "meeting_number": 44,
@@ -1440,7 +1550,8 @@
     "label": "Elektra",
     "genre": "Psychedelic Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Los Angeles, California"
+    "city_of_origin": "Los Angeles, California",
+    "micro_genre": "Acid Rock / Psychedelic Blues"
   },
   {
     "meeting_number": 44,
@@ -1453,7 +1564,8 @@
     "label": "RCA",
     "genre": "Garage Rock Revival",
     "nation_of_origin": "USA",
-    "city_of_origin": "New York, New York"
+    "city_of_origin": "New York, New York",
+    "micro_genre": "Garage Rock Revival / Post-Punk Revival"
   },
   {
     "meeting_number": 45,
@@ -1466,7 +1578,8 @@
     "label": "New West",
     "genre": "Garage Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Philadelphia, Pennsylvania"
+    "city_of_origin": "Philadelphia, Pennsylvania",
+    "micro_genre": "Garage Rock / Proto-Punk Revival"
   },
   {
     "meeting_number": 45,
@@ -1479,7 +1592,8 @@
     "label": "Roswell",
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Seattle, Washington"
+    "city_of_origin": "Seattle, Washington",
+    "micro_genre": "Post-Grunge / Power Pop"
   },
   {
     "meeting_number": 46,
@@ -1492,7 +1606,8 @@
     "label": "Capitol",
     "genre": "Indie Pop",
     "nation_of_origin": "USA",
-    "city_of_origin": "Los Angeles, California"
+    "city_of_origin": "Los Angeles, California",
+    "micro_genre": "Synth-Pop / Dream Pop"
   },
   {
     "meeting_number": 46,
@@ -1505,7 +1620,8 @@
     "label": "Wichita",
     "genre": "Post-Punk Revival",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Post-Punk Revival / Dance-Punk"
   },
   {
     "meeting_number": 47,
@@ -1518,7 +1634,8 @@
     "label": "Modular",
     "genre": "Electronic",
     "nation_of_origin": "Australia",
-    "city_of_origin": "Melbourne"
+    "city_of_origin": "Melbourne",
+    "micro_genre": "Synth-Pop / Nu-Disco"
   },
   {
     "meeting_number": 47,
@@ -1531,7 +1648,8 @@
     "label": "Fiction",
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Crawley, West Sussex"
+    "city_of_origin": "Crawley, West Sussex",
+    "micro_genre": "Gothic Rock / Jangle Pop"
   },
   {
     "meeting_number": 48,
@@ -1544,7 +1662,8 @@
     "label": "A&M",
     "genre": "Progressive Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Art Rock / Progressive Pop"
   },
   {
     "meeting_number": 48,
@@ -1557,7 +1676,8 @@
     "label": "ATO",
     "genre": "Soul",
     "nation_of_origin": "USA",
-    "city_of_origin": "Birmingham, Alabama"
+    "city_of_origin": "Birmingham, Alabama",
+    "micro_genre": "Southern Soul / Gospel Soul"
   },
   {
     "meeting_number": 48,
@@ -1570,7 +1690,8 @@
     "label": "Daptone",
     "genre": "Soul",
     "nation_of_origin": "USA",
-    "city_of_origin": "Brooklyn, New York"
+    "city_of_origin": "Brooklyn, New York",
+    "micro_genre": "Deep Soul / Funk"
   },
   {
     "meeting_number": 49,
@@ -1583,7 +1704,8 @@
     "label": "A&M",
     "genre": "New Wave",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "New Wave / Reggae Rock"
   },
   {
     "meeting_number": 49,
@@ -1596,7 +1718,8 @@
     "label": "Mercury",
     "genre": "New Wave",
     "nation_of_origin": "Australia",
-    "city_of_origin": "Sydney"
+    "city_of_origin": "Sydney",
+    "micro_genre": "New Wave / Funk Rock"
   },
   {
     "meeting_number": 49,
@@ -1609,7 +1732,8 @@
     "label": "Asylum",
     "genre": "Folk Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Heidelberg, Germany"
+    "city_of_origin": "Heidelberg, Germany",
+    "micro_genre": "Singer-Songwriter / Soft Rock"
   },
   {
     "meeting_number": 50,
@@ -1622,7 +1746,8 @@
     "label": "Bearsville",
     "genre": "Art Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Philadelphia, Pennsylvania"
+    "city_of_origin": "Philadelphia, Pennsylvania",
+    "micro_genre": "Art Pop / Progressive Pop"
   },
   {
     "meeting_number": 50,
@@ -1635,7 +1760,8 @@
     "label": "Harvest",
     "genre": "Progressive Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Progressive Rock / Art Rock"
   },
   {
     "meeting_number": 50,
@@ -1648,7 +1774,8 @@
     "label": "Matador",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Hoboken, New Jersey"
+    "city_of_origin": "Hoboken, New Jersey",
+    "micro_genre": "Indie Rock / Noise Pop"
   },
   {
     "meeting_number": 51,
@@ -1661,7 +1788,8 @@
     "label": "ATO",
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Art Pop / Neo-Psychedelia"
   },
   {
     "meeting_number": 51,
@@ -1674,7 +1802,8 @@
     "label": "Island",
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Bridport, Dorset"
+    "city_of_origin": "Bridport, Dorset",
+    "micro_genre": "Art Rock / Alternative Rock"
   },
   {
     "meeting_number": 51,
@@ -1687,7 +1816,8 @@
     "label": "Interscope",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "New York, New York"
+    "city_of_origin": "New York, New York",
+    "micro_genre": "Dance-Punk / Art Punk"
   },
   {
     "meeting_number": 52,
@@ -1700,7 +1830,8 @@
     "label": "Island",
     "genre": "Pop Punk",
     "nation_of_origin": "USA",
-    "city_of_origin": "Wilmette, Illinois"
+    "city_of_origin": "Wilmette, Illinois",
+    "micro_genre": "Pop Punk / Emo Pop"
   },
   {
     "meeting_number": 52,
@@ -1713,7 +1844,8 @@
     "label": "Geffen",
     "genre": "Pop Punk",
     "nation_of_origin": "USA",
-    "city_of_origin": "Poway, California"
+    "city_of_origin": "Poway, California",
+    "micro_genre": "Pop Punk / Skate Punk"
   },
   {
     "meeting_number": 52,
@@ -1726,7 +1858,8 @@
     "label": "Victory",
     "genre": "Emo",
     "nation_of_origin": "USA",
-    "city_of_origin": "Long Island, New York"
+    "city_of_origin": "Long Island, New York",
+    "micro_genre": "Emo / Post-Hardcore"
   },
   {
     "meeting_number": 53,
@@ -1739,7 +1872,8 @@
     "label": "E.G.",
     "genre": "Post-Punk",
     "nation_of_origin": "UK",
-    "city_of_origin": "Notting Hill, London"
+    "city_of_origin": "Notting Hill, London",
+    "micro_genre": "Post-Punk / Industrial Rock"
   },
   {
     "meeting_number": 53,
@@ -1752,7 +1886,8 @@
     "label": "Beggars Banquet",
     "genre": "Post-Punk",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Synth-Punk / Proto-Synth-Pop"
   },
   {
     "meeting_number": 53,
@@ -1765,7 +1900,8 @@
     "label": "Nothing",
     "genre": "Industrial Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Cleveland, Ohio"
+    "city_of_origin": "Cleveland, Ohio",
+    "micro_genre": "Industrial Rock / Art Rock"
   },
   {
     "meeting_number": 54,
@@ -1778,7 +1914,8 @@
     "label": "Reprise",
     "genre": "Rock",
     "nation_of_origin": "Canada",
-    "city_of_origin": "Toronto, Ontario"
+    "city_of_origin": "Toronto, Ontario",
+    "micro_genre": "Jam Band / Folk Rock"
   },
   {
     "meeting_number": 55,
@@ -1791,7 +1928,8 @@
     "label": "Artistdirect",
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Manchester"
+    "city_of_origin": "Manchester",
+    "micro_genre": "Indie Rock / Jangle Pop"
   },
   {
     "meeting_number": 55,
@@ -1804,7 +1942,8 @@
     "label": "HMV",
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Manchester"
+    "city_of_origin": "Manchester",
+    "micro_genre": "Jangle Pop / Art Pop"
   },
   {
     "meeting_number": 55,
@@ -1817,7 +1956,8 @@
     "label": "Rough Trade",
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Manchester"
+    "city_of_origin": "Manchester",
+    "micro_genre": "Jangle Pop / Post-Punk"
   },
   {
     "meeting_number": 56,
@@ -1830,7 +1970,8 @@
     "label": "Woodsist",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Brooklyn, New York"
+    "city_of_origin": "Brooklyn, New York",
+    "micro_genre": "Freak Folk / Lo-Fi Indie"
   },
   {
     "meeting_number": 56,
@@ -1843,7 +1984,8 @@
     "label": "KGLW",
     "genre": "Psychedelic Rock",
     "nation_of_origin": "Australia",
-    "city_of_origin": "Melbourne"
+    "city_of_origin": "Melbourne",
+    "micro_genre": "Psychedelic Rock / Krautrock"
   },
   {
     "meeting_number": 56,
@@ -1856,7 +1998,8 @@
     "label": "Reprise",
     "genre": "Folk Rock",
     "nation_of_origin": "Canada",
-    "city_of_origin": "Toronto, Ontario"
+    "city_of_origin": "Toronto, Ontario",
+    "micro_genre": "Folk Rock / Country Rock"
   },
   {
     "meeting_number": 57,
@@ -1869,7 +2012,8 @@
     "label": "Carpark",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Brooklyn, New York"
+    "city_of_origin": "Brooklyn, New York",
+    "micro_genre": "Indie Rock / Jangle Pop"
   },
   {
     "meeting_number": 57,
@@ -1882,7 +2026,8 @@
     "label": "Polyvinyl",
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Los Angeles, California"
+    "city_of_origin": "Los Angeles, California",
+    "micro_genre": "Grunge Revival / Shoegaze"
   },
   {
     "meeting_number": 57,
@@ -1895,7 +2040,8 @@
     "label": "Dead Oceans",
     "genre": "Post-Punk",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Post-Punk / Art Punk"
   },
   {
     "meeting_number": 58,
@@ -1908,7 +2054,8 @@
     "label": "Wichita",
     "genre": "Post-Punk Revival",
     "nation_of_origin": "UK",
-    "city_of_origin": "London"
+    "city_of_origin": "London",
+    "micro_genre": "Post-Punk Revival / Indie Rock"
   },
   {
     "meeting_number": 58,
@@ -1921,7 +2068,8 @@
     "label": "Warp",
     "genre": "Post-Punk Revival",
     "nation_of_origin": "UK",
-    "city_of_origin": "Newcastle upon Tyne"
+    "city_of_origin": "Newcastle upon Tyne",
+    "micro_genre": "Post-Punk Revival / Art Punk"
   },
   {
     "meeting_number": 58,
@@ -1934,7 +2082,8 @@
     "label": "679",
     "genre": "Post-Punk Revival",
     "nation_of_origin": "UK",
-    "city_of_origin": "Sunderland"
+    "city_of_origin": "Sunderland",
+    "micro_genre": "Post-Punk Revival / Art Punk"
   },
   {
     "meeting_number": 60,
@@ -1947,7 +2096,8 @@
     "label": "TBA",
     "genre": "TBA",
     "nation_of_origin": "Various",
-    "city_of_origin": "Various"
+    "city_of_origin": "Various",
+    "micro_genre": "TBA"
   },
   {
     "meeting_number": 60,
@@ -1960,7 +2110,8 @@
     "label": "TBA",
     "genre": "TBA",
     "nation_of_origin": "Various",
-    "city_of_origin": "Various"
+    "city_of_origin": "Various",
+    "micro_genre": "TBA"
   },
   {
     "meeting_number": 60,
@@ -1973,7 +2124,8 @@
     "label": "TBA",
     "genre": "TBA",
     "nation_of_origin": "Various",
-    "city_of_origin": "Various"
+    "city_of_origin": "Various",
+    "micro_genre": "TBA"
   },
   {
     "meeting_number": 61,
@@ -1986,7 +2138,8 @@
     "label": "TBA",
     "genre": "TBA",
     "nation_of_origin": "Various",
-    "city_of_origin": "Various"
+    "city_of_origin": "Various",
+    "micro_genre": "TBA"
   },
   {
     "meeting_number": 61,
@@ -1999,7 +2152,8 @@
     "label": "TBA",
     "genre": "TBA",
     "nation_of_origin": "Various",
-    "city_of_origin": "Various"
+    "city_of_origin": "Various",
+    "micro_genre": "TBA"
   },
   {
     "meeting_number": 61,
@@ -2012,7 +2166,8 @@
     "label": "TBA",
     "genre": "TBA",
     "nation_of_origin": "Various",
-    "city_of_origin": "Various"
+    "city_of_origin": "Various",
+    "micro_genre": "TBA"
   },
   {
     "meeting_number": 62,
@@ -2025,7 +2180,8 @@
     "label": "TBA",
     "genre": "TBA",
     "nation_of_origin": "Various",
-    "city_of_origin": "Various"
+    "city_of_origin": "Various",
+    "micro_genre": "TBA"
   },
   {
     "meeting_number": 62,
@@ -2038,7 +2194,8 @@
     "label": "TBA",
     "genre": "TBA",
     "nation_of_origin": "Various",
-    "city_of_origin": "Various"
+    "city_of_origin": "Various",
+    "micro_genre": "TBA"
   },
   {
     "meeting_number": 62,
@@ -2051,7 +2208,8 @@
     "label": "TBA",
     "genre": "TBA",
     "nation_of_origin": "Various",
-    "city_of_origin": "Various"
+    "city_of_origin": "Various",
+    "micro_genre": "TBA"
   },
   {
     "meeting_number": 63,
@@ -2064,7 +2222,8 @@
     "label": "Epic",
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Los Angeles, California"
+    "city_of_origin": "Los Angeles, California",
+    "micro_genre": "Power Pop / Indie Rock"
   },
   {
     "meeting_number": 63,
@@ -2077,7 +2236,8 @@
     "label": "Mom + Pop",
     "genre": "Psychedelic Pop",
     "nation_of_origin": "USA",
-    "city_of_origin": "Middletown, Connecticut"
+    "city_of_origin": "Middletown, Connecticut",
+    "micro_genre": "Psychedelic Pop / Neo-Psychedelia"
   },
   {
     "meeting_number": 63,
@@ -2090,7 +2250,8 @@
     "label": "Capitol",
     "genre": "Psychedelic Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Liverpool"
+    "city_of_origin": "Liverpool",
+    "micro_genre": "Psychedelic Pop / Baroque Pop"
   },
   {
     "meeting_number": 64,
@@ -2103,7 +2264,8 @@
     "label": "DGC",
     "genre": "Grunge",
     "nation_of_origin": "USA",
-    "city_of_origin": "Aberdeen, Washington"
+    "city_of_origin": "Aberdeen, Washington",
+    "micro_genre": "Grunge / Punk Rock"
   },
   {
     "meeting_number": 64,
@@ -2116,7 +2278,8 @@
     "label": "Loma Vista",
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
-    "city_of_origin": "Atlanta, Georgia"
+    "city_of_origin": "Atlanta, Georgia",
+    "micro_genre": "Indie Rock / Emo"
   },
   {
     "meeting_number": 64,
@@ -2129,6 +2292,7 @@
     "label": "XL",
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
-    "city_of_origin": "Abingdon, Oxfordshire"
+    "city_of_origin": "Abingdon, Oxfordshire",
+    "micro_genre": "Art Rock / Electronic"
   }
 ]
