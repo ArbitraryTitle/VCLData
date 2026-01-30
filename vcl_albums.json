@@ -11,7 +11,8 @@
     "genre": "Progressive Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Symphonic Prog"
+    "micro_genre": "Symphonic Prog",
+    "release_date": "1969-10-10"
   },
   {
     "meeting_number": 2,
@@ -25,7 +26,8 @@
     "genre": "Hard Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "New York, New York",
-    "micro_genre": "Proto-Metal"
+    "micro_genre": "Proto-Metal",
+    "release_date": "1971-01-01"
   },
   {
     "meeting_number": 3,
@@ -39,7 +41,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Northampton, Massachusetts",
-    "micro_genre": "Lo-Fi Indie Rock"
+    "micro_genre": "Lo-Fi Indie Rock",
+    "release_date": "1991-09-01"
   },
   {
     "meeting_number": 3,
@@ -53,7 +56,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Hoboken, New Jersey",
-    "micro_genre": "Indie Pop / Noise Pop"
+    "micro_genre": "Indie Pop / Noise Pop",
+    "release_date": "1997-04-22"
   },
   {
     "meeting_number": 3,
@@ -67,7 +71,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "Australia",
     "city_of_origin": "Sydney",
-    "micro_genre": "Twee Pop"
+    "micro_genre": "Twee Pop",
+    "release_date": "1995-08-28"
   },
   {
     "meeting_number": 4,
@@ -81,7 +86,8 @@
     "genre": "Electronic",
     "nation_of_origin": "Sweden",
     "city_of_origin": "Gothenburg",
-    "micro_genre": "Synthpop / Minimal Wave"
+    "micro_genre": "Synthpop / Minimal Wave",
+    "release_date": "2006-02-17"
   },
   {
     "meeting_number": 5,
@@ -95,7 +101,8 @@
     "genre": "Psychedelic Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "San Francisco, California",
-    "micro_genre": "Acid Rock"
+    "micro_genre": "Acid Rock",
+    "release_date": "1967-02-01"
   },
   {
     "meeting_number": 5,
@@ -109,7 +116,8 @@
     "genre": "New Wave",
     "nation_of_origin": "USA",
     "city_of_origin": "New York, New York",
-    "micro_genre": "Art Punk / No Wave"
+    "micro_genre": "Art Punk / No Wave",
+    "release_date": "1977-09-16"
   },
   {
     "meeting_number": 6,
@@ -123,7 +131,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Cincinnati, Ohio",
-    "micro_genre": "Grunge / Alternative R&B"
+    "micro_genre": "Grunge / Alternative R&B",
+    "release_date": "1996-03-12"
   },
   {
     "meeting_number": 7,
@@ -137,7 +146,8 @@
     "genre": "Punk Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Ann Arbor, Michigan",
-    "micro_genre": "Proto-Punk"
+    "micro_genre": "Proto-Punk",
+    "release_date": "1973-02-07"
   },
   {
     "meeting_number": 8,
@@ -151,7 +161,8 @@
     "genre": "Funk",
     "nation_of_origin": "USA",
     "city_of_origin": "Augusta, Georgia",
-    "micro_genre": "Funk / Soul Jazz"
+    "micro_genre": "Funk / Soul Jazz",
+    "release_date": "1969-01-01"
   },
   {
     "meeting_number": 8,
@@ -165,7 +176,8 @@
     "genre": "Rock",
     "nation_of_origin": "Various",
     "city_of_origin": "Various",
-    "micro_genre": "Tribute Album"
+    "micro_genre": "Tribute Album",
+    "release_date": "2016-01-01"
   },
   {
     "meeting_number": 9,
@@ -179,7 +191,8 @@
     "genre": "World Music",
     "nation_of_origin": "USA",
     "city_of_origin": "Newark, New Jersey",
-    "micro_genre": "Worldbeat / Sophisti-Pop"
+    "micro_genre": "Worldbeat / Sophisti-Pop",
+    "release_date": "1986-08-25"
   },
   {
     "meeting_number": 9,
@@ -193,7 +206,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "Canada",
     "city_of_origin": "Montreal, Quebec",
-    "micro_genre": "Baroque Pop"
+    "micro_genre": "Baroque Pop",
+    "release_date": "2004-09-14"
   },
   {
     "meeting_number": 9,
@@ -207,7 +221,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "New York, New York",
-    "micro_genre": "Afro-Pop Influenced Indie"
+    "micro_genre": "Afro-Pop Influenced Indie",
+    "release_date": "2008-01-29"
   },
   {
     "meeting_number": 10,
@@ -221,7 +236,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Minneapolis, Minnesota",
-    "micro_genre": "Cowpunk / Power Pop"
+    "micro_genre": "Cowpunk / Power Pop",
+    "release_date": "1987-07-01"
   },
   {
     "meeting_number": 10,
@@ -235,7 +251,8 @@
     "genre": "Punk Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Woking, Surrey",
-    "micro_genre": "Mod Revival / Power Pop"
+    "micro_genre": "Mod Revival / Power Pop",
+    "release_date": "1979-11-16"
   },
   {
     "meeting_number": 10,
@@ -249,7 +266,8 @@
     "genre": "Power Pop",
     "nation_of_origin": "USA",
     "city_of_origin": "Memphis, Tennessee",
-    "micro_genre": "Jangle Pop / Power Pop"
+    "micro_genre": "Jangle Pop / Power Pop",
+    "release_date": "1972-04-24"
   },
   {
     "meeting_number": 11,
@@ -263,7 +281,8 @@
     "genre": "Post-Punk",
     "nation_of_origin": "UK",
     "city_of_origin": "Manchester",
-    "micro_genre": "Post-Punk / Coldwave"
+    "micro_genre": "Post-Punk / Coldwave",
+    "release_date": "1979-06-15"
   },
   {
     "meeting_number": 11,
@@ -277,7 +296,8 @@
     "genre": "Progressive Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Godalming, Surrey",
-    "micro_genre": "Symphonic Prog"
+    "micro_genre": "Symphonic Prog",
+    "release_date": "1973-10-12"
   },
   {
     "meeting_number": 11,
@@ -291,7 +311,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Abingdon, Oxfordshire",
-    "micro_genre": "Art Rock / Chamber Pop"
+    "micro_genre": "Art Rock / Chamber Pop",
+    "release_date": "2016-05-08"
   },
   {
     "meeting_number": 12,
@@ -305,7 +326,8 @@
     "genre": "Art Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Covington, Kentucky",
-    "micro_genre": "Progressive Pop / Art Rock"
+    "micro_genre": "Progressive Pop / Art Rock",
+    "release_date": "1990-11-13"
   },
   {
     "meeting_number": 12,
@@ -319,7 +341,8 @@
     "genre": "Blues Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Blues Rock / Psychedelic Blues"
+    "micro_genre": "Blues Rock / Psychedelic Blues",
+    "release_date": "1974-04-01"
   },
   {
     "meeting_number": 12,
@@ -333,7 +356,8 @@
     "genre": "Latin Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "San Francisco, California",
-    "micro_genre": "Latin Rock / Jazz Fusion"
+    "micro_genre": "Latin Rock / Jazz Fusion",
+    "release_date": "1977-10-01"
   },
   {
     "meeting_number": 13,
@@ -347,7 +371,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Selkirk, Scotland",
-    "micro_genre": "Scottish Indie Rock"
+    "micro_genre": "Scottish Indie Rock",
+    "release_date": "2008-04-14"
   },
   {
     "meeting_number": 13,
@@ -361,7 +386,8 @@
     "genre": "Folk",
     "nation_of_origin": "Canada",
     "city_of_origin": "Montreal, Quebec",
-    "micro_genre": "Chamber Folk"
+    "micro_genre": "Chamber Folk",
+    "release_date": "1984-12-11"
   },
   {
     "meeting_number": 13,
@@ -375,7 +401,8 @@
     "genre": "Folk Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Duluth, Minnesota",
-    "micro_genre": "Singer-Songwriter / Heartland Rock"
+    "micro_genre": "Singer-Songwriter / Heartland Rock",
+    "release_date": "1975-01-20"
   },
   {
     "meeting_number": 14,
@@ -389,7 +416,8 @@
     "genre": "Dream Pop",
     "nation_of_origin": "USA",
     "city_of_origin": "Cambridge, Massachusetts",
-    "micro_genre": "Slowcore / Dream Pop"
+    "micro_genre": "Slowcore / Dream Pop",
+    "release_date": "1989-10-01"
   },
   {
     "meeting_number": 14,
@@ -403,7 +431,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Cambridge, Massachusetts",
-    "micro_genre": "Low Rock / Noir Jazz"
+    "micro_genre": "Low Rock / Noir Jazz",
+    "release_date": "1993-09-14"
   },
   {
     "meeting_number": 14,
@@ -417,7 +446,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Boise, Idaho",
-    "micro_genre": "Indie Rock / Midwest Emo Influenced"
+    "micro_genre": "Indie Rock / Midwest Emo Influenced",
+    "release_date": "1997-02-11"
   },
   {
     "meeting_number": 15,
@@ -431,7 +461,8 @@
     "genre": "Punk Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Detroit, Michigan",
-    "micro_genre": "Proto-Punk / Garage Rock"
+    "micro_genre": "Proto-Punk / Garage Rock",
+    "release_date": "1969-02-01"
   },
   {
     "meeting_number": 15,
@@ -445,7 +476,8 @@
     "genre": "Progressive Metal",
     "nation_of_origin": "USA",
     "city_of_origin": "Atlanta, Georgia",
-    "micro_genre": "Progressive Sludge Metal"
+    "micro_genre": "Progressive Sludge Metal",
+    "release_date": "2009-03-24"
   },
   {
     "meeting_number": 15,
@@ -459,7 +491,8 @@
     "genre": "Heavy Metal",
     "nation_of_origin": "UK",
     "city_of_origin": "Birmingham",
-    "micro_genre": "Heavy Psych / Doom Metal"
+    "micro_genre": "Heavy Psych / Doom Metal",
+    "release_date": "1972-09-25"
   },
   {
     "meeting_number": 16,
@@ -473,7 +506,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "York, Pennsylvania",
-    "micro_genre": "Grunge / Post-Grunge"
+    "micro_genre": "Grunge / Post-Grunge",
+    "release_date": "1991-12-31"
   },
   {
     "meeting_number": 16,
@@ -487,7 +521,8 @@
     "genre": "Progressive Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Topeka, Kansas",
-    "micro_genre": "Arena Rock / Symphonic Prog"
+    "micro_genre": "Arena Rock / Symphonic Prog",
+    "release_date": "1976-10-01"
   },
   {
     "meeting_number": 16,
@@ -501,7 +536,8 @@
     "genre": "Southern Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Jacksonville, Florida",
-    "micro_genre": "Southern Rock / Blues Rock"
+    "micro_genre": "Southern Rock / Blues Rock",
+    "release_date": "1971-07-01"
   },
   {
     "meeting_number": 17,
@@ -515,7 +551,8 @@
     "genre": "Post-Punk Revival",
     "nation_of_origin": "USA",
     "city_of_origin": "New York, New York",
-    "micro_genre": "Post-Punk Revival / Art Punk"
+    "micro_genre": "Post-Punk Revival / Art Punk",
+    "release_date": "2002-08-20"
   },
   {
     "meeting_number": 17,
@@ -529,7 +566,8 @@
     "genre": "Chanson",
     "nation_of_origin": "France",
     "city_of_origin": "Paris",
-    "micro_genre": "Y\u00e9-Y\u00e9 / Baroque Pop"
+    "micro_genre": "Y\u00e9-Y\u00e9 / Baroque Pop",
+    "release_date": "1969-07-01"
   },
   {
     "meeting_number": 17,
@@ -543,7 +581,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Issaquah, Washington",
-    "micro_genre": "Indie Rock / Art Rock"
+    "micro_genre": "Indie Rock / Art Rock",
+    "release_date": "2000-06-13"
   },
   {
     "meeting_number": 18,
@@ -557,7 +596,8 @@
     "genre": "Glam Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Glam Rock / Art Rock"
+    "micro_genre": "Glam Rock / Art Rock",
+    "release_date": "1973-10-19"
   },
   {
     "meeting_number": 18,
@@ -571,7 +611,8 @@
     "genre": "Country",
     "nation_of_origin": "USA",
     "city_of_origin": "Fort Monroe, Virginia",
-    "micro_genre": "Outlaw Country / Americana"
+    "micro_genre": "Outlaw Country / Americana",
+    "release_date": "2009-05-12"
   },
   {
     "meeting_number": 18,
@@ -585,7 +626,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Philadelphia, Pennsylvania",
-    "micro_genre": "Slacker Rock / Neo-Psychedelia"
+    "micro_genre": "Slacker Rock / Neo-Psychedelia",
+    "release_date": "2015-09-25"
   },
   {
     "meeting_number": 19,
@@ -599,7 +641,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Austin, Texas",
-    "micro_genre": "Indie Rock / Post-Punk Revival"
+    "micro_genre": "Indie Rock / Post-Punk Revival",
+    "release_date": "2007-07-10"
   },
   {
     "meeting_number": 19,
@@ -613,7 +656,8 @@
     "genre": "Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Soft Rock / West Coast Pop"
+    "micro_genre": "Soft Rock / West Coast Pop",
+    "release_date": "1977-02-04"
   },
   {
     "meeting_number": 19,
@@ -627,7 +671,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Athens, Georgia",
-    "micro_genre": "Jangle Pop / College Rock"
+    "micro_genre": "Jangle Pop / College Rock",
+    "release_date": "1983-04-12"
   },
   {
     "meeting_number": 20,
@@ -641,7 +686,8 @@
     "genre": "Jam Band",
     "nation_of_origin": "USA",
     "city_of_origin": "Athens, Georgia",
-    "micro_genre": "Southern Rock / Jam Band"
+    "micro_genre": "Southern Rock / Jam Band",
+    "release_date": "2018-01-01"
   },
   {
     "meeting_number": 20,
@@ -655,7 +701,8 @@
     "genre": "Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Worcester, Massachusetts",
-    "micro_genre": "Blue-Eyed Soul / R&B Rock"
+    "micro_genre": "Blue-Eyed Soul / R&B Rock",
+    "release_date": "1971-10-01"
   },
   {
     "meeting_number": 20,
@@ -669,7 +716,8 @@
     "genre": "Progressive Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Blackpool",
-    "micro_genre": "Progressive Rock / Folk Prog"
+    "micro_genre": "Progressive Rock / Folk Prog",
+    "release_date": "1972-03-03"
   },
   {
     "meeting_number": 21,
@@ -683,7 +731,8 @@
     "genre": "Madchester",
     "nation_of_origin": "UK",
     "city_of_origin": "Manchester",
-    "micro_genre": "Madchester / Baggy"
+    "micro_genre": "Madchester / Baggy",
+    "release_date": "1989-05-02"
   },
   {
     "meeting_number": 21,
@@ -697,7 +746,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Los Angeles, California",
-    "micro_genre": "Indie Pop / Dance-Punk"
+    "micro_genre": "Indie Pop / Dance-Punk",
+    "release_date": "2011-09-13"
   },
   {
     "meeting_number": 21,
@@ -711,7 +761,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Liverpool",
-    "micro_genre": "Indie Pop / Dance-Punk"
+    "micro_genre": "Indie Pop / Dance-Punk",
+    "release_date": "2018-02-09"
   },
   {
     "meeting_number": 22,
@@ -725,7 +776,8 @@
     "genre": "Alternative Country",
     "nation_of_origin": "USA",
     "city_of_origin": "Chicago, Illinois",
-    "micro_genre": "Art Rock / Experimental Rock"
+    "micro_genre": "Art Rock / Experimental Rock",
+    "release_date": "2002-04-23"
   },
   {
     "meeting_number": 22,
@@ -739,7 +791,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Stockton, California",
-    "micro_genre": "Lo-Fi Indie / Slacker Rock"
+    "micro_genre": "Lo-Fi Indie / Slacker Rock",
+    "release_date": "1992-04-20"
   },
   {
     "meeting_number": 22,
@@ -753,7 +806,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "New York, New York",
-    "micro_genre": "Noise Rock / No Wave"
+    "micro_genre": "Noise Rock / No Wave",
+    "release_date": "1988-10-18"
   },
   {
     "meeting_number": 23,
@@ -767,7 +821,8 @@
     "genre": "Garage Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Elmhurst, Illinois",
-    "micro_genre": "Garage Punk Revival"
+    "micro_genre": "Garage Punk Revival",
+    "release_date": "2017-06-09"
   },
   {
     "meeting_number": 23,
@@ -781,7 +836,8 @@
     "genre": "Riot Grrrl",
     "nation_of_origin": "USA",
     "city_of_origin": "Olympia, Washington",
-    "micro_genre": "Riot Grrrl / Post-Hardcore"
+    "micro_genre": "Riot Grrrl / Post-Hardcore",
+    "release_date": "1997-04-08"
   },
   {
     "meeting_number": 23,
@@ -795,7 +851,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Boston, Massachusetts",
-    "micro_genre": "Noise Pop / Surf Punk"
+    "micro_genre": "Noise Pop / Surf Punk",
+    "release_date": "1989-04-18"
   },
   {
     "meeting_number": 24,
@@ -809,7 +866,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Cardiff, Wales",
-    "micro_genre": "Twee Pop / Emo"
+    "micro_genre": "Twee Pop / Emo",
+    "release_date": "2013-10-29"
   },
   {
     "meeting_number": 24,
@@ -823,7 +881,8 @@
     "genre": "Country Folk",
     "nation_of_origin": "USA",
     "city_of_origin": "Maywood, Illinois",
-    "micro_genre": "Outlaw Country / Country Folk"
+    "micro_genre": "Outlaw Country / Country Folk",
+    "release_date": "1978-09-01"
   },
   {
     "meeting_number": 25,
@@ -837,7 +896,8 @@
     "genre": "Hard Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Blues Rock / Heavy Psych"
+    "micro_genre": "Blues Rock / Heavy Psych",
+    "release_date": "1969-01-12"
   },
   {
     "meeting_number": 25,
@@ -851,7 +911,8 @@
     "genre": "Hard Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Hard Rock / Heavy Blues"
+    "micro_genre": "Hard Rock / Heavy Blues",
+    "release_date": "1969-10-22"
   },
   {
     "meeting_number": 26,
@@ -865,7 +926,8 @@
     "genre": "Glam Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Hereford",
-    "micro_genre": "Glam Rock / Proto-Punk"
+    "micro_genre": "Glam Rock / Proto-Punk",
+    "release_date": "1972-09-08"
   },
   {
     "meeting_number": 26,
@@ -879,7 +941,8 @@
     "genre": "Blues Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Ozark, Arkansas",
-    "micro_genre": "Blues Rock / Telecaster Blues"
+    "micro_genre": "Blues Rock / Telecaster Blues",
+    "release_date": "1973-01-01"
   },
   {
     "meeting_number": 27,
@@ -893,7 +956,8 @@
     "genre": "Pop Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Bath, Somerset",
-    "micro_genre": "Sophisti-Pop / Art Pop"
+    "micro_genre": "Sophisti-Pop / Art Pop",
+    "release_date": "1993-06-22"
   },
   {
     "meeting_number": 27,
@@ -907,7 +971,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Los Angeles, California",
-    "micro_genre": "Alternative Hip Hop / Neo-Psychedelia"
+    "micro_genre": "Alternative Hip Hop / Neo-Psychedelia",
+    "release_date": "2005-03-29"
   },
   {
     "meeting_number": 28,
@@ -921,7 +986,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Amherst, Massachusetts",
-    "micro_genre": "Noise Rock / Hardcore Punk"
+    "micro_genre": "Noise Rock / Hardcore Punk",
+    "release_date": "1987-12-14"
   },
   {
     "meeting_number": 28,
@@ -935,7 +1001,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Amherst, Massachusetts",
-    "micro_genre": "Singer-Songwriter / Neo-Psychedelia"
+    "micro_genre": "Singer-Songwriter / Neo-Psychedelia",
+    "release_date": "2018-11-09"
   },
   {
     "meeting_number": 29,
@@ -949,7 +1016,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "Canada",
     "city_of_origin": "Vancouver, British Columbia",
-    "micro_genre": "Noise Pop / Post-Hardcore"
+    "micro_genre": "Noise Pop / Post-Hardcore",
+    "release_date": "2012-06-05"
   },
   {
     "meeting_number": 29,
@@ -963,7 +1031,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "Canada",
     "city_of_origin": "Montreal, Quebec",
-    "micro_genre": "Baroque Pop"
+    "micro_genre": "Baroque Pop",
+    "release_date": "2004-09-14"
   },
   {
     "meeting_number": 30,
@@ -977,7 +1046,8 @@
     "genre": "Folk Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Rockville, Maryland",
-    "micro_genre": "Baroque Pop / Chamber Folk"
+    "micro_genre": "Baroque Pop / Chamber Folk",
+    "release_date": "2012-04-30"
   },
   {
     "meeting_number": 30,
@@ -991,7 +1061,8 @@
     "genre": "Folk Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Belfast, Northern Ireland",
-    "micro_genre": "Celtic Soul / Chamber Jazz"
+    "micro_genre": "Celtic Soul / Chamber Jazz",
+    "release_date": "1968-11-01"
   },
   {
     "meeting_number": 31,
@@ -1005,7 +1076,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Seattle, Washington",
-    "micro_genre": "Heartland Rock / Indie Folk"
+    "micro_genre": "Heartland Rock / Indie Folk",
+    "release_date": "2006-03-21"
   },
   {
     "meeting_number": 31,
@@ -1019,7 +1091,8 @@
     "genre": "Emo",
     "nation_of_origin": "USA",
     "city_of_origin": "Long Island, New York",
-    "micro_genre": "Emo / Post-Hardcore"
+    "micro_genre": "Emo / Post-Hardcore",
+    "release_date": "2006-11-21"
   },
   {
     "meeting_number": 31,
@@ -1033,7 +1106,8 @@
     "genre": "Art Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Brooklyn, New York",
-    "micro_genre": "Art Punk / Post-Punk Revival"
+    "micro_genre": "Art Punk / Post-Punk Revival",
+    "release_date": "2006-07-06"
   },
   {
     "meeting_number": 32,
@@ -1047,7 +1121,8 @@
     "genre": "Blues Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Austin, Texas",
-    "micro_genre": "Texas Blues / Southern Rock"
+    "micro_genre": "Texas Blues / Southern Rock",
+    "release_date": "1992-10-13"
   },
   {
     "meeting_number": 32,
@@ -1061,7 +1136,8 @@
     "genre": "Progressive Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Symphonic Prog / Art Rock"
+    "micro_genre": "Symphonic Prog / Art Rock",
+    "release_date": "1972-09-13"
   },
   {
     "meeting_number": 32,
@@ -1075,7 +1151,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "USA",
-    "micro_genre": "Indie Rock"
+    "micro_genre": "Indie Rock",
+    "release_date": "2019-01-01"
   },
   {
     "meeting_number": 33,
@@ -1089,7 +1166,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "Australia",
     "city_of_origin": "Sydney",
-    "micro_genre": "Jangle Pop / Dream Pop"
+    "micro_genre": "Jangle Pop / Dream Pop",
+    "release_date": "1988-02-08"
   },
   {
     "meeting_number": 33,
@@ -1103,7 +1181,8 @@
     "genre": "Grunge",
     "nation_of_origin": "USA",
     "city_of_origin": "Boise, Idaho",
-    "micro_genre": "Post-Hardcore / Emo"
+    "micro_genre": "Post-Hardcore / Emo",
+    "release_date": "1994-01-01"
   },
   {
     "meeting_number": 33,
@@ -1117,7 +1196,8 @@
     "genre": "Punk Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Worldbeat / Folk Punk"
+    "micro_genre": "Worldbeat / Folk Punk",
+    "release_date": "2003-10-21"
   },
   {
     "meeting_number": 34,
@@ -1131,7 +1211,8 @@
     "genre": "Hard Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Pasadena, California",
-    "micro_genre": "Hard Rock / Arena Rock"
+    "micro_genre": "Hard Rock / Arena Rock",
+    "release_date": "1984-01-09"
   },
   {
     "meeting_number": 34,
@@ -1145,7 +1226,8 @@
     "genre": "Pop Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Los Angeles, California",
-    "micro_genre": "Soft Rock Revival / Indie Pop"
+    "micro_genre": "Soft Rock Revival / Indie Pop",
+    "release_date": "2013-09-27"
   },
   {
     "meeting_number": 34,
@@ -1159,7 +1241,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Manchester",
-    "micro_genre": "Jangle Pop / Post-Punk"
+    "micro_genre": "Jangle Pop / Post-Punk",
+    "release_date": "1987-03-30"
   },
   {
     "meeting_number": 35,
@@ -1173,7 +1256,8 @@
     "genre": "Indigenous Hip Hop",
     "nation_of_origin": "Canada",
     "city_of_origin": "Edmonton, Alberta",
-    "micro_genre": "Indigenous Hip Hop / Experimental"
+    "micro_genre": "Indigenous Hip Hop / Experimental",
+    "release_date": "2020-09-25"
   },
   {
     "meeting_number": 35,
@@ -1187,7 +1271,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "Canada",
     "city_of_origin": "Canada",
-    "micro_genre": "Indie Rock"
+    "micro_genre": "Indie Rock",
+    "release_date": "2020-01-01"
   },
   {
     "meeting_number": 35,
@@ -1201,7 +1286,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Cincinnati, Ohio",
-    "micro_genre": "Grunge / Cowpunk"
+    "micro_genre": "Grunge / Cowpunk",
+    "release_date": "1990-10-23"
   },
   {
     "meeting_number": 36,
@@ -1215,7 +1301,8 @@
     "genre": "Punk Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "New York, New York",
-    "micro_genre": "Art Punk / Proto-Post-Punk"
+    "micro_genre": "Art Punk / Proto-Post-Punk",
+    "release_date": "1977-02-08"
   },
   {
     "meeting_number": 36,
@@ -1229,7 +1316,8 @@
     "genre": "New Wave",
     "nation_of_origin": "USA",
     "city_of_origin": "Akron, Ohio",
-    "micro_genre": "Art Punk / Synth Punk"
+    "micro_genre": "Art Punk / Synth Punk",
+    "release_date": "1978-08-28"
   },
   {
     "meeting_number": 36,
@@ -1243,7 +1331,8 @@
     "genre": "Punk Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Punk Rock / New Wave"
+    "micro_genre": "Punk Rock / New Wave",
+    "release_date": "1979-12-14"
   },
   {
     "meeting_number": 37,
@@ -1257,7 +1346,8 @@
     "genre": "Soul",
     "nation_of_origin": "USA",
     "city_of_origin": "Fort Worth, Texas",
-    "micro_genre": "Neo-Soul / Retro Soul"
+    "micro_genre": "Neo-Soul / Retro Soul",
+    "release_date": "2015-06-23"
   },
   {
     "meeting_number": 37,
@@ -1271,7 +1361,8 @@
     "genre": "Pop",
     "nation_of_origin": "USA",
     "city_of_origin": "Los Angeles, California",
-    "micro_genre": "Alt-Pop / Bedroom Pop"
+    "micro_genre": "Alt-Pop / Bedroom Pop",
+    "release_date": "2019-03-29"
   },
   {
     "meeting_number": 37,
@@ -1285,7 +1376,8 @@
     "genre": "Pop Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Redditch, Worcestershire",
-    "micro_genre": "Soft Rock / Yacht Rock Revival"
+    "micro_genre": "Soft Rock / Yacht Rock Revival",
+    "release_date": "2019-12-13"
   },
   {
     "meeting_number": 38,
@@ -1299,7 +1391,8 @@
     "genre": "Electronic",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Ambient Pop / Electronica"
+    "micro_genre": "Ambient Pop / Electronica",
+    "release_date": "2019-09-27"
   },
   {
     "meeting_number": 38,
@@ -1313,7 +1406,8 @@
     "genre": "Jangle Pop",
     "nation_of_origin": "USA",
     "city_of_origin": "Raleigh, North Carolina",
-    "micro_genre": "Jangle Pop / College Rock"
+    "micro_genre": "Jangle Pop / College Rock",
+    "release_date": "2001-09-11"
   },
   {
     "meeting_number": 38,
@@ -1327,7 +1421,8 @@
     "genre": "Post-Punk",
     "nation_of_origin": "UK",
     "city_of_origin": "Guildford, Surrey",
-    "micro_genre": "Post-Punk / Pub Rock"
+    "micro_genre": "Post-Punk / Pub Rock",
+    "release_date": "2021-09-10"
   },
   {
     "meeting_number": 39,
@@ -1341,7 +1436,8 @@
     "genre": "Post-Punk",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Post-Punk / Spoken Word Rock"
+    "micro_genre": "Post-Punk / Spoken Word Rock",
+    "release_date": "2021-04-02"
   },
   {
     "meeting_number": 39,
@@ -1355,7 +1451,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Philadelphia, Pennsylvania",
-    "micro_genre": "Heartland Rock / Neo-Psychedelia"
+    "micro_genre": "Heartland Rock / Neo-Psychedelia",
+    "release_date": "2021-10-29"
   },
   {
     "meeting_number": 39,
@@ -1369,7 +1466,8 @@
     "genre": "Southern Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Louisville, Kentucky",
-    "micro_genre": "Southern Rock / Psychedelic Folk"
+    "micro_genre": "Southern Rock / Psychedelic Folk",
+    "release_date": "2021-10-22"
   },
   {
     "meeting_number": 40,
@@ -1383,7 +1481,8 @@
     "genre": "Madchester",
     "nation_of_origin": "UK",
     "city_of_origin": "West Midlands",
-    "micro_genre": "Madchester / Baggy"
+    "micro_genre": "Madchester / Baggy",
+    "release_date": "1992-02-17"
   },
   {
     "meeting_number": 40,
@@ -1397,7 +1496,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Southport",
-    "micro_genre": "Blues Rock / Trip Hop"
+    "micro_genre": "Blues Rock / Trip Hop",
+    "release_date": "1998-04-13"
   },
   {
     "meeting_number": 40,
@@ -1411,7 +1511,8 @@
     "genre": "Post-Punk",
     "nation_of_origin": "UK",
     "city_of_origin": "Bristol",
-    "micro_genre": "Post-Punk / Art Punk"
+    "micro_genre": "Post-Punk / Art Punk",
+    "release_date": "2021-11-12"
   },
   {
     "meeting_number": 41,
@@ -1425,7 +1526,8 @@
     "genre": "Synthpop",
     "nation_of_origin": "UK",
     "city_of_origin": "Basildon, Essex",
-    "micro_genre": "Synthpop / New Romantic"
+    "micro_genre": "Synthpop / New Romantic",
+    "release_date": "1981-10-05"
   },
   {
     "meeting_number": 41,
@@ -1439,7 +1541,8 @@
     "genre": "Electronic",
     "nation_of_origin": "Germany",
     "city_of_origin": "D\u00fcsseldorf",
-    "micro_genre": "Krautrock / Electro"
+    "micro_genre": "Krautrock / Electro",
+    "release_date": "1981-05-10"
   },
   {
     "meeting_number": 41,
@@ -1453,7 +1556,8 @@
     "genre": "New Wave",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "New Wave / Post-Punk"
+    "micro_genre": "New Wave / Post-Punk",
+    "release_date": "1981-10-02"
   },
   {
     "meeting_number": 42,
@@ -1467,7 +1571,8 @@
     "genre": "Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Detroit, Michigan",
-    "micro_genre": "Heartland Rock / Arena Rock"
+    "micro_genre": "Heartland Rock / Arena Rock",
+    "release_date": "1976-04-01"
   },
   {
     "meeting_number": 42,
@@ -1481,7 +1586,8 @@
     "genre": "Jazz Poetry",
     "nation_of_origin": "USA",
     "city_of_origin": "Chicago, Illinois",
-    "micro_genre": "Jazz Poetry / Proto-Hip Hop"
+    "micro_genre": "Jazz Poetry / Proto-Hip Hop",
+    "release_date": "1971-01-01"
   },
   {
     "meeting_number": 42,
@@ -1495,7 +1601,8 @@
     "genre": "Pop Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Bath, Somerset",
-    "micro_genre": "Sophisti-Pop / Art Pop"
+    "micro_genre": "Sophisti-Pop / Art Pop",
+    "release_date": "2022-02-25"
   },
   {
     "meeting_number": 43,
@@ -1509,7 +1616,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Liverpool",
-    "micro_genre": "Neo-Psychedelia / Post-Punk"
+    "micro_genre": "Neo-Psychedelia / Post-Punk",
+    "release_date": "1997-07-08"
   },
   {
     "meeting_number": 43,
@@ -1523,7 +1631,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Columbus, Ohio",
-    "micro_genre": "Electropop / Emo Rap"
+    "micro_genre": "Electropop / Emo Rap",
+    "release_date": "2013-01-08"
   },
   {
     "meeting_number": 43,
@@ -1537,7 +1646,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "Canada",
     "city_of_origin": "Toronto, Ontario",
-    "micro_genre": "Indie Rock / Synth Rock"
+    "micro_genre": "Indie Rock / Synth Rock",
+    "release_date": "2018-09-21"
   },
   {
     "meeting_number": 44,
@@ -1551,7 +1661,8 @@
     "genre": "Psychedelic Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Los Angeles, California",
-    "micro_genre": "Acid Rock / Psychedelic Blues"
+    "micro_genre": "Acid Rock / Psychedelic Blues",
+    "release_date": "1967-01-04"
   },
   {
     "meeting_number": 44,
@@ -1565,7 +1676,8 @@
     "genre": "Garage Rock Revival",
     "nation_of_origin": "USA",
     "city_of_origin": "New York, New York",
-    "micro_genre": "Garage Rock Revival / Post-Punk Revival"
+    "micro_genre": "Garage Rock Revival / Post-Punk Revival",
+    "release_date": "2001-07-30"
   },
   {
     "meeting_number": 45,
@@ -1579,7 +1691,8 @@
     "genre": "Garage Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Philadelphia, Pennsylvania",
-    "micro_genre": "Garage Rock / Proto-Punk Revival"
+    "micro_genre": "Garage Rock / Proto-Punk Revival",
+    "release_date": "2017-02-03"
   },
   {
     "meeting_number": 45,
@@ -1593,7 +1706,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Seattle, Washington",
-    "micro_genre": "Post-Grunge / Power Pop"
+    "micro_genre": "Post-Grunge / Power Pop",
+    "release_date": "1997-05-20"
   },
   {
     "meeting_number": 46,
@@ -1607,7 +1721,8 @@
     "genre": "Indie Pop",
     "nation_of_origin": "USA",
     "city_of_origin": "Los Angeles, California",
-    "micro_genre": "Synth-Pop / Dream Pop"
+    "micro_genre": "Synth-Pop / Dream Pop",
+    "release_date": "2013-10-29"
   },
   {
     "meeting_number": 46,
@@ -1621,7 +1736,8 @@
     "genre": "Post-Punk Revival",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Post-Punk Revival / Dance-Punk"
+    "micro_genre": "Post-Punk Revival / Dance-Punk",
+    "release_date": "2005-02-02"
   },
   {
     "meeting_number": 47,
@@ -1635,7 +1751,8 @@
     "genre": "Electronic",
     "nation_of_origin": "Australia",
     "city_of_origin": "Melbourne",
-    "micro_genre": "Synth-Pop / Nu-Disco"
+    "micro_genre": "Synth-Pop / Nu-Disco",
+    "release_date": "2008-03-07"
   },
   {
     "meeting_number": 47,
@@ -1649,7 +1766,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Crawley, West Sussex",
-    "micro_genre": "Gothic Rock / Jangle Pop"
+    "micro_genre": "Gothic Rock / Jangle Pop",
+    "release_date": "1987-05-26"
   },
   {
     "meeting_number": 48,
@@ -1663,7 +1781,8 @@
     "genre": "Progressive Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Art Rock / Progressive Pop"
+    "micro_genre": "Art Rock / Progressive Pop",
+    "release_date": "1974-09-13"
   },
   {
     "meeting_number": 48,
@@ -1677,7 +1796,8 @@
     "genre": "Soul",
     "nation_of_origin": "USA",
     "city_of_origin": "Birmingham, Alabama",
-    "micro_genre": "Southern Soul / Gospel Soul"
+    "micro_genre": "Southern Soul / Gospel Soul",
+    "release_date": "2020-01-24"
   },
   {
     "meeting_number": 48,
@@ -1691,7 +1811,8 @@
     "genre": "Soul",
     "nation_of_origin": "USA",
     "city_of_origin": "Brooklyn, New York",
-    "micro_genre": "Deep Soul / Funk"
+    "micro_genre": "Deep Soul / Funk",
+    "release_date": "2007-10-02"
   },
   {
     "meeting_number": 49,
@@ -1705,7 +1826,8 @@
     "genre": "New Wave",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "New Wave / Reggae Rock"
+    "micro_genre": "New Wave / Reggae Rock",
+    "release_date": "1980-10-03"
   },
   {
     "meeting_number": 49,
@@ -1719,7 +1841,8 @@
     "genre": "New Wave",
     "nation_of_origin": "Australia",
     "city_of_origin": "Sydney",
-    "micro_genre": "New Wave / Funk Rock"
+    "micro_genre": "New Wave / Funk Rock",
+    "release_date": "1984-04-02"
   },
   {
     "meeting_number": 49,
@@ -1733,7 +1856,8 @@
     "genre": "Folk Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Heidelberg, Germany",
-    "micro_genre": "Singer-Songwriter / Soft Rock"
+    "micro_genre": "Singer-Songwriter / Soft Rock",
+    "release_date": "1974-09-13"
   },
   {
     "meeting_number": 50,
@@ -1747,7 +1871,8 @@
     "genre": "Art Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Philadelphia, Pennsylvania",
-    "micro_genre": "Art Pop / Progressive Pop"
+    "micro_genre": "Art Pop / Progressive Pop",
+    "release_date": "1973-03-02"
   },
   {
     "meeting_number": 50,
@@ -1761,7 +1886,8 @@
     "genre": "Progressive Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Progressive Rock / Art Rock"
+    "micro_genre": "Progressive Rock / Art Rock",
+    "release_date": "1977-01-23"
   },
   {
     "meeting_number": 50,
@@ -1775,7 +1901,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Hoboken, New Jersey",
-    "micro_genre": "Indie Rock / Noise Pop"
+    "micro_genre": "Indie Rock / Noise Pop",
+    "release_date": "2023-02-10"
   },
   {
     "meeting_number": 51,
@@ -1789,7 +1916,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Art Pop / Neo-Psychedelia"
+    "micro_genre": "Art Pop / Neo-Psychedelia",
+    "release_date": "2022-03-04"
   },
   {
     "meeting_number": 51,
@@ -1803,7 +1931,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Bridport, Dorset",
-    "micro_genre": "Art Rock / Alternative Rock"
+    "micro_genre": "Art Rock / Alternative Rock",
+    "release_date": "2000-10-23"
   },
   {
     "meeting_number": 51,
@@ -1817,7 +1946,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "New York, New York",
-    "micro_genre": "Dance-Punk / Art Punk"
+    "micro_genre": "Dance-Punk / Art Punk",
+    "release_date": "2003-04-29"
   },
   {
     "meeting_number": 52,
@@ -1831,7 +1961,8 @@
     "genre": "Pop Punk",
     "nation_of_origin": "USA",
     "city_of_origin": "Wilmette, Illinois",
-    "micro_genre": "Pop Punk / Emo Pop"
+    "micro_genre": "Pop Punk / Emo Pop",
+    "release_date": "2005-05-03"
   },
   {
     "meeting_number": 52,
@@ -1845,7 +1976,8 @@
     "genre": "Pop Punk",
     "nation_of_origin": "USA",
     "city_of_origin": "Poway, California",
-    "micro_genre": "Pop Punk / Skate Punk"
+    "micro_genre": "Pop Punk / Skate Punk",
+    "release_date": "2003-11-18"
   },
   {
     "meeting_number": 52,
@@ -1859,7 +1991,8 @@
     "genre": "Emo",
     "nation_of_origin": "USA",
     "city_of_origin": "Long Island, New York",
-    "micro_genre": "Emo / Post-Hardcore"
+    "micro_genre": "Emo / Post-Hardcore",
+    "release_date": "2002-03-26"
   },
   {
     "meeting_number": 53,
@@ -1873,7 +2006,8 @@
     "genre": "Post-Punk",
     "nation_of_origin": "UK",
     "city_of_origin": "Notting Hill, London",
-    "micro_genre": "Post-Punk / Industrial Rock"
+    "micro_genre": "Post-Punk / Industrial Rock",
+    "release_date": "1980-10-01"
   },
   {
     "meeting_number": 53,
@@ -1887,7 +2021,8 @@
     "genre": "Post-Punk",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Synth-Punk / Proto-Synth-Pop"
+    "micro_genre": "Synth-Punk / Proto-Synth-Pop",
+    "release_date": "1978-11-01"
   },
   {
     "meeting_number": 53,
@@ -1901,7 +2036,8 @@
     "genre": "Industrial Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Cleveland, Ohio",
-    "micro_genre": "Industrial Rock / Art Rock"
+    "micro_genre": "Industrial Rock / Art Rock",
+    "release_date": "1999-09-21"
   },
   {
     "meeting_number": 54,
@@ -1915,7 +2051,8 @@
     "genre": "Rock",
     "nation_of_origin": "Canada",
     "city_of_origin": "Toronto, Ontario",
-    "micro_genre": "Jam Band / Folk Rock"
+    "micro_genre": "Jam Band / Folk Rock",
+    "release_date": "2006-11-07"
   },
   {
     "meeting_number": 55,
@@ -1929,7 +2066,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Manchester",
-    "micro_genre": "Indie Rock / Jangle Pop"
+    "micro_genre": "Indie Rock / Jangle Pop",
+    "release_date": "2003-02-03"
   },
   {
     "meeting_number": 55,
@@ -1943,7 +2081,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Manchester",
-    "micro_genre": "Jangle Pop / Art Pop"
+    "micro_genre": "Jangle Pop / Art Pop",
+    "release_date": "1988-03-14"
   },
   {
     "meeting_number": 55,
@@ -1957,7 +2096,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Manchester",
-    "micro_genre": "Jangle Pop / Post-Punk"
+    "micro_genre": "Jangle Pop / Post-Punk",
+    "release_date": "1984-11-12"
   },
   {
     "meeting_number": 56,
@@ -1971,7 +2111,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Brooklyn, New York",
-    "micro_genre": "Freak Folk / Lo-Fi Indie"
+    "micro_genre": "Freak Folk / Lo-Fi Indie",
+    "release_date": "2023-01-27"
   },
   {
     "meeting_number": 56,
@@ -1985,7 +2126,8 @@
     "genre": "Psychedelic Rock",
     "nation_of_origin": "Australia",
     "city_of_origin": "Melbourne",
-    "micro_genre": "Psychedelic Rock / Krautrock"
+    "micro_genre": "Psychedelic Rock / Krautrock",
+    "release_date": "2022-10-07"
   },
   {
     "meeting_number": 56,
@@ -1999,7 +2141,8 @@
     "genre": "Folk Rock",
     "nation_of_origin": "Canada",
     "city_of_origin": "Toronto, Ontario",
-    "micro_genre": "Folk Rock / Country Rock"
+    "micro_genre": "Folk Rock / Country Rock",
+    "release_date": "2007-10-23"
   },
   {
     "meeting_number": 57,
@@ -2013,7 +2156,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Brooklyn, New York",
-    "micro_genre": "Indie Rock / Jangle Pop"
+    "micro_genre": "Indie Rock / Jangle Pop",
+    "release_date": "2024-01-26"
   },
   {
     "meeting_number": 57,
@@ -2027,7 +2171,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Los Angeles, California",
-    "micro_genre": "Grunge Revival / Shoegaze"
+    "micro_genre": "Grunge Revival / Shoegaze",
+    "release_date": "2022-07-01"
   },
   {
     "meeting_number": 57,
@@ -2041,7 +2186,8 @@
     "genre": "Post-Punk",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Post-Punk / Art Punk"
+    "micro_genre": "Post-Punk / Art Punk",
+    "release_date": "2018-01-12"
   },
   {
     "meeting_number": 58,
@@ -2055,7 +2201,8 @@
     "genre": "Post-Punk Revival",
     "nation_of_origin": "UK",
     "city_of_origin": "London",
-    "micro_genre": "Post-Punk Revival / Indie Rock"
+    "micro_genre": "Post-Punk Revival / Indie Rock",
+    "release_date": "2007-02-05"
   },
   {
     "meeting_number": 58,
@@ -2069,7 +2216,8 @@
     "genre": "Post-Punk Revival",
     "nation_of_origin": "UK",
     "city_of_origin": "Newcastle upon Tyne",
-    "micro_genre": "Post-Punk Revival / Art Punk"
+    "micro_genre": "Post-Punk Revival / Art Punk",
+    "release_date": "2005-05-16"
   },
   {
     "meeting_number": 58,
@@ -2083,7 +2231,8 @@
     "genre": "Post-Punk Revival",
     "nation_of_origin": "UK",
     "city_of_origin": "Sunderland",
-    "micro_genre": "Post-Punk Revival / Art Punk"
+    "micro_genre": "Post-Punk Revival / Art Punk",
+    "release_date": "2004-09-13"
   },
   {
     "meeting_number": 60,
@@ -2097,7 +2246,8 @@
     "genre": "TBA",
     "nation_of_origin": "Various",
     "city_of_origin": "Various",
-    "micro_genre": "TBA"
+    "micro_genre": "TBA",
+    "release_date": null
   },
   {
     "meeting_number": 60,
@@ -2111,7 +2261,8 @@
     "genre": "TBA",
     "nation_of_origin": "Various",
     "city_of_origin": "Various",
-    "micro_genre": "TBA"
+    "micro_genre": "TBA",
+    "release_date": null
   },
   {
     "meeting_number": 60,
@@ -2125,7 +2276,8 @@
     "genre": "TBA",
     "nation_of_origin": "Various",
     "city_of_origin": "Various",
-    "micro_genre": "TBA"
+    "micro_genre": "TBA",
+    "release_date": null
   },
   {
     "meeting_number": 61,
@@ -2139,7 +2291,8 @@
     "genre": "TBA",
     "nation_of_origin": "Various",
     "city_of_origin": "Various",
-    "micro_genre": "TBA"
+    "micro_genre": "TBA",
+    "release_date": null
   },
   {
     "meeting_number": 61,
@@ -2153,7 +2306,8 @@
     "genre": "TBA",
     "nation_of_origin": "Various",
     "city_of_origin": "Various",
-    "micro_genre": "TBA"
+    "micro_genre": "TBA",
+    "release_date": null
   },
   {
     "meeting_number": 61,
@@ -2167,7 +2321,8 @@
     "genre": "TBA",
     "nation_of_origin": "Various",
     "city_of_origin": "Various",
-    "micro_genre": "TBA"
+    "micro_genre": "TBA",
+    "release_date": null
   },
   {
     "meeting_number": 62,
@@ -2181,7 +2336,8 @@
     "genre": "TBA",
     "nation_of_origin": "Various",
     "city_of_origin": "Various",
-    "micro_genre": "TBA"
+    "micro_genre": "TBA",
+    "release_date": null
   },
   {
     "meeting_number": 62,
@@ -2195,7 +2351,8 @@
     "genre": "TBA",
     "nation_of_origin": "Various",
     "city_of_origin": "Various",
-    "micro_genre": "TBA"
+    "micro_genre": "TBA",
+    "release_date": null
   },
   {
     "meeting_number": 62,
@@ -2209,7 +2366,8 @@
     "genre": "TBA",
     "nation_of_origin": "Various",
     "city_of_origin": "Various",
-    "micro_genre": "TBA"
+    "micro_genre": "TBA",
+    "release_date": null
   },
   {
     "meeting_number": 63,
@@ -2223,7 +2381,8 @@
     "genre": "Indie Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Los Angeles, California",
-    "micro_genre": "Power Pop / Indie Rock"
+    "micro_genre": "Power Pop / Indie Rock",
+    "release_date": "2004-01-06"
   },
   {
     "meeting_number": 63,
@@ -2237,7 +2396,8 @@
     "genre": "Psychedelic Pop",
     "nation_of_origin": "USA",
     "city_of_origin": "Middletown, Connecticut",
-    "micro_genre": "Psychedelic Pop / Neo-Psychedelia"
+    "micro_genre": "Psychedelic Pop / Neo-Psychedelia",
+    "release_date": "2024-02-23"
   },
   {
     "meeting_number": 63,
@@ -2251,7 +2411,8 @@
     "genre": "Psychedelic Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Liverpool",
-    "micro_genre": "Psychedelic Pop / Baroque Pop"
+    "micro_genre": "Psychedelic Pop / Baroque Pop",
+    "release_date": "1967-11-27"
   },
   {
     "meeting_number": 64,
@@ -2265,7 +2426,8 @@
     "genre": "Grunge",
     "nation_of_origin": "USA",
     "city_of_origin": "Aberdeen, Washington",
-    "micro_genre": "Grunge / Punk Rock"
+    "micro_genre": "Grunge / Punk Rock",
+    "release_date": "1992-12-14"
   },
   {
     "meeting_number": 64,
@@ -2279,7 +2441,8 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "USA",
     "city_of_origin": "Atlanta, Georgia",
-    "micro_genre": "Indie Rock / Emo"
+    "micro_genre": "Indie Rock / Emo",
+    "release_date": "2017-07-21"
   },
   {
     "meeting_number": 64,
@@ -2293,6 +2456,7 @@
     "genre": "Alternative Rock",
     "nation_of_origin": "UK",
     "city_of_origin": "Abingdon, Oxfordshire",
-    "micro_genre": "Art Rock / Electronic"
+    "micro_genre": "Art Rock / Electronic",
+    "release_date": "2007-10-10"
   }
 ]
