@@ -2,7 +2,7 @@
 import json
 
 # Read existing cocktail history
-with open('cocktail_history.json', 'r') as f:
+with open('Cocktail/Data/cocktail_history.json', 'r') as f:
     cocktails = json.load(f)
 
 # New cocktails to add
@@ -57,7 +57,7 @@ new_cocktails = [
 cocktails.extend(new_cocktails)
 
 # Write updated data back to file
-with open('cocktail_history.json', 'w') as f:
+with open('Cocktail/Data/cocktail_history.json', 'w') as f:
     json.dump(cocktails, f, indent=2)
 
 print(f"Updated cocktail history with {len(new_cocktails)} new entries")

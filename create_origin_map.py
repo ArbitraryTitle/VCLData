@@ -28,7 +28,7 @@ city_coords = {
 }
 
 # load cocktail data
-with open('cocktail_history.json', 'r') as f:
+with open('Cocktail/Data/cocktail_history.json', 'r') as f:
     data = json.load(f)
 
 # count cocktails by city
@@ -46,7 +46,7 @@ for city, count in city_counts.items():
         })
 
 # save location data
-with open('cocktail_locations.json', 'w') as f:
+with open('Cocktail/Data/cocktail_locations.json', 'w') as f:
     json.dump(locations, f, indent=2)
 
 print(f"mapped {len(locations)} unique locations")
@@ -101,8 +101,8 @@ fig.update_layout(
 )
 
 # save as html
-fig.write_html('cocktail_origin_map.html')
-print("\ncreated interactive map: cocktail_origin_map.html")
+fig.write_html('Cocktail/Viz/cocktail_origin_map.html')
+print("\ncreated interactive map: Cocktail/Viz/cocktail_origin_map.html")
 
 # also create a US-focused version
 fig_us = go.Figure()
@@ -150,5 +150,5 @@ fig_us.update_layout(
     margin=dict(l=0, r=0, t=50, b=0)
 )
 
-fig_us.write_html('cocktail_origin_map_us.html')
-print("created US-focused map: cocktail_origin_map_us.html")
+fig_us.write_html('Cocktail/Viz/cocktail_origin_map_us.html')
+print("created US-focused map: Cocktail/Viz/cocktail_origin_map_us.html")

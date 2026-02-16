@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 from collections import defaultdict
 
 # load cocktail data
-with open('cocktail_history.json', 'r') as f:
+with open('Cocktail/Data/cocktail_history.json', 'r') as f:
     data = json.load(f)
 
 # filter out any without invention years
@@ -84,8 +84,8 @@ fig.update_layout(
     margin=dict(l=50, r=300, t=100, b=50)
 )
 
-fig.write_html('cocktail_timeline.html')
-print("created cocktail timeline: cocktail_timeline.html")
+fig.write_html('Cocktail/Viz/cocktail_timeline.html')
+print("created cocktail timeline: Cocktail/Viz/cocktail_timeline.html")
 
 # stats
 print(f"\ntotal cocktails on timeline: {len(cocktails_with_years)}")

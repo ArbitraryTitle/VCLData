@@ -6,7 +6,7 @@ from plotly.subplots import make_subplots
 from collections import defaultdict, Counter
 
 # load data
-with open('cocktail_history.json', 'r') as f:
+with open('Cocktail/Data/cocktail_history.json', 'r') as f:
     data = json.load(f)
 
 df = pd.DataFrame(data)
@@ -521,10 +521,10 @@ chart_data_js += "Plotly.newPlot('timeline-chart', timelineData.data, timelineDa
 # Create final HTML
 final_html = html_template.replace('{CHART_DATA}', chart_data_js)
 
-with open('vcl_cocktail_dashboard.html', 'w') as f:
+with open('Cocktail/Viz/vcl_cocktail_dashboard.html', 'w') as f:
     f.write(final_html)
 
-print("created improved dashboard: vcl_cocktail_dashboard.html")
+print("created improved dashboard: Cocktail/Viz/vcl_cocktail_dashboard.html")
 print("\nfixed issues:")
 print("  - better overview: liquor bar chart + era distribution")
 print("  - proper chart sizing: all charts now use full width")
