@@ -62,3 +62,7 @@ meeting_number,date,host,cocktail,country_of_origin,city_of_origin,primary_liquo
 62,1/9/2025,John,Pendergast,USA,USA,whiskey,whiskey,2020
 63,3/13/2025,Adam,Bubby's Barrel-Aged Manhattan - Elijah Craig Small Batch Edition,USA,USA,whiskey,bourbon,2020
 64,5/22/2025,Lucas,Division Bell,USA,"New York, New York",tequila,N/A,2009
+65,6/12/2025,Chris,Paper Plane,USA,"Chicago, Illinois",whiskey,bourbon,2007
+66,9/11/2025,Joe,Maple Old Fashioned,USA,USA,whiskey,bourbon,2010
+67,11/13/2025,John,Mexican Firing Squad,Mexico,Mexico City,tequila,N/A,1937
+68,1/8/2026,Adam,C&B Old Fashioned,USA,"New York, New York",gin,N/A,2011
