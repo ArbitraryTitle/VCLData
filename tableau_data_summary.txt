@@ -1,0 +1,21 @@
+VCL COCKTAIL DATA SUMMARY
+==================================================
+
+total_cocktails: 63
+unique_hosts: 6
+unique_countries: 11
+unique_cities: 20
+date_range: 04/14/2022 to 9/7/2021
+year_range: 1775 to 2020
+most_common_liquor: whiskey
+most_common_country: USA
+
+==================================================
+BREAKDOWN BY HOST
+==================================================
+Chris: 13 cocktails
+Joe: 13 cocktails
+John: 13 cocktails
+Lucas: 9 cocktails
+Adam: 8 cocktails
+Eric: 7 cocktails

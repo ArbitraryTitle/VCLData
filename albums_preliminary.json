@@ -1,0 +1,1577 @@
+[
+  {
+    "meeting_number": "1",
+    "meeting_date": "1/22/2015",
+    "presenter": "Chris",
+    "album_position": "warm_up_1",
+    "artist": "King Crimson",
+    "album_title": "In the Court of the Crimson King",
+    "raw_text": "King Crimson In the Court of the Crimson King"
+  },
+  {
+    "meeting_number": "2",
+    "meeting_date": "2/26/2015",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "Mountain Nantucket",
+    "album_title": "Sleighride",
+    "raw_text": "Mountain Nantucket Sleighride"
+  },
+  {
+    "meeting_number": "3",
+    "meeting_date": "3/27/2015",
+    "presenter": "John",
+    "album_position": "warm_up_1",
+    "artist": "",
+    "album_title": "Sebado",
+    "raw_text": "Sebado"
+  },
+  {
+    "meeting_number": "3",
+    "meeting_date": "3/27/2015",
+    "presenter": "John",
+    "album_position": "warm_up_2",
+    "artist": "Yo La",
+    "album_title": "Tengo",
+    "raw_text": "Yo La Tengo"
+  },
+  {
+    "meeting_number": "3",
+    "meeting_date": "3/27/2015",
+    "presenter": "John",
+    "album_position": "headliner",
+    "artist": "Ben",
+    "album_title": "Lee",
+    "raw_text": "Ben Lee"
+  },
+  {
+    "meeting_number": "4",
+    "meeting_date": "4/23/2015",
+    "presenter": "Chris",
+    "album_position": "warm_up_1",
+    "artist": "The Knife",
+    "album_title": "Silent Shout",
+    "raw_text": "The Knife Silent Shout"
+  },
+  {
+    "meeting_number": "5",
+    "meeting_date": "7/29/2015",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "Jefferson Airplane",
+    "album_title": "Surrealistic Pillow",
+    "raw_text": "Jefferson Airplane Surrealistic Pillow"
+  },
+  {
+    "meeting_number": "5",
+    "meeting_date": "7/29/2015",
+    "presenter": "Joe",
+    "album_position": "warm_up_2",
+    "artist": "Talking Heads",
+    "album_title": "Talking Heads:77",
+    "raw_text": "Talking Heads Talking Heads:77"
+  },
+  {
+    "meeting_number": "6",
+    "meeting_date": "11/5/2015",
+    "presenter": "John",
+    "album_position": "warm_up_1",
+    "artist": "The Afghan",
+    "album_title": "Whigs Black Love",
+    "raw_text": "The Afghan Whigs Black Love"
+  },
+  {
+    "meeting_number": "7",
+    "meeting_date": "12/17/2015",
+    "presenter": "Chris",
+    "album_position": "warm_up_1",
+    "artist": "The Stooges",
+    "album_title": "Raw Power",
+    "raw_text": "The Stooges Raw Power"
+  },
+  {
+    "meeting_number": "8",
+    "meeting_date": "1/26/2016",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "James Brown",
+    "album_title": "Say it Loud",
+    "raw_text": "James Brown Say it Loud"
+  },
+  {
+    "meeting_number": "8",
+    "meeting_date": "1/26/2016",
+    "presenter": "Joe",
+    "album_position": "warm_up_2",
+    "artist": "David Bowie",
+    "album_title": "tribute",
+    "raw_text": "David Bowie tribute"
+  },
+  {
+    "meeting_number": "9",
+    "meeting_date": "3/25/2016",
+    "presenter": "Lucas",
+    "album_position": "warm_up_1",
+    "artist": "Paul Simon",
+    "album_title": "Graceland",
+    "raw_text": "Paul Simon Graceland"
+  },
+  {
+    "meeting_number": "9",
+    "meeting_date": "3/25/2016",
+    "presenter": "Lucas",
+    "album_position": "warm_up_2",
+    "artist": "Arcade Fire",
+    "album_title": "Funeral",
+    "raw_text": "Arcade Fire Funeral"
+  },
+  {
+    "meeting_number": "9",
+    "meeting_date": "3/25/2016",
+    "presenter": "Lucas",
+    "album_position": "headliner",
+    "artist": "Vampire Weekend",
+    "album_title": "Vampire Weekend",
+    "raw_text": "Vampire Weekend Vampire Weekend"
+  },
+  {
+    "meeting_number": "10",
+    "meeting_date": "5/26/2016",
+    "presenter": "John",
+    "album_position": "warm_up_1",
+    "artist": "The Replacements",
+    "album_title": "Pleased to Meet You",
+    "raw_text": "The Replacements Pleased to Meet You"
+  },
+  {
+    "meeting_number": "10",
+    "meeting_date": "5/26/2016",
+    "presenter": "John",
+    "album_position": "warm_up_2",
+    "artist": "The Jam",
+    "album_title": "Setting Sons",
+    "raw_text": "The Jam Setting Sons"
+  },
+  {
+    "meeting_number": "10",
+    "meeting_date": "5/26/2016",
+    "presenter": "John",
+    "album_position": "headliner",
+    "artist": "Big Star",
+    "album_title": "#1 Record",
+    "raw_text": "Big Star #1 Record"
+  },
+  {
+    "meeting_number": "11",
+    "meeting_date": "8/10/2016",
+    "presenter": "Chris",
+    "album_position": "warm_up_1",
+    "artist": "Joy Division",
+    "album_title": "Unknown Pleasures",
+    "raw_text": "Joy Division Unknown Pleasures"
+  },
+  {
+    "meeting_number": "11",
+    "meeting_date": "8/10/2016",
+    "presenter": "Chris",
+    "album_position": "warm_up_2",
+    "artist": "Genesis Selling",
+    "album_title": "England by the Pound",
+    "raw_text": "Genesis Selling England by the Pound"
+  },
+  {
+    "meeting_number": "11",
+    "meeting_date": "8/10/2016",
+    "presenter": "Chris",
+    "album_position": "headliner",
+    "artist": "Radiohead A",
+    "album_title": "Moon Shaped Pool",
+    "raw_text": "Radiohead A Moon Shaped Pool"
+  },
+  {
+    "meeting_number": "12",
+    "meeting_date": "9/29/2016",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "Adrian Belew",
+    "album_title": "Young Lions",
+    "raw_text": "Adrian Belew Young Lions"
+  },
+  {
+    "meeting_number": "12",
+    "meeting_date": "9/29/2016",
+    "presenter": "Joe",
+    "album_position": "warm_up_2",
+    "artist": "Robin Trower",
+    "album_title": "Bridge of Sighs",
+    "raw_text": "Robin Trower Bridge of Sighs"
+  },
+  {
+    "meeting_number": "12",
+    "meeting_date": "9/29/2016",
+    "presenter": "Joe",
+    "album_position": "headliner",
+    "artist": "Santana",
+    "album_title": "Moonflower",
+    "raw_text": "Santana Moonflower"
+  },
+  {
+    "meeting_number": "13",
+    "meeting_date": "12/8/2016",
+    "presenter": "Lucas",
+    "album_position": "warm_up_1",
+    "artist": "Frightened Rabbits",
+    "album_title": "Midnight Organ Fight",
+    "raw_text": "Frightened Rabbits Midnight Organ Fight"
+  },
+  {
+    "meeting_number": "13",
+    "meeting_date": "12/8/2016",
+    "presenter": "Lucas",
+    "album_position": "warm_up_2",
+    "artist": "Leonard Cohen",
+    "album_title": "Personal Problems",
+    "raw_text": "Leonard Cohen Personal Problems"
+  },
+  {
+    "meeting_number": "13",
+    "meeting_date": "12/8/2016",
+    "presenter": "Lucas",
+    "album_position": "headliner",
+    "artist": "Bob Dylan",
+    "album_title": "Blood on the Tracks",
+    "raw_text": "Bob Dylan Blood on the Tracks"
+  },
+  {
+    "meeting_number": "14",
+    "meeting_date": "1/26/2017",
+    "presenter": "John",
+    "album_position": "warm_up_1",
+    "artist": "Galaxie 500",
+    "album_title": "On Fire",
+    "raw_text": "Galaxie 500 On Fire"
+  },
+  {
+    "meeting_number": "14",
+    "meeting_date": "1/26/2017",
+    "presenter": "John",
+    "album_position": "warm_up_2",
+    "artist": "Morphine Cure",
+    "album_title": "for Pain",
+    "raw_text": "Morphine Cure for Pain"
+  },
+  {
+    "meeting_number": "14",
+    "meeting_date": "1/26/2017",
+    "presenter": "John",
+    "album_position": "headliner",
+    "artist": "Built to",
+    "album_title": "Spill Perfect from Now On",
+    "raw_text": "Built to Spill Perfect from Now On"
+  },
+  {
+    "meeting_number": "15",
+    "meeting_date": "3/9/2017",
+    "presenter": "Chris",
+    "album_position": "warm_up_1",
+    "artist": "MC5 Kick",
+    "album_title": "Out the Jams",
+    "raw_text": "MC5 Kick Out the Jams"
+  },
+  {
+    "meeting_number": "15",
+    "meeting_date": "3/9/2017",
+    "presenter": "Chris",
+    "album_position": "warm_up_2",
+    "artist": "Mastodon Crack",
+    "album_title": "the Skye",
+    "raw_text": "Mastodon Crack the Skye"
+  },
+  {
+    "meeting_number": "15",
+    "meeting_date": "3/9/2017",
+    "presenter": "Chris",
+    "album_position": "headliner",
+    "artist": "Black Sabbath",
+    "album_title": "Black Sabbath Vol 4",
+    "raw_text": "Black Sabbath Black Sabbath Vol 4"
+  },
+  {
+    "meeting_number": "16",
+    "meeting_date": "5/4/2017",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "Live Mental",
+    "album_title": "Jewelry",
+    "raw_text": "Live Mental Jewelry"
+  },
+  {
+    "meeting_number": "16",
+    "meeting_date": "5/4/2017",
+    "presenter": "Joe",
+    "album_position": "warm_up_2",
+    "artist": "Kansas",
+    "album_title": "Leftoverture",
+    "raw_text": "Kansas Leftoverture"
+  },
+  {
+    "meeting_number": "16",
+    "meeting_date": "5/4/2017",
+    "presenter": "Joe",
+    "album_position": "headliner",
+    "artist": "Allman Brothers",
+    "album_title": "At Fillmore East",
+    "raw_text": "Allman Brothers At Fillmore East"
+  },
+  {
+    "meeting_number": "17",
+    "meeting_date": "8/10/2017",
+    "presenter": "Lucas",
+    "album_position": "warm_up_1",
+    "artist": "Interpol Turn",
+    "album_title": "On The Bright Lights",
+    "raw_text": "Interpol Turn On The Bright Lights"
+  },
+  {
+    "meeting_number": "17",
+    "meeting_date": "8/10/2017",
+    "presenter": "Lucas",
+    "album_position": "warm_up_2",
+    "artist": "Serge Gainsbourg",
+    "album_title": "& Jane Burkin Jane Burkin/Serge Gainsbourg",
+    "raw_text": "Serge Gainsbourg & Jane Burkin Jane Burkin/Serge Gainsbourg"
+  },
+  {
+    "meeting_number": "17",
+    "meeting_date": "8/10/2017",
+    "presenter": "Lucas",
+    "album_position": "headliner",
+    "artist": "Modest Mouse",
+    "album_title": "The Moon & Antarctica",
+    "raw_text": "Modest Mouse The Moon & Antarctica"
+  },
+  {
+    "meeting_number": "18",
+    "meeting_date": "9/14/2017",
+    "presenter": "John",
+    "album_position": "warm_up_1",
+    "artist": "David Bowie",
+    "album_title": "Pinups",
+    "raw_text": "David Bowie Pinups"
+  },
+  {
+    "meeting_number": "18",
+    "meeting_date": "9/14/2017",
+    "presenter": "John",
+    "album_position": "warm_up_2",
+    "artist": "Steve Earle",
+    "album_title": "Townes: The Basics",
+    "raw_text": "Steve Earle Townes: The Basics"
+  },
+  {
+    "meeting_number": "18",
+    "meeting_date": "9/14/2017",
+    "presenter": "John",
+    "album_position": "headliner",
+    "artist": "Kurt Vile",
+    "album_title": "Believe I\u2019m Going Down",
+    "raw_text": "Kurt Vile Believe I\u2019m Going Down"
+  },
+  {
+    "meeting_number": "18",
+    "meeting_date": "9/14/2017",
+    "presenter": "John",
+    "album_position": "additional_4",
+    "artist": "(also played*John Mayer",
+    "album_title": "Where the Light Is",
+    "raw_text": "David Bowie Pinups, Steve Earle Townes: The Basics, Kurt Vile Believe I\u2019m Going Down, (also played*John Mayer \u2013 Where the Light Is, Steely Dan \u2013 Aja)"
+  },
+  {
+    "meeting_number": "18",
+    "meeting_date": "9/14/2017",
+    "presenter": "John",
+    "album_position": "additional_5",
+    "artist": "Steely Dan",
+    "album_title": "Aja)",
+    "raw_text": "David Bowie Pinups, Steve Earle Townes: The Basics, Kurt Vile Believe I\u2019m Going Down, (also played*John Mayer \u2013 Where the Light Is, Steely Dan \u2013 Aja)"
+  },
+  {
+    "meeting_number": "19",
+    "meeting_date": "10/26/2017",
+    "presenter": "Chris",
+    "album_position": "warm_up_1",
+    "artist": "Spoon Ga",
+    "album_title": "Ga Ga Ga Ga",
+    "raw_text": "Spoon Ga Ga Ga Ga Ga"
+  },
+  {
+    "meeting_number": "19",
+    "meeting_date": "10/26/2017",
+    "presenter": "Chris",
+    "album_position": "warm_up_2",
+    "artist": "Fleetwood Mac",
+    "album_title": "Rumours",
+    "raw_text": "Fleetwood Mac Rumours"
+  },
+  {
+    "meeting_number": "19",
+    "meeting_date": "10/26/2017",
+    "presenter": "Chris",
+    "album_position": "headliner",
+    "artist": "R.E.M.",
+    "album_title": "Murmur",
+    "raw_text": "R.E.M. Murmur"
+  },
+  {
+    "meeting_number": "20",
+    "meeting_date": "1/25/2018",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "Widespread Panic",
+    "album_title": "VCL Mix Edition",
+    "raw_text": "Widespread Panic - VCL Mix Edition, J. Geils - The Morning After, Jethro Tull - Thick As A Brick"
+  },
+  {
+    "meeting_number": "20",
+    "meeting_date": "1/25/2018",
+    "presenter": "Joe",
+    "album_position": "warm_up_2",
+    "artist": "J. Geils",
+    "album_title": "The Morning After",
+    "raw_text": "Widespread Panic - VCL Mix Edition, J. Geils - The Morning After, Jethro Tull - Thick As A Brick"
+  },
+  {
+    "meeting_number": "20",
+    "meeting_date": "1/25/2018",
+    "presenter": "Joe",
+    "album_position": "headliner",
+    "artist": "Jethro Tull",
+    "album_title": "Thick As A Brick",
+    "raw_text": "Widespread Panic - VCL Mix Edition, J. Geils - The Morning After, Jethro Tull - Thick As A Brick"
+  },
+  {
+    "meeting_number": "21",
+    "meeting_date": "3/8/2018",
+    "presenter": "Eric",
+    "album_position": "warm_up_1",
+    "artist": "Stone Roses",
+    "album_title": "The Stone Roses",
+    "raw_text": "Stone Roses The Stone Roses"
+  },
+  {
+    "meeting_number": "21",
+    "meeting_date": "3/8/2018",
+    "presenter": "Eric",
+    "album_position": "warm_up_2",
+    "artist": "Grouplove Never",
+    "album_title": "Trust a Happy Song",
+    "raw_text": "Grouplove Never Trust a Happy Song"
+  },
+  {
+    "meeting_number": "21",
+    "meeting_date": "3/8/2018",
+    "presenter": "Eric",
+    "album_position": "headliner",
+    "artist": "The Wombats",
+    "album_title": "Beautiful People Will Ruin Your Life",
+    "raw_text": "The Wombats Beautiful People Will Ruin Your Life"
+  },
+  {
+    "meeting_number": "22",
+    "meeting_date": "5/10/2018",
+    "presenter": "John",
+    "album_position": "warm_up_1",
+    "artist": "Wilco Yankee",
+    "album_title": "Hotel Foxtrot",
+    "raw_text": "Wilco Yankee Hotel Foxtrot"
+  },
+  {
+    "meeting_number": "22",
+    "meeting_date": "5/10/2018",
+    "presenter": "John",
+    "album_position": "warm_up_2",
+    "artist": "Pavement Slanted",
+    "album_title": "and Enchanted",
+    "raw_text": "Pavement Slanted and Enchanted"
+  },
+  {
+    "meeting_number": "22",
+    "meeting_date": "5/10/2018",
+    "presenter": "John",
+    "album_position": "headliner",
+    "artist": "Sonic Youth",
+    "album_title": "Daydream Nation",
+    "raw_text": "Sonic Youth Daydream Nation"
+  },
+  {
+    "meeting_number": "23",
+    "meeting_date": "8/9/2018",
+    "presenter": "Adam",
+    "album_position": "warm_up_1",
+    "artist": "The Orwells",
+    "album_title": "Discgraceland",
+    "raw_text": "The Orwells Discgraceland"
+  },
+  {
+    "meeting_number": "23",
+    "meeting_date": "8/9/2018",
+    "presenter": "Adam",
+    "album_position": "warm_up_2",
+    "artist": "Sleater Kinney",
+    "album_title": "Dig Me Out",
+    "raw_text": "Sleater Kinney Dig Me Out"
+  },
+  {
+    "meeting_number": "23",
+    "meeting_date": "8/9/2018",
+    "presenter": "Adam",
+    "album_position": "headliner",
+    "artist": "Pixies",
+    "album_title": "Doolittle",
+    "raw_text": "Pixies Doolittle"
+  },
+  {
+    "meeting_number": "24",
+    "meeting_date": "11/1/2018",
+    "presenter": "Lucas",
+    "album_position": "warm_up_1",
+    "artist": "Los Campesinos",
+    "album_title": "No Blues",
+    "raw_text": "Los Campesinos No Blues"
+  },
+  {
+    "meeting_number": "24",
+    "meeting_date": "11/1/2018",
+    "presenter": "Lucas",
+    "album_position": "warm_up_2",
+    "artist": "John Prine",
+    "album_title": "Bruised Orange",
+    "raw_text": "John Prine Bruised Orange"
+  },
+  {
+    "meeting_number": "25",
+    "meeting_date": "1/24/2019",
+    "presenter": "Chris",
+    "album_position": "warm_up_1",
+    "artist": "Led Zeppelin",
+    "album_title": "Led Zeppelin I",
+    "raw_text": "Led Zeppelin Led Zeppelin I"
+  },
+  {
+    "meeting_number": "25",
+    "meeting_date": "1/24/2019",
+    "presenter": "Chris",
+    "album_position": "warm_up_2",
+    "artist": "Led Zeppelin",
+    "album_title": "Led Zeppelin II",
+    "raw_text": "Led Zeppelin Led Zeppelin II"
+  },
+  {
+    "meeting_number": "26",
+    "meeting_date": "3/7/2019",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "Mott The",
+    "album_title": "Hoople All The Young Dudes",
+    "raw_text": "Mott The Hoople All The Young Dudes"
+  },
+  {
+    "meeting_number": "26",
+    "meeting_date": "3/7/2019",
+    "presenter": "Joe",
+    "album_position": "warm_up_2",
+    "artist": "Roy Buchanan",
+    "album_title": "That\u2019s What I Am Here For",
+    "raw_text": "Roy Buchanan That\u2019s What I Am Here For"
+  },
+  {
+    "meeting_number": "27",
+    "meeting_date": "5/2/2019",
+    "presenter": "Eric",
+    "album_position": "warm_up_1",
+    "artist": "Tears for",
+    "album_title": "Fears Elemental",
+    "raw_text": "Tears for Fears Elemental"
+  },
+  {
+    "meeting_number": "27",
+    "meeting_date": "5/2/2019",
+    "presenter": "Eric",
+    "album_position": "warm_up_2",
+    "artist": "Beck",
+    "album_title": "Guero",
+    "raw_text": "Beck Guero"
+  },
+  {
+    "meeting_number": "28",
+    "meeting_date": "9/5/2019",
+    "presenter": "John",
+    "album_position": "warm_up_1",
+    "artist": "Dinosaur Jr",
+    "album_title": "You\u2019re Living All Over Me",
+    "raw_text": "Dinosaur Jr You\u2019re Living All Over Me"
+  },
+  {
+    "meeting_number": "28",
+    "meeting_date": "9/5/2019",
+    "presenter": "John",
+    "album_position": "warm_up_2",
+    "artist": "J. Mascis",
+    "album_title": "Elastic Days",
+    "raw_text": "J. Mascis Elastic Days"
+  },
+  {
+    "meeting_number": "29",
+    "meeting_date": "10/7/2019",
+    "presenter": "Adam",
+    "album_position": "warm_up_1",
+    "artist": "Japandroids Celebration",
+    "album_title": "Rock",
+    "raw_text": "Japandroids Celebration Rock"
+  },
+  {
+    "meeting_number": "29",
+    "meeting_date": "10/7/2019",
+    "presenter": "Adam",
+    "album_position": "warm_up_2",
+    "artist": "Arcade Fire",
+    "album_title": "Funeral",
+    "raw_text": "Arcade Fire Funeral"
+  },
+  {
+    "meeting_number": "30",
+    "meeting_date": "1/23/2020",
+    "presenter": "Lucas",
+    "album_position": "warm_up_1",
+    "artist": "Father John",
+    "album_title": "Misty Fear Fun",
+    "raw_text": "Father John Misty Fear Fun"
+  },
+  {
+    "meeting_number": "30",
+    "meeting_date": "1/23/2020",
+    "presenter": "Lucas",
+    "album_position": "warm_up_2",
+    "artist": "Van Morrison",
+    "album_title": "Astral Weeks",
+    "raw_text": "Van Morrison Astral Weeks"
+  },
+  {
+    "meeting_number": "31",
+    "meeting_date": "6/11/2020",
+    "presenter": "Chris",
+    "album_position": "warm_up_1",
+    "artist": "Band of Horses",
+    "album_title": "Everything All the Time",
+    "raw_text": "Band of Horses \u2013 Everything All the Time; Brand New \u2013 The Devil and God Are Raging Inside Me; TV on the Radio \u2013 Return to Cookie Mountain"
+  },
+  {
+    "meeting_number": "31",
+    "meeting_date": "6/11/2020",
+    "presenter": "Chris",
+    "album_position": "warm_up_2",
+    "artist": "Brand New",
+    "album_title": "The Devil and God Are Raging Inside Me",
+    "raw_text": "Band of Horses \u2013 Everything All the Time; Brand New \u2013 The Devil and God Are Raging Inside Me; TV on the Radio \u2013 Return to Cookie Mountain"
+  },
+  {
+    "meeting_number": "31",
+    "meeting_date": "6/11/2020",
+    "presenter": "Chris",
+    "album_position": "headliner",
+    "artist": "TV on the Radio",
+    "album_title": "Return to Cookie Mountain",
+    "raw_text": "Band of Horses \u2013 Everything All the Time; Brand New \u2013 The Devil and God Are Raging Inside Me; TV on the Radio \u2013 Return to Cookie Mountain"
+  },
+  {
+    "meeting_number": "32",
+    "meeting_date": "8/6/2020",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "Arc Angels",
+    "album_title": "Arc Angels",
+    "raw_text": "Arc Angels \u2013 Arc Angels; Yes \u2013 Close to the Edge; Good Night Lights \u2013 Biggest Fears"
+  },
+  {
+    "meeting_number": "32",
+    "meeting_date": "8/6/2020",
+    "presenter": "Joe",
+    "album_position": "warm_up_2",
+    "artist": "Yes",
+    "album_title": "Close to the Edge",
+    "raw_text": "Arc Angels \u2013 Arc Angels; Yes \u2013 Close to the Edge; Good Night Lights \u2013 Biggest Fears"
+  },
+  {
+    "meeting_number": "32",
+    "meeting_date": "8/6/2020",
+    "presenter": "Joe",
+    "album_position": "headliner",
+    "artist": "Good Night Lights",
+    "album_title": "Biggest Fears",
+    "raw_text": "Arc Angels \u2013 Arc Angels; Yes \u2013 Close to the Edge; Good Night Lights \u2013 Biggest Fears"
+  },
+  {
+    "meeting_number": "33",
+    "meeting_date": "9/24/2020",
+    "presenter": "John",
+    "album_position": "warm_up_1",
+    "artist": "The Church",
+    "album_title": "Starfish",
+    "raw_text": "The Church \u2013 Starfish; Treepeople \u2013 Something Vicious for Tomorrow / Time Whore; Joe Strummer + The Mescaleros - Streetcore"
+  },
+  {
+    "meeting_number": "33",
+    "meeting_date": "9/24/2020",
+    "presenter": "John",
+    "album_position": "warm_up_2",
+    "artist": "Treepeople",
+    "album_title": "Something Vicious for Tomorrow / Time Whore",
+    "raw_text": "The Church \u2013 Starfish; Treepeople \u2013 Something Vicious for Tomorrow / Time Whore; Joe Strummer + The Mescaleros - Streetcore"
+  },
+  {
+    "meeting_number": "33",
+    "meeting_date": "9/24/2020",
+    "presenter": "John",
+    "album_position": "headliner",
+    "artist": "Joe Strummer + The Mescaleros",
+    "album_title": "Streetcore",
+    "raw_text": "The Church \u2013 Starfish; Treepeople \u2013 Something Vicious for Tomorrow / Time Whore; Joe Strummer + The Mescaleros - Streetcore"
+  },
+  {
+    "meeting_number": "34",
+    "meeting_date": "11/19/2020",
+    "presenter": "Eric",
+    "album_position": "warm_up_1",
+    "artist": "Van Halen",
+    "album_title": "1984",
+    "raw_text": "Van Halen \u2013 1984; Haim \u2013 Days Are Gone; The Smiths \u2013 Louder Than Bombs"
+  },
+  {
+    "meeting_number": "34",
+    "meeting_date": "11/19/2020",
+    "presenter": "Eric",
+    "album_position": "warm_up_2",
+    "artist": "Haim",
+    "album_title": "Days Are Gone",
+    "raw_text": "Van Halen \u2013 1984; Haim \u2013 Days Are Gone; The Smiths \u2013 Louder Than Bombs"
+  },
+  {
+    "meeting_number": "34",
+    "meeting_date": "11/19/2020",
+    "presenter": "Eric",
+    "album_position": "headliner",
+    "artist": "The Smiths",
+    "album_title": "Louder Than Bombs",
+    "raw_text": "Van Halen \u2013 1984; Haim \u2013 Days Are Gone; The Smiths \u2013 Louder Than Bombs"
+  },
+  {
+    "meeting_number": "35",
+    "meeting_date": "3/11/2021",
+    "presenter": "Adam",
+    "album_position": "warm_up_1",
+    "artist": "Nehiyawak",
+    "album_title": "nipiy",
+    "raw_text": "Nehiyawak \u2013 nipiy, Miles Cane \u2013 Coup de Grace, Afghan Whigs \u2013 Up In It"
+  },
+  {
+    "meeting_number": "35",
+    "meeting_date": "3/11/2021",
+    "presenter": "Adam",
+    "album_position": "warm_up_2",
+    "artist": "Miles Cane",
+    "album_title": "Coup de Grace",
+    "raw_text": "Nehiyawak \u2013 nipiy, Miles Cane \u2013 Coup de Grace, Afghan Whigs \u2013 Up In It"
+  },
+  {
+    "meeting_number": "35",
+    "meeting_date": "3/11/2021",
+    "presenter": "Adam",
+    "album_position": "headliner",
+    "artist": "Afghan Whigs",
+    "album_title": "Up In It",
+    "raw_text": "Nehiyawak \u2013 nipiy, Miles Cane \u2013 Coup de Grace, Afghan Whigs \u2013 Up In It"
+  },
+  {
+    "meeting_number": "36",
+    "meeting_date": "5/13/2021",
+    "presenter": "Chris",
+    "album_position": "warm_up_1",
+    "artist": "Television",
+    "album_title": "Marquee Moon",
+    "raw_text": "Television \u2013 Marquee Moon, Devo \u2013 Q: Are We Not Men? A: We Are Devo; The Clash \u2013 London Calling"
+  },
+  {
+    "meeting_number": "36",
+    "meeting_date": "5/13/2021",
+    "presenter": "Chris",
+    "album_position": "warm_up_2",
+    "artist": "Devo",
+    "album_title": "Q: Are We Not Men? A: We Are Devo",
+    "raw_text": "Television \u2013 Marquee Moon, Devo \u2013 Q: Are We Not Men? A: We Are Devo; The Clash \u2013 London Calling"
+  },
+  {
+    "meeting_number": "36",
+    "meeting_date": "5/13/2021",
+    "presenter": "Chris",
+    "album_position": "headliner",
+    "artist": "The Clash",
+    "album_title": "London Calling",
+    "raw_text": "Television \u2013 Marquee Moon, Devo \u2013 Q: Are We Not Men? A: We Are Devo; The Clash \u2013 London Calling"
+  },
+  {
+    "meeting_number": "37",
+    "meeting_date": "6/10/2021",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "Leon Bridges",
+    "album_title": "Coming Home",
+    "raw_text": "Leon Bridges \u2013 Coming Home; Billie Eilish \u2013 When We all Fall Asleep, Where Do We Go; Harry Styles \u2013 Fine Line"
+  },
+  {
+    "meeting_number": "37",
+    "meeting_date": "6/10/2021",
+    "presenter": "Joe",
+    "album_position": "warm_up_2",
+    "artist": "Billie Eilish",
+    "album_title": "When We all Fall Asleep",
+    "raw_text": "Leon Bridges \u2013 Coming Home; Billie Eilish \u2013 When We all Fall Asleep, Where Do We Go; Harry Styles \u2013 Fine Line"
+  },
+  {
+    "meeting_number": "37",
+    "meeting_date": "6/10/2021",
+    "presenter": "Joe",
+    "album_position": "headliner",
+    "artist": "Where Do",
+    "album_title": "We Go",
+    "raw_text": "Where Do We Go"
+  },
+  {
+    "meeting_number": "37",
+    "meeting_date": "6/10/2021",
+    "presenter": "Joe",
+    "album_position": "additional_4",
+    "artist": "Harry Styles",
+    "album_title": "Fine Line",
+    "raw_text": "Leon Bridges \u2013 Coming Home; Billie Eilish \u2013 When We all Fall Asleep, Where Do We Go; Harry Styles \u2013 Fine Line"
+  },
+  {
+    "meeting_number": "38",
+    "meeting_date": "9/7/2021",
+    "presenter": "Eric",
+    "album_position": "warm_up_1",
+    "artist": "William Orbit",
+    "album_title": "My Oracle Lives Uptown",
+    "raw_text": "William Orbit \u2013 My Oracle Lives Uptown; The Connells \u2013 Steadman\u2019s Wake; The Stranglers \u2013 Dark Matters"
+  },
+  {
+    "meeting_number": "38",
+    "meeting_date": "9/7/2021",
+    "presenter": "Eric",
+    "album_position": "warm_up_2",
+    "artist": "The Connells",
+    "album_title": "Steadman\u2019s Wake",
+    "raw_text": "William Orbit \u2013 My Oracle Lives Uptown; The Connells \u2013 Steadman\u2019s Wake; The Stranglers \u2013 Dark Matters"
+  },
+  {
+    "meeting_number": "38",
+    "meeting_date": "9/7/2021",
+    "presenter": "Eric",
+    "album_position": "headliner",
+    "artist": "The Stranglers",
+    "album_title": "Dark Matters",
+    "raw_text": "William Orbit \u2013 My Oracle Lives Uptown; The Connells \u2013 Steadman\u2019s Wake; The Stranglers \u2013 Dark Matters"
+  },
+  {
+    "meeting_number": "39",
+    "meeting_date": "11/23/2021",
+    "presenter": "John",
+    "album_position": "warm_up_1",
+    "artist": "Dry Cleaning",
+    "album_title": "New Long Leg",
+    "raw_text": "Dry Cleaning \u2013 New Long Leg; The War on Drugs \u2013 I Don\u2019t Live Here Anymore; My Morning Jacket \u2013 My Morning Jacket"
+  },
+  {
+    "meeting_number": "39",
+    "meeting_date": "11/23/2021",
+    "presenter": "John",
+    "album_position": "warm_up_2",
+    "artist": "The War on Drugs",
+    "album_title": "I Don\u2019t Live Here Anymore",
+    "raw_text": "Dry Cleaning \u2013 New Long Leg; The War on Drugs \u2013 I Don\u2019t Live Here Anymore; My Morning Jacket \u2013 My Morning Jacket"
+  },
+  {
+    "meeting_number": "39",
+    "meeting_date": "11/23/2021",
+    "presenter": "John",
+    "album_position": "headliner",
+    "artist": "My Morning Jacket",
+    "album_title": "My Morning Jacket",
+    "raw_text": "Dry Cleaning \u2013 New Long Leg; The War on Drugs \u2013 I Don\u2019t Live Here Anymore; My Morning Jacket \u2013 My Morning Jacket"
+  },
+  {
+    "meeting_number": "40",
+    "meeting_date": "04/14/2022",
+    "presenter": "Adam",
+    "album_position": "warm_up_1",
+    "artist": "The Charlatans UK",
+    "album_title": "Between 10th + 11th",
+    "raw_text": "The Charlatans UK \u2013 Between 10th + 11th, Gomez \u2013 Bring It On, IDLES - CRAWLER"
+  },
+  {
+    "meeting_number": "40",
+    "meeting_date": "04/14/2022",
+    "presenter": "Adam",
+    "album_position": "warm_up_2",
+    "artist": "Gomez",
+    "album_title": "Bring It On",
+    "raw_text": "The Charlatans UK \u2013 Between 10th + 11th, Gomez \u2013 Bring It On, IDLES - CRAWLER"
+  },
+  {
+    "meeting_number": "40",
+    "meeting_date": "04/14/2022",
+    "presenter": "Adam",
+    "album_position": "headliner",
+    "artist": "IDLES",
+    "album_title": "CRAWLER",
+    "raw_text": "The Charlatans UK \u2013 Between 10th + 11th, Gomez \u2013 Bring It On, IDLES - CRAWLER"
+  },
+  {
+    "meeting_number": "41",
+    "meeting_date": "6/9/2022",
+    "presenter": "Chris",
+    "album_position": "warm_up_1",
+    "artist": "Depeche Mode",
+    "album_title": "Speak & Spell",
+    "raw_text": "Depeche Mode \u2013 Speak & Spell; Kraftwerk \u2013 Computer World; The Police \u2013 Ghost in the Machine"
+  },
+  {
+    "meeting_number": "41",
+    "meeting_date": "6/9/2022",
+    "presenter": "Chris",
+    "album_position": "warm_up_2",
+    "artist": "Kraftwerk",
+    "album_title": "Computer World",
+    "raw_text": "Depeche Mode \u2013 Speak & Spell; Kraftwerk \u2013 Computer World; The Police \u2013 Ghost in the Machine"
+  },
+  {
+    "meeting_number": "41",
+    "meeting_date": "6/9/2022",
+    "presenter": "Chris",
+    "album_position": "headliner",
+    "artist": "The Police",
+    "album_title": "Ghost in the Machine",
+    "raw_text": "Depeche Mode \u2013 Speak & Spell; Kraftwerk \u2013 Computer World; The Police \u2013 Ghost in the Machine"
+  },
+  {
+    "meeting_number": "42",
+    "meeting_date": "7/14/2022",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "Beautiful Bob Seger",
+    "album_title": "Live Bullet",
+    "raw_text": "Beautiful Bob Seger \u2013 Live Bullet; Gil Scott-Heron \u2013 Pieces of a Man; Tears for Fears \u2013 Tipping Point"
+  },
+  {
+    "meeting_number": "42",
+    "meeting_date": "7/14/2022",
+    "presenter": "Joe",
+    "album_position": "warm_up_2",
+    "artist": "Gil Scott-Heron",
+    "album_title": "Pieces of a Man",
+    "raw_text": "Beautiful Bob Seger \u2013 Live Bullet; Gil Scott-Heron \u2013 Pieces of a Man; Tears for Fears \u2013 Tipping Point"
+  },
+  {
+    "meeting_number": "42",
+    "meeting_date": "7/14/2022",
+    "presenter": "Joe",
+    "album_position": "headliner",
+    "artist": "Tears for Fears",
+    "album_title": "Tipping Point",
+    "raw_text": "Beautiful Bob Seger \u2013 Live Bullet; Gil Scott-Heron \u2013 Pieces of a Man; Tears for Fears \u2013 Tipping Point"
+  },
+  {
+    "meeting_number": "43",
+    "meeting_date": "8/11/2022",
+    "presenter": "Eric",
+    "album_position": "warm_up_1",
+    "artist": "Echo & the bunnymen",
+    "album_title": "Evergreen",
+    "raw_text": "Echo & the bunnymen - Evergreen; Twenty One Pilots - Vessel;  Metric - The Art of Doubt"
+  },
+  {
+    "meeting_number": "43",
+    "meeting_date": "8/11/2022",
+    "presenter": "Eric",
+    "album_position": "warm_up_2",
+    "artist": "Twenty One Pilots",
+    "album_title": "Vessel",
+    "raw_text": "Echo & the bunnymen - Evergreen; Twenty One Pilots - Vessel;  Metric - The Art of Doubt"
+  },
+  {
+    "meeting_number": "43",
+    "meeting_date": "8/11/2022",
+    "presenter": "Eric",
+    "album_position": "headliner",
+    "artist": "Metric",
+    "album_title": "The Art of Doubt",
+    "raw_text": "Echo & the bunnymen - Evergreen; Twenty One Pilots - Vessel;  Metric - The Art of Doubt"
+  },
+  {
+    "meeting_number": "44",
+    "meeting_date": "9/15/2022",
+    "presenter": "John",
+    "album_position": "warm_up_1",
+    "artist": "The Doors",
+    "album_title": "The Doors",
+    "raw_text": "The Doors \u2013 The Doors; The Strokes \u2013 This is It"
+  },
+  {
+    "meeting_number": "44",
+    "meeting_date": "9/15/2022",
+    "presenter": "John",
+    "album_position": "warm_up_2",
+    "artist": "The Strokes",
+    "album_title": "This is It",
+    "raw_text": "The Doors \u2013 The Doors; The Strokes \u2013 This is It"
+  },
+  {
+    "meeting_number": "45",
+    "meeting_date": "11/17/2022",
+    "presenter": "Adam",
+    "album_position": "warm_up_1",
+    "artist": "Ron Gallo",
+    "album_title": "HEAVY META",
+    "raw_text": "Ron Gallo - HEAVY META; The Foo Fighters \u2013 The Colour and the Shape"
+  },
+  {
+    "meeting_number": "45",
+    "meeting_date": "11/17/2022",
+    "presenter": "Adam",
+    "album_position": "warm_up_2",
+    "artist": "The Foo Fighters",
+    "album_title": "The Colour and the Shape",
+    "raw_text": "Ron Gallo - HEAVY META; The Foo Fighters \u2013 The Colour and the Shape"
+  },
+  {
+    "meeting_number": "46",
+    "meeting_date": "1/12/2023",
+    "presenter": "Lucas",
+    "album_position": "warm_up_1",
+    "artist": "Sky Perriera",
+    "album_title": "Night Time",
+    "raw_text": "Sky Perriera \u2013 Night Time, My Time; Bloc Party \u2013 Silent Alarm"
+  },
+  {
+    "meeting_number": "46",
+    "meeting_date": "1/12/2023",
+    "presenter": "Lucas",
+    "album_position": "warm_up_2",
+    "artist": "My",
+    "album_title": "Time",
+    "raw_text": "My Time"
+  },
+  {
+    "meeting_number": "46",
+    "meeting_date": "1/12/2023",
+    "presenter": "Lucas",
+    "album_position": "headliner",
+    "artist": "Bloc Party",
+    "album_title": "Silent Alarm",
+    "raw_text": "Sky Perriera \u2013 Night Time, My Time; Bloc Party \u2013 Silent Alarm"
+  },
+  {
+    "meeting_number": "47",
+    "meeting_date": "3/9/2023",
+    "presenter": "Chris",
+    "album_position": "warm_up_1",
+    "artist": "Cut/Copy",
+    "album_title": "In Ghost Colours",
+    "raw_text": "Cut/Copy \u2013 In Ghost Colours; The Cure \u2013 Kiss Me, Kiss Me, Kiss Me"
+  },
+  {
+    "meeting_number": "47",
+    "meeting_date": "3/9/2023",
+    "presenter": "Chris",
+    "album_position": "warm_up_2",
+    "artist": "The Cure",
+    "album_title": "Kiss Me",
+    "raw_text": "Cut/Copy \u2013 In Ghost Colours; The Cure \u2013 Kiss Me, Kiss Me, Kiss Me"
+  },
+  {
+    "meeting_number": "47",
+    "meeting_date": "3/9/2023",
+    "presenter": "Chris",
+    "album_position": "headliner",
+    "artist": "Kiss",
+    "album_title": "Me",
+    "raw_text": "Kiss Me"
+  },
+  {
+    "meeting_number": "47",
+    "meeting_date": "3/9/2023",
+    "presenter": "Chris",
+    "album_position": "additional_4",
+    "artist": "Kiss",
+    "album_title": "Me",
+    "raw_text": "Kiss Me"
+  },
+  {
+    "meeting_number": "48",
+    "meeting_date": "4/20/2023",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "Supertramp",
+    "album_title": "Crime of the Century",
+    "raw_text": "Supertramp \u2013 Crime of the Century; St. Paul & The Broken Bones \u2013 The Alien Coast; Sharon Jones & The Dap Kings \u2013 100 Days 100 Nights"
+  },
+  {
+    "meeting_number": "48",
+    "meeting_date": "4/20/2023",
+    "presenter": "Joe",
+    "album_position": "warm_up_2",
+    "artist": "St. Paul & The Broken Bones",
+    "album_title": "The Alien Coast",
+    "raw_text": "Supertramp \u2013 Crime of the Century; St. Paul & The Broken Bones \u2013 The Alien Coast; Sharon Jones & The Dap Kings \u2013 100 Days 100 Nights"
+  },
+  {
+    "meeting_number": "48",
+    "meeting_date": "4/20/2023",
+    "presenter": "Joe",
+    "album_position": "headliner",
+    "artist": "Sharon Jones & The Dap Kings",
+    "album_title": "100 Days 100 Nights",
+    "raw_text": "Supertramp \u2013 Crime of the Century; St. Paul & The Broken Bones \u2013 The Alien Coast; Sharon Jones & The Dap Kings \u2013 100 Days 100 Nights"
+  },
+  {
+    "meeting_number": "49",
+    "meeting_date": "6/8/2023",
+    "presenter": "Eric",
+    "album_position": "warm_up_1",
+    "artist": "The Police",
+    "album_title": "Zenyatta Mondatta",
+    "raw_text": "The Police - Zenyatta Mondatta; INXS \u2013 The Swing; Jackson Browne \u2013 Late For The Sky"
+  },
+  {
+    "meeting_number": "49",
+    "meeting_date": "6/8/2023",
+    "presenter": "Eric",
+    "album_position": "warm_up_2",
+    "artist": "INXS",
+    "album_title": "The Swing",
+    "raw_text": "The Police - Zenyatta Mondatta; INXS \u2013 The Swing; Jackson Browne \u2013 Late For The Sky"
+  },
+  {
+    "meeting_number": "49",
+    "meeting_date": "6/8/2023",
+    "presenter": "Eric",
+    "album_position": "headliner",
+    "artist": "Jackson Browne",
+    "album_title": "Late For The Sky",
+    "raw_text": "The Police - Zenyatta Mondatta; INXS \u2013 The Swing; Jackson Browne \u2013 Late For The Sky"
+  },
+  {
+    "meeting_number": "50",
+    "meeting_date": "7/13/2023",
+    "presenter": "John",
+    "album_position": "warm_up_1",
+    "artist": "Todd Rundgren",
+    "album_title": "A Wizard / A True Star",
+    "raw_text": "Todd Rundgren - A Wizard / A True Star; Pink Floyd - Animals; Yo La Tengo - This Stupid World"
+  },
+  {
+    "meeting_number": "50",
+    "meeting_date": "7/13/2023",
+    "presenter": "John",
+    "album_position": "warm_up_2",
+    "artist": "Pink Floyd",
+    "album_title": "Animals",
+    "raw_text": "Todd Rundgren - A Wizard / A True Star; Pink Floyd - Animals; Yo La Tengo - This Stupid World"
+  },
+  {
+    "meeting_number": "50",
+    "meeting_date": "7/13/2023",
+    "presenter": "John",
+    "album_position": "headliner",
+    "artist": "Yo La Tengo",
+    "album_title": "This Stupid World",
+    "raw_text": "Todd Rundgren - A Wizard / A True Star; Pink Floyd - Animals; Yo La Tengo - This Stupid World"
+  },
+  {
+    "meeting_number": "51",
+    "meeting_date": "9/21/2023",
+    "presenter": "Adam",
+    "album_position": "warm_up_1",
+    "artist": "Nil\u00fcfer Yanya",
+    "album_title": "PAINLESS",
+    "raw_text": "Nil\u00fcfer Yanya - PAINLESS, PJ Harvey - Stories from the City, Stories from the Sea; Yeah Yeah Yeahs - Fever to Tell"
+  },
+  {
+    "meeting_number": "51",
+    "meeting_date": "9/21/2023",
+    "presenter": "Adam",
+    "album_position": "warm_up_2",
+    "artist": "PJ Harvey",
+    "album_title": "Stories from the City",
+    "raw_text": "Nil\u00fcfer Yanya - PAINLESS, PJ Harvey - Stories from the City, Stories from the Sea; Yeah Yeah Yeahs - Fever to Tell"
+  },
+  {
+    "meeting_number": "51",
+    "meeting_date": "9/21/2023",
+    "presenter": "Adam",
+    "album_position": "headliner",
+    "artist": "Stories from",
+    "album_title": "the Sea",
+    "raw_text": "Stories from the Sea"
+  },
+  {
+    "meeting_number": "51",
+    "meeting_date": "9/21/2023",
+    "presenter": "Adam",
+    "album_position": "additional_4",
+    "artist": "Yeah Yeah Yeahs",
+    "album_title": "Fever to Tell",
+    "raw_text": "Nil\u00fcfer Yanya - PAINLESS, PJ Harvey - Stories from the City, Stories from the Sea; Yeah Yeah Yeahs - Fever to Tell"
+  },
+  {
+    "meeting_number": "52",
+    "meeting_date": "10/19/2023",
+    "presenter": "Lucas",
+    "album_position": "warm_up_1",
+    "artist": "Fall Out Boy",
+    "album_title": "From Under the Cork Tree",
+    "raw_text": "Fall Out Boy \u2013 From Under the Cork Tree, Blink-182 \u2013 Blink-182, Taking Back Sunday \u2013 Tell All Your Friends"
+  },
+  {
+    "meeting_number": "52",
+    "meeting_date": "10/19/2023",
+    "presenter": "Lucas",
+    "album_position": "warm_up_2",
+    "artist": "Blink-182",
+    "album_title": "Blink-182",
+    "raw_text": "Fall Out Boy \u2013 From Under the Cork Tree, Blink-182 \u2013 Blink-182, Taking Back Sunday \u2013 Tell All Your Friends"
+  },
+  {
+    "meeting_number": "52",
+    "meeting_date": "10/19/2023",
+    "presenter": "Lucas",
+    "album_position": "headliner",
+    "artist": "Taking Back Sunday",
+    "album_title": "Tell All Your Friends",
+    "raw_text": "Fall Out Boy \u2013 From Under the Cork Tree, Blink-182 \u2013 Blink-182, Taking Back Sunday \u2013 Tell All Your Friends"
+  },
+  {
+    "meeting_number": "53",
+    "meeting_date": "11/9/2023",
+    "presenter": "Chris",
+    "album_position": "warm_up_1",
+    "artist": "Killing Joke",
+    "album_title": "Killing Joke",
+    "raw_text": "Killing Joke \u2013 Killing Joke; Tubeway Army \u2013 Tubeway Army; Nine Inch Nails \u2013 The Fragile"
+  },
+  {
+    "meeting_number": "53",
+    "meeting_date": "11/9/2023",
+    "presenter": "Chris",
+    "album_position": "warm_up_2",
+    "artist": "Tubeway Army",
+    "album_title": "Tubeway Army",
+    "raw_text": "Killing Joke \u2013 Killing Joke; Tubeway Army \u2013 Tubeway Army; Nine Inch Nails \u2013 The Fragile"
+  },
+  {
+    "meeting_number": "53",
+    "meeting_date": "11/9/2023",
+    "presenter": "Chris",
+    "album_position": "headliner",
+    "artist": "Nine Inch Nails",
+    "album_title": "The Fragile",
+    "raw_text": "Killing Joke \u2013 Killing Joke; Tubeway Army \u2013 Tubeway Army; Nine Inch Nails \u2013 The Fragile"
+  },
+  {
+    "meeting_number": "54",
+    "meeting_date": "1/10/2024",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "Neil Young",
+    "album_title": "& Crazy Horse at The Fillmore 1970",
+    "raw_text": "Neil Young & Crazy Horse at The Fillmore 1970"
+  },
+  {
+    "meeting_number": "54",
+    "meeting_date": "1/10/2024",
+    "presenter": "Joe",
+    "album_position": "warm_up_2",
+    "artist": "First Ever",
+    "album_title": "Film Presentation: The Last Waltz",
+    "raw_text": "First Ever Film Presentation: The Last Waltz"
+  },
+  {
+    "meeting_number": "55",
+    "meeting_date": "3/14/2024",
+    "presenter": "Eric",
+    "album_position": "warm_up_1",
+    "artist": "Johnny Marr + the Healers",
+    "album_title": "Boomslang",
+    "raw_text": "Johnny Marr + the Healers \u2013 Boomslang; Morrissey \u2013 Viva Hate; The Smiths \u2013 Hatful of Hollow"
+  },
+  {
+    "meeting_number": "55",
+    "meeting_date": "3/14/2024",
+    "presenter": "Eric",
+    "album_position": "warm_up_2",
+    "artist": "Morrissey",
+    "album_title": "Viva Hate",
+    "raw_text": "Johnny Marr + the Healers \u2013 Boomslang; Morrissey \u2013 Viva Hate; The Smiths \u2013 Hatful of Hollow"
+  },
+  {
+    "meeting_number": "55",
+    "meeting_date": "3/14/2024",
+    "presenter": "Eric",
+    "album_position": "headliner",
+    "artist": "The Smiths",
+    "album_title": "Hatful of Hollow",
+    "raw_text": "Johnny Marr + the Healers \u2013 Boomslang; Morrissey \u2013 Viva Hate; The Smiths \u2013 Hatful of Hollow"
+  },
+  {
+    "meeting_number": "56",
+    "meeting_date": "4/11/2024",
+    "presenter": "John",
+    "album_position": "warm_up_1",
+    "artist": "Woods",
+    "album_title": "Perennial",
+    "raw_text": "Woods - Perennial; King Gizzard & the Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms and Lava; Neil Young - Chrome Dreams"
+  },
+  {
+    "meeting_number": "56",
+    "meeting_date": "4/11/2024",
+    "presenter": "John",
+    "album_position": "warm_up_2",
+    "artist": "King Gizzard & the Lizard Wizard",
+    "album_title": "Ice",
+    "raw_text": "Woods - Perennial; King Gizzard & the Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms and Lava; Neil Young - Chrome Dreams"
+  },
+  {
+    "meeting_number": "56",
+    "meeting_date": "4/11/2024",
+    "presenter": "John",
+    "album_position": "headliner",
+    "artist": "",
+    "album_title": "Death",
+    "raw_text": "Death"
+  },
+  {
+    "meeting_number": "56",
+    "meeting_date": "4/11/2024",
+    "presenter": "John",
+    "album_position": "additional_4",
+    "artist": "",
+    "album_title": "Planets",
+    "raw_text": "Planets"
+  },
+  {
+    "meeting_number": "56",
+    "meeting_date": "4/11/2024",
+    "presenter": "John",
+    "album_position": "additional_5",
+    "artist": "",
+    "album_title": "Lungs",
+    "raw_text": "Lungs"
+  },
+  {
+    "meeting_number": "56",
+    "meeting_date": "4/11/2024",
+    "presenter": "John",
+    "album_position": "additional_6",
+    "artist": "Mushrooms and",
+    "album_title": "Lava",
+    "raw_text": "Mushrooms and Lava"
+  },
+  {
+    "meeting_number": "56",
+    "meeting_date": "4/11/2024",
+    "presenter": "John",
+    "album_position": "additional_7",
+    "artist": "Neil Young",
+    "album_title": "Chrome Dreams",
+    "raw_text": "Woods - Perennial; King Gizzard & the Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms and Lava; Neil Young - Chrome Dreams"
+  },
+  {
+    "meeting_number": "57",
+    "meeting_date": "5/9/2024",
+    "presenter": "Adam",
+    "album_position": "warm_up_1",
+    "artist": "Pet Fox",
+    "album_title": "A Face in Your Life",
+    "raw_text": "Pet Fox - A Face in Your Life; Momma - Household Name; Shame - Songs of Praise"
+  },
+  {
+    "meeting_number": "57",
+    "meeting_date": "5/9/2024",
+    "presenter": "Adam",
+    "album_position": "warm_up_2",
+    "artist": "Momma",
+    "album_title": "Household Name",
+    "raw_text": "Pet Fox - A Face in Your Life; Momma - Household Name; Shame - Songs of Praise"
+  },
+  {
+    "meeting_number": "57",
+    "meeting_date": "5/9/2024",
+    "presenter": "Adam",
+    "album_position": "headliner",
+    "artist": "Shame",
+    "album_title": "Songs of Praise",
+    "raw_text": "Pet Fox - A Face in Your Life; Momma - Household Name; Shame - Songs of Praise"
+  },
+  {
+    "meeting_number": "58",
+    "meeting_date": "9/12/2024",
+    "presenter": "Lucas",
+    "album_position": "warm_up_1",
+    "artist": "Bloc Party",
+    "album_title": "A Weekend in the City",
+    "raw_text": "Bloc Party \u2013 A Weekend in the City, Maximo Park \u2013 A Certain Trigger, Futureheads \u2013 Futureheads (Self Titled)"
+  },
+  {
+    "meeting_number": "58",
+    "meeting_date": "9/12/2024",
+    "presenter": "Lucas",
+    "album_position": "warm_up_2",
+    "artist": "Maximo Park",
+    "album_title": "A Certain Trigger",
+    "raw_text": "Bloc Party \u2013 A Weekend in the City, Maximo Park \u2013 A Certain Trigger, Futureheads \u2013 Futureheads (Self Titled)"
+  },
+  {
+    "meeting_number": "58",
+    "meeting_date": "9/12/2024",
+    "presenter": "Lucas",
+    "album_position": "headliner",
+    "artist": "Futureheads",
+    "album_title": "Futureheads (Self Titled)",
+    "raw_text": "Bloc Party \u2013 A Weekend in the City, Maximo Park \u2013 A Certain Trigger, Futureheads \u2013 Futureheads (Self Titled)"
+  },
+  {
+    "meeting_number": "63",
+    "meeting_date": "3/13/2025",
+    "presenter": "Adam",
+    "album_position": "warm_up_1",
+    "artist": "Phantom Planet",
+    "album_title": "Phantom Planet",
+    "raw_text": "Phantom Planet \u2013 Phantom Planet, MGMT \u2013 Loss of Life, The Beatles \u2013 Magical Mystery Tour"
+  },
+  {
+    "meeting_number": "63",
+    "meeting_date": "3/13/2025",
+    "presenter": "Adam",
+    "album_position": "warm_up_2",
+    "artist": "MGMT",
+    "album_title": "Loss of Life",
+    "raw_text": "Phantom Planet \u2013 Phantom Planet, MGMT \u2013 Loss of Life, The Beatles \u2013 Magical Mystery Tour"
+  },
+  {
+    "meeting_number": "63",
+    "meeting_date": "3/13/2025",
+    "presenter": "Adam",
+    "album_position": "headliner",
+    "artist": "The Beatles",
+    "album_title": "Magical Mystery Tour",
+    "raw_text": "Phantom Planet \u2013 Phantom Planet, MGMT \u2013 Loss of Life, The Beatles \u2013 Magical Mystery Tour"
+  },
+  {
+    "meeting_number": "64",
+    "meeting_date": "5/22/2025",
+    "presenter": "Lucas",
+    "album_position": "warm_up_1",
+    "artist": "Nirvana",
+    "album_title": "Incesticide",
+    "raw_text": "Nirvana \u2013 Incesticide, Manchester Orchestra \u2013 A Black Mile to the Surface, Radiohead \u2013 In Rainbows"
+  },
+  {
+    "meeting_number": "64",
+    "meeting_date": "5/22/2025",
+    "presenter": "Lucas",
+    "album_position": "warm_up_2",
+    "artist": "Manchester Orchestra",
+    "album_title": "A Black Mile to the Surface",
+    "raw_text": "Nirvana \u2013 Incesticide, Manchester Orchestra \u2013 A Black Mile to the Surface, Radiohead \u2013 In Rainbows"
+  },
+  {
+    "meeting_number": "64",
+    "meeting_date": "5/22/2025",
+    "presenter": "Lucas",
+    "album_position": "headliner",
+    "artist": "Radiohead",
+    "album_title": "In Rainbows",
+    "raw_text": "Nirvana \u2013 Incesticide, Manchester Orchestra \u2013 A Black Mile to the Surface, Radiohead \u2013 In Rainbows"
+  },
+  {
+    "meeting_number": "12/17/15",
+    "meeting_date": "Chris",
+    "presenter": "",
+    "album_position": "warm_up_1",
+    "artist": "1st Presentation",
+    "album_title": "deck",
+    "raw_text": "1st Presentation deck"
+  },
+  {
+    "meeting_number": "3/25/16",
+    "meeting_date": "Lucas",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "1st Reference",
+    "album_title": "to \"Resident Musicologist",
+    "raw_text": "1st Reference to \"Resident Musicologist"
+  },
+  {
+    "meeting_number": "3/25/16",
+    "meeting_date": "Lucas",
+    "presenter": "Joe",
+    "album_position": "warm_up_2",
+    "artist": "Joseph Ziegler",
+    "album_title": "report\"",
+    "raw_text": "Joseph Ziegler report\""
+  },
+  {
+    "meeting_number": "5/25/16",
+    "meeting_date": "John",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "2nd Reference",
+    "album_title": "to \"Resident Musicologist\u2026\"",
+    "raw_text": "2nd Reference to \"Resident Musicologist\u2026\""
+  },
+  {
+    "meeting_number": "8/10/16",
+    "meeting_date": "Chris",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "Resident Musicologist",
+    "album_title": "Report reference",
+    "raw_text": "Resident Musicologist Report reference"
+  },
+  {
+    "meeting_number": "6/11/20",
+    "meeting_date": "Chris",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "***Musicology was",
+    "album_title": "tabled until the next meeting",
+    "raw_text": "***Musicology was tabled until the next meeting"
+  },
+  {
+    "meeting_number": "11/19/20",
+    "meeting_date": "Eric",
+    "presenter": "Joe",
+    "album_position": "warm_up_1",
+    "artist": "***unclear what",
+    "album_title": "topic was covered",
+    "raw_text": "***unclear what topic was covered"
+  },
+  {
+    "meeting_number": "4/11/24",
+    "meeting_date": "John",
+    "presenter": "",
+    "album_position": "warm_up_1",
+    "artist": "***No musicology conducted",
+    "album_title": "Changing of the arms",
+    "raw_text": "***No musicology conducted - Changing of the arms"
+  }
+]

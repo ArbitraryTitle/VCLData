@@ -1,0 +1,62 @@
+{
+  "meeting_date": "2025-05-22",
+  "presenter": "Lucas Womack",
+  "cocktail": {
+    "name": "Division Bell",
+    "ingredients": [
+      "1 ounce mezcal (preferably Del Maguey Vida)",
+      "3/4 ounce Aperol",
+      "1/4 ounce maraschino liqueur (preferably Luxardo)",
+      "3/4 ounce lime juice, freshly squeezed"
+    ],
+    "garnish": "grapefruit twist",
+    "preparation": [
+      "Add all ingredients into a shaker with ice and shake until well-chilled",
+      "Strain into a chilled coupe glass",
+      "Express the oils from a grapefruit twist over the drink, then discard the twist"
+    ],
+    "description": "The Division Bell is an update to the gin-based Last Word the substitutes mezcal for gin and Aperol for Green Chartreuse. Created by Phil Ward (who also created the Oaxaca Old Fashioned) for Mayahuel as part of a push to add 20 tequila and mezcal drinks on the menu."
+  },
+  "albums": [
+    {
+      "position": "warm_up_1",
+      "artist": "Nirvana",
+      "title": "Incesticide",
+      "released": "December 14, 1992",
+      "recorded": "January 23, 1988 \u2013 November 9, 1991",
+      "label": "DGC Records",
+      "producers": [
+        "Miti Adhikari",
+        "Dale Griffin",
+        "Jack Endino",
+        "Steve Fisk",
+        "Butch Vig"
+      ],
+      "notes": "The songs that became Incesticide started as a catalog of unreleased songs still owned by Sub Pop records. Collection of b-sides, covers and outtakes. Four different drummers (Chad Channing, Dan Peters, Dale Clover and Dave Grohl). Many songs point to Nirvana's more punk early influences."
+    },
+    {
+      "position": "warm_up_2",
+      "artist": "Manchester Orchestra",
+      "title": "A Black Mile to the Surface",
+      "released": "July 21, 2017",
+      "recorded": "Echo Mountain Recording, Elmwood West, Favorite Gentlemen, The Village",
+      "label": "Loma Vista",
+      "producers": [
+        "Catherine Marks"
+      ],
+      "notes": "Fifth studio album. Cohesive record that interweaves reflections on lead singer's newborn daughter with concept around a small mining town in South Dakota. Shifted to concept album format after working on Swiss Army Man soundtrack. Moved away from post-hardcore sounds with more organic, Americana sounds."
+    },
+    {
+      "position": "headliner",
+      "artist": "Radiohead",
+      "title": "In Rainbows",
+      "released": "October 10, 2007",
+      "recorded": "Halswell House (Somerset), Tottenham House (Wiltshire), The Hospital Club (London), Radiohead's studio (Oxfordshire)",
+      "label": "Self released through XL and TBD (North America)",
+      "producers": [
+        "Nigel Godrich"
+      ],
+      "notes": "Seventh studio album. Self-released without prior notice under Pay-What-You-Want model. Released after three-year hiatus following Hail to the Thief tour. Failed attempt with producer Spike Stent led to management suggesting band break-up; band toured instead which pressured them to finish. Continues layering and electronic influence of Kid A and Amnesiac but with more warmth and less dystopian lyrical content."
+    }
+  ]
+}
