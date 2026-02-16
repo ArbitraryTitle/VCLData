@@ -7,7 +7,8 @@ import subprocess
 import sys
 
 scripts = [
-    'create_album_timeline.py'
+    'create_album_timeline.py',
+    'create_album_decade_breakdown.py'
 ]
 
 print("=" * 70)
@@ -39,4 +40,5 @@ else:
     print("✅ SUCCESS: All visualizations regenerated!")
     print("\nUpdated files:")
     print("   - Music/Viz/album_timeline_full_dates.html")
+    print("   - Music/Viz/album_decade_breakdown.html")
 print("=" * 70)
