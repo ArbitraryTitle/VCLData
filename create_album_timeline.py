@@ -5,7 +5,7 @@ from collections import defaultdict
 import datetime
 
 # load album data
-with open('vcl_albums.json', 'r') as f:
+with open('Music/Data/vcl_albums.json', 'r') as f:
     albums = json.load(f)
 
 # filter out TBA entries and albums without dates
@@ -127,8 +127,8 @@ fig.update_layout(
     annotations=annotations
 )
 
-fig.write_html('album_timeline_full_dates.html')
-print("created album timeline with full dates: album_timeline_full_dates.html")
+fig.write_html('Music/Viz/album_timeline_full_dates.html')
+print("created album timeline with full dates: Music/Viz/album_timeline_full_dates.html")
 
 # stats
 print(f"\ntotal albums on timeline: {len(albums_with_dates)}")

@@ -316,14 +316,14 @@ for entry in albums_data:
 real_albums = [a for a in albums if a['artist'] != 'Various']
 
 # save as csv
-with open('vcl_albums.csv', 'w', newline='', encoding='utf-8') as f:
+with open('Music/Data/vcl_albums.csv', 'w', newline='', encoding='utf-8') as f:
     fieldnames = ['meeting_number', 'meeting_date', 'presenter', 'album_position', 'artist', 'album_title', 'release_year', 'label', 'genre']
     writer = csv.DictWriter(f, fieldnames=fieldnames)
     writer.writeheader()
     writer.writerows(albums)
 
 # save as json
-with open('vcl_albums.json', 'w', encoding='utf-8') as f:
+with open('Music/Data/vcl_albums.json', 'w', encoding='utf-8') as f:
     json.dump(albums, f, indent=2)
 
 print(f"created album database with {len(real_albums)} albums")

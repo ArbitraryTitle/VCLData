@@ -111,7 +111,7 @@ for entry in albums_raw:
         })
 
 # save preliminary data
-with open('albums_preliminary.json', 'w') as f:
+with open('Music/Data/albums_preliminary.json', 'w') as f:
     json.dump(all_albums, f, indent=2)
 
 with open('albums_preliminary.csv', 'w', newline='', encoding='utf-8') as f:
