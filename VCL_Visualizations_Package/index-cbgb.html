@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VCL Data - CBGB Edition</title>
+    <link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Courier+Prime:wght@400;700&family=Bebas+Neue&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Courier Prime', monospace;
+            background: #0a0a0a;
+            color: #f0f0f0;
+            min-height: 100vh;
+            padding: 0;
+            background-image:
+                repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(255,255,255,.03) 2px, rgba(255,255,255,.03) 4px),
+                linear-gradient(180deg, #000000 0%, #1a1a1a 100%);
+        }
+
+        .noise {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            opacity: 0.03;
+            background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIj48ZmlsdGVyIGlkPSJhIj48ZmVUdXJidWxlbmNlIGJhc2VGcmVxdWVuY3k9Ii43NSIgc3RpdGNoVGlsZXM9InN0aXRjaCIgdHlwZT0iZnJhY3RhbE5vaXNlIi8+PGZlQ29sb3JNYXRyaXggdHlwZT0ic2F0dXJhdGUiIHZhbHVlcz0iMCIvPjwvZmlsdGVyPjxwYXRoIGQ9Ik0wIDBoMzAwdjMwMEgweiIgZmlsdGVyPSJ1cmwoI2EpIiBvcGFjaXR5PSIuNSIvPjwvc3ZnPg==');
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            position: relative;
+            z-index: 1;
+        }
+
+        header {
+            background: #000;
+            border-bottom: 4px solid #ff0000;
+            padding: 40px 20px;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(255, 0, 0, 0.3);
+        }
+
+        header::before {
+            content: 'CBGB';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 15em;
+            font-family: 'Bebas Neue', sans-serif;
+            color: rgba(255, 0, 0, 0.05);
+            font-weight: 900;
+            letter-spacing: 20px;
+            z-index: 0;
+        }
+
+        h1 {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 5em;
+            color: #fff;
+            text-align: center;
+            letter-spacing: 8px;
+            text-transform: uppercase;
+            position: relative;
+            z-index: 1;
+            text-shadow:
+                3px 3px 0 #ff0000,
+                6px 6px 0 rgba(0,0,0,0.5);
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-family: 'Special Elite', monospace;
+            text-align: center;
+            color: #ff0000;
+            font-size: 1em;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .sticker {
+            position: absolute;
+            background: #ff0000;
+            color: #000;
+            padding: 5px 10px;
+            font-family: 'Special Elite', monospace;
+            font-size: 0.8em;
+            font-weight: bold;
+            transform: rotate(-5deg);
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+        }
+
+        main {
+            padding: 60px 20px;
+        }
+
+        .section {
+            margin-bottom: 80px;
+            border: 3px solid #333;
+            background: rgba(20, 20, 20, 0.8);
+            padding: 40px 30px;
+            position: relative;
+        }
+
+        .section::before {
+            content: '';
+            position: absolute;
+            top: -3px;
+            left: -3px;
+            right: -3px;
+            bottom: -3px;
+            background: linear-gradient(45deg, #ff0000, transparent, #ff0000);
+            z-index: -1;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .section:hover::before {
+            opacity: 0.3;
+        }
+
+        h2 {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 3em;
+            color: #ff0000;
+            margin-bottom: 30px;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            border-bottom: 3px solid #ff0000;
+            padding-bottom: 10px;
+            text-shadow: 2px 2px 0 rgba(0,0,0,0.5);
+        }
+
+        .viz-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 30px;
+            margin-top: 30px;
+        }
+
+        .viz-card {
+            background: #1a1a1a;
+            border: 2px solid #333;
+            padding: 25px;
+            position: relative;
+            transition: all 0.3s ease;
+            clip-path: polygon(
+                0 0,
+                calc(100% - 15px) 0,
+                100% 15px,
+                100% 100%,
+                0 100%
+            );
+        }
+
+        .viz-card::before {
+            content: '///';
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            color: #ff0000;
+            font-family: 'Courier Prime', monospace;
+            font-weight: bold;
+            font-size: 0.8em;
+            opacity: 0.5;
+        }
+
+        .viz-card:hover {
+            border-color: #ff0000;
+            transform: translateX(5px);
+            box-shadow: -5px 5px 0 #ff0000;
+        }
+
+        .viz-card h3 {
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 1.8em;
+            color: #fff;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .viz-card p {
+            color: #bbb;
+            line-height: 1.6;
+            margin-bottom: 20px;
+            font-size: 0.95em;
+            font-family: 'Courier Prime', monospace;
+        }
+
+        .viz-card a {
+            display: inline-block;
+            background: #ff0000;
+            color: #000;
+            text-decoration: none;
+            padding: 12px 30px;
+            font-weight: 700;
+            font-family: 'Bebas Neue', sans-serif;
+            font-size: 1.2em;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+            border: 2px solid #ff0000;
+            clip-path: polygon(
+                0 0,
+                calc(100% - 10px) 0,
+                100% 10px,
+                100% 100%,
+                0 100%
+            );
+        }
+
+        .viz-card a:hover {
+            background: #000;
+            color: #ff0000;
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(255, 0, 0, 0.5);
+        }
+
+        footer {
+            background: #000;
+            border-top: 4px solid #ff0000;
+            padding: 30px 20px;
+            text-align: center;
+            font-family: 'Special Elite', monospace;
+            color: #888;
+            margin-top: 60px;
+        }
+
+        .graffiti {
+            position: absolute;
+            font-family: 'Special Elite', monospace;
+            color: rgba(255, 0, 0, 0.1);
+            font-size: 0.8em;
+            transform: rotate(-15deg);
+            pointer-events: none;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 3em;
+                letter-spacing: 4px;
+            }
+
+            header::before {
+                font-size: 8em;
+            }
+
+            h2 {
+                font-size: 2em;
+            }
+
+            .viz-grid {
+                grid-template-columns: 1fr;
+            }
+
+            main {
+                padding: 30px 15px;
+            }
+
+            .section {
+                padding: 25px 20px;
+            }
+        }
+
+        .tape {
+            position: absolute;
+            width: 100px;
+            height: 30px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transform: rotate(-5deg);
+            z-index: 10;
+        }
+
+        .tape-1 { top: 10px; left: 20px; }
+        .tape-2 { top: 10px; right: 20px; transform: rotate(5deg); }
+    </style>
+</head>
+<body>
+    <div class="noise"></div>
+    <div class="container">
+        <header>
+            <div class="tape tape-1"></div>
+            <div class="tape tape-2"></div>
+            <h1>VCL Data</h1>
+            <p class="subtitle">/// Visualizations - Live from the Underground ///</p>
+        </header>
+
+        <main>
+            <div class="section">
+                <span class="graffiti" style="top: 20px; right: 30px;">PUNK'S NOT DEAD</span>
+                <h2>Music Visualizations</h2>
+                <div class="viz-grid">
+                    <div class="viz-card">
+                        <h3>Album Timeline</h3>
+                        <p>/// Every album. Every show. No corporate sellouts. ///</p>
+                        <a href="assets/Music/Viz/album_timeline.html">Enter &gt;&gt;</a>
+                    </div>
+
+                    <div class="viz-card">
+                        <h3>Album Timeline (Full Dates)</h3>
+                        <p>/// Complete release data. The whole story. ///</p>
+                        <a href="assets/Music/Viz/album_timeline_full_dates.html">Enter &gt;&gt;</a>
+                    </div>
+
+                    <div class="viz-card">
+                        <h3>Album Decade Breakdown</h3>
+                        <p>/// From '60s to now. Evolution of sound. ///</p>
+                        <a href="assets/Music/Viz/album_decade_breakdown.html">Enter &gt;&gt;</a>
+                    </div>
+
+                    <div class="viz-card">
+                        <h3>Presenter Decade Breakdown</h3>
+                        <p>/// Who loves what era. Musical DNA exposed. ///</p>
+                        <a href="assets/Music/Viz/presenter_decade_breakdown.html">Enter &gt;&gt;</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section">
+                <span class="graffiti" style="bottom: 30px; left: 40px;">STRAIGHT EDGE</span>
+                <h2>Cocktail Visualizations</h2>
+                <div class="viz-grid">
+                    <div class="viz-card">
+                        <h3>Cocktail Dashboard</h3>
+                        <p>/// All the booze data. One place. No watered down stats. ///</p>
+                        <a href="assets/Cocktail/Viz/vcl_cocktail_dashboard.html">Enter &gt;&gt;</a>
+                    </div>
+
+                    <div class="viz-card">
+                        <h3>Cocktail Timeline</h3>
+                        <p>/// When they were born. When we drank 'em. ///</p>
+                        <a href="assets/Cocktail/Viz/cocktail_timeline.html">Enter &gt;&gt;</a>
+                    </div>
+
+                    <div class="viz-card">
+                        <h3>Cocktail Origin Map (Global)</h3>
+                        <p>/// Drinks from around the world. Global spirits. ///</p>
+                        <a href="assets/Cocktail/Viz/cocktail_origin_map.html">Enter &gt;&gt;</a>
+                    </div>
+
+                    <div class="viz-card">
+                        <h3>Cocktail Origin Map (US)</h3>
+                        <p>/// American booze. State by state breakdown. ///</p>
+                        <a href="assets/Cocktail/Viz/cocktail_origin_map_us.html">Enter &gt;&gt;</a>
+                    </div>
+
+                    <div class="viz-card">
+                        <h3>Cocktails by Host</h3>
+                        <p>/// Who poured what. No pretenders allowed. ///</p>
+                        <a href="assets/Cocktail/Viz/cocktails_by_host_stacked.html">Enter &gt;&gt;</a>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>/// VCL DATA - EST. 2025 - NYC STYLE - OMFUG ///</p>
+            <p style="margin-top: 10px; font-size: 0.8em;">Country · BlueGrass · Blues · And Other Music For Uplifting Gormandizers</p>
+        </footer>
+    </div>
+</body>
+</html>

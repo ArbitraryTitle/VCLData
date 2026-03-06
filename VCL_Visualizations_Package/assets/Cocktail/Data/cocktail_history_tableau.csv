@@ -1,0 +1,68 @@
+meeting_number,date,host,cocktail,country_of_origin,city_of_origin,primary_liquor,whiskey_type,year_invented
+1,1/22/2015,Chris,Sazerac,USA,"New Orleans, Louisiana",whiskey,rye,1838
+2,2/26/2015,Joe,Sidecar,France,Paris,brandy,N/A,1920
+3,3/27/2015,John,Rusty Nail,USA,USA,whiskey,scotch,1937
+4,4/23/2015,Chris,Harvey Wallbanger,USA,"Los Angeles, California",vodka,N/A,1952
+5,7/29/2015,Joe,Rum Ball,USA,USA,rum,N/A,1950
+6,11/5/2015,John,Old Fashion,USA,"Louisville, Kentucky",whiskey,bourbon,1880
+7,12/17/2015,Chris,Between the Sheets,France,Paris,brandy,N/A,1930
+8,1/26/2016,Joe,Whiskey Sour,USA,USA,whiskey,bourbon,1870
+9,3/25/2016,Lucas,Negroni,Italy,Florence,gin,N/A,1919
+10,5/26/2016,John,Bloody Mary,France,Paris,vodka,N/A,1921
+11,8/10/2016,Chris,Stinger,USA,USA,brandy,N/A,1890
+12,9/29/2016,Joe,Soft Wink,USA,USA,whiskey,whiskey,1960
+13,12/8/2016,Lucas,The Magnificent Bastard,USA,USA,whiskey,whiskey,2000
+14,1/26/2017,John,Manhattan,USA,"New York, New York",whiskey,rye,1874
+15,3/9/2017,Chris,Vieux Carre,USA,"New Orleans, Louisiana",whiskey,rye,1938
+16,5/4/2017,Joe,Vodka Martini (Kangaroo),USA,USA,vodka,N/A,1950
+17,8/10/2017,Lucas,The Sun Also Sets,USA,USA,whiskey,whiskey,2000
+18,9/14/2017,John,Moscow Mule,USA,"Los Angeles, California",vodka,N/A,1941
+19,10/26/2017,Chris,The Aviation,USA,"New York, New York",gin,N/A,1916
+20,1/25/2018,Joe,Black Russian,Belgium,Brussels,vodka,N/A,1949
+21,3/8/2018,Eric,Black Ginger,USA,USA,whiskey,whiskey,2000
+22,5/10/2018,John,Old Pal,France,Paris,whiskey,rye,1922
+23,8/9/2018,Adam,Hemingway Daiquiri,Cuba,Havana,rum,N/A,1930
+24,11/1/2018,Lucas,The Packie,USA,USA,whiskey,whiskey,2000
+25,1/24/2019,Chris,The Scofflaw,USA,USA,whiskey,rye,1924
+26,3/7/2019,Joe,Hurricane,USA,"New Orleans, Louisiana",rum,N/A,1940
+27,5/2/2019,Eric,Dark & Stormy,Bermuda,Bermuda,rum,N/A,1950
+28,9/5/2019,John,The Kentucky Buck,USA,USA,whiskey,bourbon,1930
+29,10/7/2019,Adam,Harvest Moon Old-Fashioned,USA,USA,whiskey,bourbon,2010
+30,1/23/2020,Lucas,French 75,France,Paris,gin,N/A,1915
+31,6/11/2020,Chris,Ward 8,USA,"Boston, Massachusetts",whiskey,rye,1898
+32,8/6/2020,Joe,Bourbon Tasting – Beam's Choice Collector's Edition 50+; Carleton Tower 50+; Woodford Reserve Double Oaked,USA,Kentucky,whiskey,bourbon,2000
+33,9/24/2020,John,Vieux Carre,USA,"New Orleans, Louisiana",whiskey,rye,1938
+34,11/19/2020,Eric,Balvenie 14 Year Old Caribbean Cask Single Malt Scotch,Scotland,"Dufftown, Scotland",whiskey,scotch,2000
+35,3/11/2021,Adam,Martinez,USA,"San Francisco, California",gin,N/A,1887
+36,5/13/2021,Chris,El Presidente,Cuba,Havana,rum,N/A,1920
+37,6/10/2021,Joe,The Penicillin,USA,"New York, New York",whiskey,scotch,2005
+38,9/7/2021,Eric,Blood + Sand,UK,London,whiskey,scotch,1930
+39,11/23/2021,John,81 Old Fashion,USA,USA,whiskey,bourbon,2000
+40,04/14/2022,Adam,Toronto,Canada,"Toronto, Ontario",whiskey,rye,1922
+41,6/9/2022,Chris,Tuxedo No. 2,USA,"New York, New York",gin,N/A,1882
+42,7/14/2022,Joe,Brown Derby,USA,"Los Angeles, California",whiskey,bourbon,1930
+43,8/11/2022,Eric,Painkiller,British Virgin Islands,Tortola,rum,N/A,1970
+44,9/15/2022,John,Stone Fence,USA,USA,whiskey,whiskey,1775
+45,11/17/2022,Adam,Cynar Flip,USA,USA,other,N/A,2010
+46,1/12/2023,Lucas,Paloma,Mexico,Mexico,tequila,N/A,1950
+47,3/9/2023,Chris,The Clover Club,USA,"Philadelphia, Pennsylvania",gin,N/A,1910
+48,4/20/2023,Joe,The New Fashioned,USA,USA,whiskey,bourbon,2010
+49,6/8/2023,Eric,Eric's Fancy,USA,USA,other,N/A,2020
+50,7/13/2023,John,El Diablo,USA,USA,tequila,N/A,1946
+51,9/21/2023,Adam,Ginger Pear Bourbon,USA,USA,whiskey,bourbon,2015
+52,10/19/2023,Lucas,Late Night Flight,USA,USA,other,N/A,2020
+53,11/9/2023,Chris,Turf Club,USA,USA,gin,N/A,1894
+54,1/10/2024,Joe,The Cape Codder,USA,"Cape Cod, Massachusetts",vodka,N/A,1945
+55,3/14/2024,Eric,Gold Rush,USA,"New York, New York",whiskey,bourbon,2001
+56,4/11/2024,John,Godfather,USA,USA,whiskey,scotch,1972
+57,5/9/2024,Adam,Oaxaca Old Fashioned,USA,"New York, New York",tequila,N/A,2007
+58,9/12/2024,Lucas,Remember the Maine,USA,"New York, New York",whiskey,rye,1899
+60,10/10/2024,Chris,Toronto Sour,Canada,"Toronto, Ontario",whiskey,rye,1922
+61,11/21/2024,Joe,Blackberry Smash,USA,USA,whiskey,bourbon,2010
+62,1/9/2025,John,Pendergast,USA,USA,whiskey,whiskey,2020
+63,3/13/2025,Adam,Bubby's Barrel-Aged Manhattan - Elijah Craig Small Batch Edition,USA,USA,whiskey,bourbon,2020
+64,5/22/2025,Lucas,Division Bell,USA,"New York, New York",tequila,N/A,2009
+65,6/12/2025,Chris,Paper Plane,USA,"Chicago, Illinois",whiskey,bourbon,2007
+66,9/11/2025,Joe,Maple Old Fashioned,USA,USA,whiskey,bourbon,2010
+67,11/13/2025,John,Mexican Firing Squad,Mexico,Mexico City,tequila,N/A,1937
+68,1/8/2026,Adam,C&B Old Fashioned,USA,"New York, New York",gin,N/A,2011
