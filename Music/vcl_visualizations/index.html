@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VCL Music Album Visualizations</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            width: 100%;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            padding: 50px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 15px;
+            font-size: 2.5em;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 50px;
+            font-size: 1.1em;
+        }
+
+        .viz-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+
+        .viz-card {
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            border-radius: 15px;
+            padding: 30px;
+            text-decoration: none;
+            color: #333;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .viz-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            border-color: #667eea;
+        }
+
+        .viz-card h2 {
+            margin-bottom: 15px;
+            color: #667eea;
+            font-size: 1.5em;
+        }
+
+        .viz-card p {
+            color: #555;
+            line-height: 1.6;
+        }
+
+        .additional-files {
+            margin-top: 40px;
+            padding-top: 30px;
+            border-top: 2px solid #e0e0e0;
+        }
+
+        .additional-files h3 {
+            color: #333;
+            margin-bottom: 15px;
+        }
+
+        .additional-files ul {
+            list-style: none;
+        }
+
+        .additional-files li {
+            margin-bottom: 10px;
+        }
+
+        .additional-files a {
+            color: #667eea;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .additional-files a:hover {
+            color: #764ba2;
+            text-decoration: underline;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            color: #999;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎵 VCL Music Album Visualizations</h1>
+        <p class="subtitle">Interactive data visualizations of album presentations</p>
+
+        <div class="viz-grid">
+            <a href="timeline_index.html" class="viz-card">
+                <h2>📅 Album Timeline</h2>
+                <p>Explore the complete timeline of all album presentations with full date information, showing when each album was presented throughout VCL's history.</p>
+            </a>
+
+            <a href="breakdown_index.html" class="viz-card">
+                <h2>📊 Presenter Breakdown</h2>
+                <p>Analyze album presentations by decade and presenter, revealing patterns and preferences in music selection across different time periods.</p>
+            </a>
+        </div>
+
+        <div class="additional-files">
+            <h3>Additional Resources</h3>
+            <ul>
+                <li>📁 <a href="assets/album_decade_breakdown.html">Album Decade Breakdown</a> - Alternative decade analysis view</li>
+                <li>📁 <a href="assets/album_timeline.html">Album Timeline (Alternate)</a> - Simplified timeline view</li>
+                <li>📁 <a href="assets/vcl_albums.csv">Raw Data (CSV)</a> - Download the source data</li>
+            </ul>
+        </div>
+
+        <div class="footer">
+            <p>VCL Music Album Database | Generated March 2026</p>
+        </div>
+    </div>
+</body>
+</html>

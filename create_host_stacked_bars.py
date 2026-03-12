@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 from collections import defaultdict
 
 # load cocktail data
-with open('cocktail_history.json', 'r') as f:
+with open('Cocktail/Data/cocktail_history.json', 'r') as f:
     data = json.load(f)
 
 df = pd.DataFrame(data)
@@ -123,7 +123,7 @@ fig.update_layout(
     margin=dict(t=100)
 )
 
-fig.write_html('cocktails_by_host_stacked.html')
+fig.write_html('Cocktail/Viz/cocktails_by_host_stacked.html')
 print("created interactive stacked bar chart: cocktails_by_host_stacked.html")
 
 # print summary stats

@@ -1,0 +1,122 @@
+[
+  {
+    "city": "New Orleans, LA",
+    "lat": 29.9511,
+    "lon": -90.0715,
+    "count": 4
+  },
+  {
+    "city": "Paris, France",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "count": 5
+  },
+  {
+    "city": "USA (unknown city)",
+    "lat": 39.8283,
+    "lon": -98.5795,
+    "count": 27
+  },
+  {
+    "city": "Los Angeles, CA",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "count": 3
+  },
+  {
+    "city": "Louisville, KY",
+    "lat": 38.2527,
+    "lon": -85.7585,
+    "count": 1
+  },
+  {
+    "city": "Florence, Italy",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "count": 1
+  },
+  {
+    "city": "New York, NY",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "count": 9
+  },
+  {
+    "city": "Brussels, Belgium",
+    "lat": 50.8503,
+    "lon": 4.3517,
+    "count": 1
+  },
+  {
+    "city": "Havana, Cuba",
+    "lat": 23.1136,
+    "lon": -82.3666,
+    "count": 2
+  },
+  {
+    "city": "Bermuda",
+    "lat": 32.3078,
+    "lon": -64.7505,
+    "count": 1
+  },
+  {
+    "city": "Boston, MA",
+    "lat": 42.3601,
+    "lon": -71.0589,
+    "count": 1
+  },
+  {
+    "city": "Kentucky, USA",
+    "lat": 37.8393,
+    "lon": -84.27,
+    "count": 1
+  },
+  {
+    "city": "Dufftown, Scotland",
+    "lat": 57.4486,
+    "lon": -3.1272,
+    "count": 1
+  },
+  {
+    "city": "San Francisco, CA",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "count": 1
+  },
+  {
+    "city": "London, UK",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "count": 1
+  },
+  {
+    "city": "Toronto, Canada",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "count": 2
+  },
+  {
+    "city": "Tortola, BVI",
+    "lat": 18.4207,
+    "lon": -64.64,
+    "count": 1
+  },
+  {
+    "city": "Mexico (unknown city)",
+    "lat": 23.6345,
+    "lon": -102.5528,
+    "count": 1
+  },
+  {
+    "city": "Philadelphia, PA",
+    "lat": 39.9526,
+    "lon": -75.1652,
+    "count": 1
+  },
+  {
+    "city": "Cape Cod, MA",
+    "lat": 41.6688,
+    "lon": -70.2962,
+    "count": 1
+  }
+]

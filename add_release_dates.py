@@ -3,7 +3,7 @@ import json
 import csv
 
 # load current album data
-with open('vcl_albums.json', 'r') as f:
+with open('Music/Data/vcl_albums.json', 'r') as f:
     albums = json.load(f)
 
 # full release dates for all albums
@@ -176,10 +176,10 @@ for album in albums:
         print(f"Warning: No release date for {album['artist']} - {album['album_title']}")
 
 # save updated data
-with open('vcl_albums.json', 'w', encoding='utf-8') as f:
+with open('Music/Data/vcl_albums.json', 'w', encoding='utf-8') as f:
     json.dump(albums, f, indent=2)
 
-with open('vcl_albums.csv', 'w', newline='', encoding='utf-8') as f:
+with open('Music/Data/vcl_albums.csv', 'w', newline='', encoding='utf-8') as f:
     fieldnames = ['meeting_number', 'meeting_date', 'presenter', 'album_position',
                   'artist', 'album_title', 'release_year', 'release_date', 'label', 'genre', 'micro_genre',
                   'nation_of_origin', 'city_of_origin']

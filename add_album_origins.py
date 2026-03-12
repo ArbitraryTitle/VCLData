@@ -4,7 +4,7 @@ import csv
 from collections import Counter
 
 # load current album data
-with open('vcl_albums.json', 'r') as f:
+with open('Music/Data/vcl_albums.json', 'r') as f:
     albums = json.load(f)
 
 # band/artist origins - manually researched
@@ -172,10 +172,10 @@ for album in albums:
         print(f"Warning: No origin data for '{artist}'")
 
 # save updated data
-with open('vcl_albums.json', 'w', encoding='utf-8') as f:
+with open('Music/Data/vcl_albums.json', 'w', encoding='utf-8') as f:
     json.dump(albums, f, indent=2)
 
-with open('vcl_albums.csv', 'w', newline='', encoding='utf-8') as f:
+with open('Music/Data/vcl_albums.csv', 'w', newline='', encoding='utf-8') as f:
     fieldnames = ['meeting_number', 'meeting_date', 'presenter', 'album_position',
                   'artist', 'album_title', 'release_year', 'label', 'genre',
                   'nation_of_origin', 'city_of_origin']
